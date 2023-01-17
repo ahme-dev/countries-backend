@@ -1,10 +1,19 @@
 [
   {
     "username": "ahmed",
-    "password": "yes"
+    "password": "yes",
+    "results": [
+      {
+        "type": "flags",
+        "correctAnswer": true,
+        "userAnswer": true,
+        "isCorrect": true
+      }
+    ]
   },
   {
     "username": "new",
-    "password": "new"
+    "password": "new",
+    "results": []
   }
 ]
