@@ -4,7 +4,12 @@ import { db } from "../index.js";
 const flagsRouter = Router();
 
 flagsRouter.route("/").get(async (req, res) => {
-	res.json(db.data);
+	res.json(
+		db.data.map((el) => {
+			delete el.answer;
+			return el;
+		}),
+	);
 });
 
 flagsRouter.route("/:id").get(async (req, res) => {
