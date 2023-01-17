@@ -15,13 +15,13 @@ usersRouter
 	.route("/")
 	.get(async (req, res) => {
 		// remove passwords from returned users list
-		let usersWithoutPassword = [...usersDB.data].map((el) => {
-			let newEl = { ...el };
-			delete newEl.password;
-			return { newElement: newEl };
+		let clonedUsers = JSON.parse(JSON.stringify(usersDB.data));
+		let usersWithoutPass = clonedUsers.map((el) => {
+			delete el.password;
+			return el;
 		});
 
-		res.json(usersWithoutPassword);
+		res.json(usersWithoutPass);
 	})
 	.post(async (req, res) => {
 		// return if username and password are not provided
