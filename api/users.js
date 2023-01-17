@@ -15,8 +15,8 @@ usersRouter
 	.route("/")
 	.get(async (req, res) => {
 		// remove passwords from returned users list
-		let clonedUsers = JSON.parse(JSON.stringify(usersDB.data));
-		let usersWithoutPass = clonedUsers.map((el) => {
+		let usersClone = JSON.parse(JSON.stringify(usersDB.data));
+		let usersWithoutPass = usersClone.map((el) => {
 			delete el.password;
 			return el;
 		});
