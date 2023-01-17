@@ -22,7 +22,9 @@ app.all("*", (req, res) => {
 	res.status(404);
 });
 
+let PORT = process.env.PORT || 3000;
+
 // run server
-app.listen(3000, () => {
-	"Running...";
+app.listen(PORT, () => {
+	`Running on (${PORT})`;
 });
