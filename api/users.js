@@ -16,11 +16,12 @@ usersRouter
 	.get(async (req, res) => {
 		// remove passwords from returned users list
 		let usersWithoutPassword = [...usersDB.data].map((el) => {
-			delete el.password;
-			return el;
+			let newEl = { ...el };
+			delete newEl.password;
+			return { newElement: newEl };
 		});
 
-		res.json(usersDB.data);
+		res.json(usersWithoutPassword);
 	})
 	.post(async (req, res) => {
 		// return if username and password are not provided
