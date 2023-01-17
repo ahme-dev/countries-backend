@@ -26,8 +26,9 @@ flagsRouter.route("/:id").get(async (req, res) => {
 	// return question if no answer is given
 	if (!req.query.answer) {
 		let question = flagsDB.data[id];
-		delete question.answer;
-		return res.json(question);
+		let questionCopy = JSON.parse(JSON.stringify(question));
+		delete questionCopy.answer;
+		return res.json(questionCopy);
 	}
 
 	let correctAnswer = flagsDB.data[id].answer;
