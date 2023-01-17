@@ -10,7 +10,15 @@ flagsRouter.route("/").get(async (req, res) => {
 flagsRouter.route("/:id").get(async (req, res) => {
 	let id = req.params.id;
 
-	res.json(db.data[id]);
+	// return if no answer is given
+	let answer = req.query.answer;
+	if (!answer) return res.sendStatus(400);
+
+	let correctAnswer = db.data[id].answer;
+	let userAnswer = answer;
+	let isCorrect = correctAnswer === userAnswer;
+
+	res.json({ isCorrect, correctAnswer, userAnswer });
 });
 
 export { flagsRouter };
