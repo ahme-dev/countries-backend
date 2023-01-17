@@ -1,11 +1,15 @@
 import express, { json } from "express";
 import { flagsRouter } from "./api/flags.js";
 import { usersRouter } from "./api/users.js";
+import cors from "cors";
 const app = express();
 
 // middleware
 
-app.use(json());
+app.use(
+	json(),
+	cors(), // to be configured later
+);
 
 // routers
 
