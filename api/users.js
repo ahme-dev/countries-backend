@@ -51,8 +51,8 @@ usersRouter
 		if (!user) return res.sendStatus(404);
 
 		// make clone without password
-		let userClone = JSON.parse(JSON.stringify(user));
-		let userWithoutPass = delete userClone.password;
+		let userWithoutPass = JSON.parse(JSON.stringify(user));
+		delete userWithoutPass.password;
 
 		res.json(userWithoutPass);
 	})
