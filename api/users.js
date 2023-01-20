@@ -31,7 +31,14 @@ usersRouter
 		let newUser = {
 			username: req.body.username,
 			password: req.body.password,
-			results: [],
+			flags: {
+				index: 0,
+				answers: [],
+			},
+			capitals: {
+				index: 0,
+				answers: [],
+			},
 		};
 
 		// add new user into list
