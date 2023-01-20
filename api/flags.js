@@ -1,37 +1,39 @@
 import { Router } from "express";
-import { Low } from "lowdb";
-import { JSONFile } from "lowdb/node";
-
-// config and read lowdb
-const flagsDB = new Low(new JSONFile("data/flags.json"));
-await flagsDB.read();
+import { getDB } from "../data/db.js";
 
 // create router
+
 const flagsRouter = Router();
 
-// routes
+// route handlers
 
-flagsRouter.route("/").get(async (req, res) => {
-	let data = flagsDB.data;
+flagsRouter.route("/:lang/").get(async (req, res) => {
+	let lang = req.params.lang;
+	console.log(lang);
 
-	res.json(data);
+	let db = await getDB(`data/${lang}/flags.json`);
+
+	res.json(db.data);
 });
 
-flagsRouter.route("/:id").get(async (req, res) => {
+flagsRouter.route("/:lang/:id").get(async (req, res) => {
 	let id = req.params.id;
+	let lang = req.params.lang;
+
+	let db = await getDB(`data/${lang}/flags.json`);
 
 	// return if out of length
 	if (id > 520) return res.sendStatus(404);
 
 	// return question if no answer is given
 	if (!req.query.answer) {
-		let question = flagsDB.data[id];
+		let question = db.data[id];
 		let questionClone = JSON.parse(JSON.stringify(question));
 		delete questionClone.answer;
 		return res.json(questionClone);
 	}
 
-	let correctAnswer = flagsDB.data[id].answer;
+	let correctAnswer = db.data[id].answer;
 	let userAnswer = req.query.answer;
 	let isCorrect = correctAnswer === userAnswer;
 
