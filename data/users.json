@@ -4,28 +4,25 @@
 		"password": "yes",
 		"flags": {
 			"index": 0,
-			"results": [
+			"answers": [
 				{
-					"correctAnswer": true,
-					"userAnswer": true,
-					"isCorrect": true
+					"correctAnswer": "Iraq",
+					"userAnswer": "Iraq",
+					"isCorrect": true,
+					"flag": ""
 				}
 			]
 		},
 		"capitals": {
 			"index": 0,
-			"results": [
+			"answers": [
 				{
-					"correctAnswer": true,
-					"userAnswer": true,
-					"isCorrect": true
+					"correctAnswer": "Baghdad",
+					"userAnswer": "Baghdad",
+					"isCorrect": true,
+					"flag": ""
 				}
 			]
 		}
-	},
-	{
-		"username": "new",
-		"password": "new",
-		"results": []
 	}
 ]

@@ -9,7 +9,6 @@ const flagsRouter = Router();
 
 flagsRouter.route("/:lang/").get(async (req, res) => {
 	let lang = req.params.lang;
-	console.log(lang);
 
 	let db = await getDB(`data/${lang}/flags.json`);
 
