@@ -50,7 +50,11 @@ usersRouter
 		// return if user not found
 		if (!user) return res.sendStatus(404);
 
-		res.json({ username: user.username });
+		// make clone without password
+		let userClone = JSON.parse(JSON.stringify(user));
+		let userWithoutPass = delete userClone.password;
+
+		res.json(userWithoutPass);
 	})
 
 	.patch(async (req, res) => {
