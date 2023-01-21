@@ -19,7 +19,7 @@ app.use("/users", usersRouter);
 
 // not found routes
 app.all("*", (req, res) => {
-	return res.status(404);
+	return res.sendStatus(404);
 });
 
 // run
