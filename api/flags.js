@@ -1,5 +1,10 @@
 import { Router } from "express";
-import { getDB } from "../data/db.js";
+import { Low } from "lowdb";
+import { JSONFile } from "lowdb/node";
+
+// config and read lowdb
+const db = new Low(new JSONFile("data/flags.json"));
+await db.read();
 
 // create router
 
@@ -7,19 +12,12 @@ const flagsRouter = Router();
 
 // route handlers
 
-flagsRouter.route("/:lang/").get(async (req, res) => {
-	let lang = req.params.lang;
-
-	let db = await getDB(`data/${lang}/flags.json`);
-
+flagsRouter.route("/").get(async (req, res) => {
 	res.json(db.data);
 });
 
-flagsRouter.route("/:lang/:id").get(async (req, res) => {
+flagsRouter.route("/:id").get(async (req, res) => {
 	let id = req.params.id;
-	let lang = req.params.lang;
-
-	let db = await getDB(`data/${lang}/flags.json`);
 
 	// return if out of length
 	if (id > 520) return res.sendStatus(404);

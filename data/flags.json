@@ -1,0 +1,6852 @@
+{
+	"en": [
+		{
+			"flag": "https://flagcdn.com/256x192/mg.png",
+			"variants": ["Kazakhstan", "Madagascar", "Eritrea", "Niger"],
+			"answer": "Madagascar"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/iq.png",
+			"variants": ["Madagascar", "Costa Rica", "Iraq", "United Kingdom"],
+			"answer": "Iraq"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fj.png",
+			"variants": ["Andorra", "Albania", "Estonia", "Fiji"],
+			"answer": "Fiji"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gl.png",
+			"variants": ["Greenland", "Ethiopia", "Romania", "Martinique"],
+			"answer": "Greenland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ro.png",
+			"variants": ["Romania", "Sri Lanka", "Tunisia", "El Salvador"],
+			"answer": "Romania"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cc.png",
+			"variants": [
+				"Mayotte",
+				"United Kingdom",
+				"Cocos [Keeling] Islands",
+				"Nigeria"
+			],
+			"answer": "Cocos [Keeling] Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pw.png",
+			"variants": ["Liechtenstein", "Philippines", "Palau", "Seychelles"],
+			"answer": "Palau"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sv.png",
+			"variants": ["El Salvador", "New Zealand", "Bolivia", "French Guiana"],
+			"answer": "El Salvador"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/aw.png",
+			"variants": ["Samoa", "Slovakia", "Brazil", "Aruba"],
+			"answer": "Aruba"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rs.png",
+			"variants": ["Tokelau", "Spain", "Serbia", "Kiribati"],
+			"answer": "Serbia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cg.png",
+			"variants": [
+				"United Arab Emirates",
+				"Cyprus",
+				"Republic of the Congo",
+				"Bhutan"
+			],
+			"answer": "Republic of the Congo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ec.png",
+			"variants": ["Sweden", "Ethiopia", "Ecuador", "Pakistan"],
+			"answer": "Ecuador"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/us.png",
+			"variants": ["United States", "Micronesia", "Vietnam", "Myanmar [Burma]"],
+			"answer": "United States"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nl.png",
+			"variants": ["Netherlands", "Kiribati", "Jordan", "Ukraine"],
+			"answer": "Netherlands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vg.png",
+			"variants": [
+				"Barbados",
+				"British Virgin Islands",
+				"Turkmenistan",
+				"Azerbaijan"
+			],
+			"answer": "British Virgin Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pn.png",
+			"variants": ["Niger", "Barbados", "Pitcairn Islands", "Libya"],
+			"answer": "Pitcairn Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gb.png",
+			"variants": [
+				"Isle of Man",
+				"Sri Lanka",
+				"United Kingdom",
+				"Bosnia and Herzegovina"
+			],
+			"answer": "United Kingdom"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tz.png",
+			"variants": ["Malawi", "Nepal", "Tanzania", "Serbia"],
+			"answer": "Tanzania"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lr.png",
+			"variants": ["Falkland Islands", "Ivory Coast", "Bonaire", "Liberia"],
+			"answer": "Liberia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dm.png",
+			"variants": ["United Arab Emirates", "Greenland", "Cambodia", "Dominica"],
+			"answer": "Dominica"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["Monaco", "Azerbaijan", "Iran", "Nauru"],
+			"answer": "Iran"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ly.png",
+			"variants": ["Falkland Islands", "Zambia", "Libya", "Ecuador"],
+			"answer": "Libya"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vn.png",
+			"variants": ["Vietnam", "Morocco", "Palau", "Cameroon"],
+			"answer": "Vietnam"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ls.png",
+			"variants": ["Isle of Man", "Sierra Leone", "Lesotho", "Sudan"],
+			"answer": "Lesotho"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ag.png",
+			"variants": [
+				"Colombia",
+				"Comoros",
+				"Saint Barthélemy",
+				"Antigua and Barbuda"
+			],
+			"answer": "Antigua and Barbuda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dk.png",
+			"variants": ["Mongolia", "Palestine", "Denmark", "Fiji"],
+			"answer": "Denmark"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/am.png",
+			"variants": ["Kuwait", "Armenia", "Barbados", "Poland"],
+			"answer": "Armenia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bn.png",
+			"variants": ["Thailand", "Brunei", "Northern Mariana Islands", "Palau"],
+			"answer": "Brunei"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ht.png",
+			"variants": ["Hong Kong", "Gambia", "Haiti", "Afghanistan"],
+			"answer": "Haiti"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/eh.png",
+			"variants": ["Western Sahara", "Iceland", "Kiribati", "Zambia"],
+			"answer": "Western Sahara"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lb.png",
+			"variants": ["Lebanon", "Macedonia", "Sint Maarten", "Gambia"],
+			"answer": "Lebanon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vu.png",
+			"variants": [
+				"Saint Vincent and the Grenadines",
+				"São Tomé and Príncipe",
+				"Vanuatu",
+				"Sri Lanka"
+			],
+			"answer": "Vanuatu"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bw.png",
+			"variants": ["Botswana", "Turkmenistan", "Yemen", "Western Sahara"],
+			"answer": "Botswana"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zw.png",
+			"variants": ["Zimbabwe", "Bermuda", "Montserrat", "Mozambique"],
+			"answer": "Zimbabwe"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cy.png",
+			"variants": [
+				"Cyprus",
+				"Libya",
+				"Saint Vincent and the Grenadines",
+				"Senegal"
+			],
+			"answer": "Cyprus"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/im.png",
+			"variants": [
+				"South Korea",
+				"Isle of Man",
+				"Wallis and Futuna",
+				"Afghanistan"
+			],
+			"answer": "Isle of Man"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sa.png",
+			"variants": [
+				"Bosnia and Herzegovina",
+				"Réunion",
+				"Lebanon",
+				"Saudi Arabia"
+			],
+			"answer": "Saudi Arabia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ba.png",
+			"variants": [
+				"Palestine",
+				"Albania",
+				"Puerto Rico",
+				"Bosnia and Herzegovina"
+			],
+			"answer": "Bosnia and Herzegovina"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/co.png",
+			"variants": ["Saint Martin", "Hungary", "Niue", "Colombia"],
+			"answer": "Colombia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kr.png",
+			"variants": ["Falkland Islands", "Bahrain", "South Korea", "Iran"],
+			"answer": "South Korea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cz.png",
+			"variants": [
+				"Western Sahara",
+				"Czechia",
+				"French Southern Territories",
+				"Zambia"
+			],
+			"answer": "Czechia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ru.png",
+			"variants": [
+				"Papua New Guinea",
+				"Russia",
+				"Guinea",
+				"Svalbard and Jan Mayen"
+			],
+			"answer": "Russia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sc.png",
+			"variants": ["Slovakia", "Seychelles", "Liberia", "South Sudan"],
+			"answer": "Seychelles"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mt.png",
+			"variants": ["Peru", "Malta", "Greece", "Falkland Islands"],
+			"answer": "Malta"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sa.png",
+			"variants": ["Bahrain", "Switzerland", "Saudi Arabia", "Liechtenstein"],
+			"answer": "Saudi Arabia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mf.png",
+			"variants": [
+				"Paraguay",
+				"Saint Martin",
+				"Saint Pierre and Miquelon",
+				"Brunei"
+			],
+			"answer": "Saint Martin"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cv.png",
+			"variants": [
+				"Guinea-Bissau",
+				"Guadeloupe",
+				"Cape Verde",
+				"Western Sahara"
+			],
+			"answer": "Cape Verde"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/si.png",
+			"variants": ["Slovenia", "United Arab Emirates", "Pakistan", "Turkey"],
+			"answer": "Slovenia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ye.png",
+			"variants": ["Bulgaria", "Jamaica", "Colombia", "Yemen"],
+			"answer": "Yemen"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ni.png",
+			"variants": ["Bulgaria", "Fiji", "Zambia", "Nicaragua"],
+			"answer": "Nicaragua"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": ["Mauritania", "Denmark", "Guatemala", "Burkina Faso"],
+			"answer": "Burkina Faso"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tj.png",
+			"variants": ["Tajikistan", "Mayotte", "South Africa", "Monaco"],
+			"answer": "Tajikistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/eh.png",
+			"variants": [
+				"Equatorial Guinea",
+				"Turkey",
+				"Western Sahara",
+				"Lithuania"
+			],
+			"answer": "Western Sahara"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/as.png",
+			"variants": ["American Samoa", "Malawi", "Denmark", "Ethiopia"],
+			"answer": "American Samoa"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dm.png",
+			"variants": ["Madagascar", "East Timor", "Dominica", "Spain"],
+			"answer": "Dominica"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": ["Uganda", "Greenland", "Japan", "American Samoa"],
+			"answer": "Uganda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ua.png",
+			"variants": ["Serbia", "Anguilla", "Ukraine", "Hong Kong"],
+			"answer": "Ukraine"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kw.png",
+			"variants": [
+				"North Korea",
+				"Kuwait",
+				"Saint Kitts and Nevis",
+				"Macedonia"
+			],
+			"answer": "Kuwait"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bj.png",
+			"variants": ["Western Sahara", "Saint Martin", "Benin", "South Sudan"],
+			"answer": "Benin"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/yt.png",
+			"variants": [
+				"Cook Islands",
+				"Mayotte",
+				"Belgium",
+				"Saint Pierre and Miquelon"
+			],
+			"answer": "Mayotte"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["Pakistan", "Iceland", "Djibouti", "Iran"],
+			"answer": "Iran"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ba.png",
+			"variants": [
+				"Bosnia and Herzegovina",
+				"Bermuda",
+				"Turkmenistan",
+				"Cayman Islands"
+			],
+			"answer": "Bosnia and Herzegovina"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hk.png",
+			"variants": ["Tonga", "Hong Kong", "Romania", "Czechia"],
+			"answer": "Hong Kong"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ls.png",
+			"variants": ["Chad", "Ecuador", "Lesotho", "Turkey"],
+			"answer": "Lesotho"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/st.png",
+			"variants": ["Austria", "São Tomé and Príncipe", "Kosovo", "Bahamas"],
+			"answer": "São Tomé and Príncipe"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gt.png",
+			"variants": ["Austria", "Sudan", "Guatemala", "Thailand"],
+			"answer": "Guatemala"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pw.png",
+			"variants": ["Malta", "Russia", "Philippines", "Palau"],
+			"answer": "Palau"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ad.png",
+			"variants": ["Kiribati", "Aruba", "Andorra", "Denmark"],
+			"answer": "Andorra"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ye.png",
+			"variants": ["Morocco", "Yemen", "Lesotho", "Palau"],
+			"answer": "Yemen"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["Saudi Arabia", "Algeria", "Morocco", "Mali"],
+			"answer": "Algeria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bb.png",
+			"variants": ["Barbados", "Rwanda", "Bonaire", "Guyana"],
+			"answer": "Barbados"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kg.png",
+			"variants": ["Zambia", "Latvia", "Kyrgyzstan", "Honduras"],
+			"answer": "Kyrgyzstan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/yt.png",
+			"variants": ["Namibia", "Kosovo", "Mayotte", "United Kingdom"],
+			"answer": "Mayotte"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gm.png",
+			"variants": ["Puerto Rico", "Lithuania", "El Salvador", "Gambia"],
+			"answer": "Gambia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/im.png",
+			"variants": [
+				"Bangladesh",
+				"Cayman Islands",
+				"Isle of Man",
+				"Northern Mariana Islands"
+			],
+			"answer": "Isle of Man"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gd.png",
+			"variants": ["Djibouti", "Nicaragua", "Grenada", "Moldova"],
+			"answer": "Grenada"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zw.png",
+			"variants": ["Argentina", "Malta", "Saint Helena", "Zimbabwe"],
+			"answer": "Zimbabwe"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/re.png",
+			"variants": ["Samoa", "Réunion", "Germany", "Ireland"],
+			"answer": "Réunion"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tl.png",
+			"variants": [
+				"Australia",
+				"East Timor",
+				"São Tomé and Príncipe",
+				"Suriname"
+			],
+			"answer": "East Timor"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ky.png",
+			"variants": ["Eritrea", "Cayman Islands", "Taiwan", "Nepal"],
+			"answer": "Cayman Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ls.png",
+			"variants": ["Slovenia", "Lesotho", "Uganda", "Kazakhstan"],
+			"answer": "Lesotho"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vi.png",
+			"variants": [
+				"U.S. Virgin Islands",
+				"Uzbekistan",
+				"Ghana",
+				"Northern Mariana Islands"
+			],
+			"answer": "U.S. Virgin Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tt.png",
+			"variants": ["Trinidad and Tobago", "Denmark", "Tajikistan", "Uruguay"],
+			"answer": "Trinidad and Tobago"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/au.png",
+			"variants": ["Switzerland", "Australia", "Belize", "Philippines"],
+			"answer": "Australia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["Algeria", "Panama", "Grenada", "Gibraltar"],
+			"answer": "Algeria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/be.png",
+			"variants": ["Poland", "Montenegro", "Lithuania", "Belgium"],
+			"answer": "Belgium"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tg.png",
+			"variants": ["Burundi", "Costa Rica", "Malta", "Togo"],
+			"answer": "Togo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sy.png",
+			"variants": ["Syria", "Greenland", "France", "Kuwait"],
+			"answer": "Syria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vg.png",
+			"variants": [
+				"Myanmar [Burma]",
+				"British Virgin Islands",
+				"Germany",
+				"Australia"
+			],
+			"answer": "British Virgin Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bi.png",
+			"variants": ["Cayman Islands", "Ethiopia", "Burundi", "Ukraine"],
+			"answer": "Burundi"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ht.png",
+			"variants": ["Burkina Faso", "Singapore", "Haiti", "Jamaica"],
+			"answer": "Haiti"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pe.png",
+			"variants": ["Malta", "Peru", "Italy", "Lithuania"],
+			"answer": "Peru"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gt.png",
+			"variants": [
+				"Republic of the Congo",
+				"Guatemala",
+				"Norway",
+				"Tajikistan"
+			],
+			"answer": "Guatemala"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dj.png",
+			"variants": [
+				"Djibouti",
+				"Turks and Caicos Islands",
+				"Chile",
+				"New Caledonia"
+			],
+			"answer": "Djibouti"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tn.png",
+			"variants": ["Azerbaijan", "Tunisia", "Brazil", "Chile"],
+			"answer": "Tunisia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hk.png",
+			"variants": ["Réunion", "Cameroon", "Hong Kong", "Palau"],
+			"answer": "Hong Kong"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["Kenya", "Djibouti", "French Polynesia", "Tanzania"],
+			"answer": "French Polynesia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["Puerto Rico", "Panama", "Iran", "Liechtenstein"],
+			"answer": "Iran"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/to.png",
+			"variants": ["Belarus", "Tonga", "Maldives", "Botswana"],
+			"answer": "Tonga"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vn.png",
+			"variants": ["Thailand", "Vietnam", "Uzbekistan", "Morocco"],
+			"answer": "Vietnam"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vg.png",
+			"variants": [
+				"Sweden",
+				"Sudan",
+				"Equatorial Guinea",
+				"British Virgin Islands"
+			],
+			"answer": "British Virgin Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ne.png",
+			"variants": ["Niger", "Morocco", "Uganda", "Mongolia"],
+			"answer": "Niger"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ni.png",
+			"variants": ["Latvia", "Nicaragua", "Ethiopia", "Cyprus"],
+			"answer": "Nicaragua"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/be.png",
+			"variants": ["Burundi", "Spain", "Belgium", "Philippines"],
+			"answer": "Belgium"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lu.png",
+			"variants": [
+				"Macao",
+				"Luxembourg",
+				"Saint Vincent and the Grenadines",
+				"Cape Verde"
+			],
+			"answer": "Luxembourg"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pa.png",
+			"variants": ["Croatia", "Montserrat", "Panama", "El Salvador"],
+			"answer": "Panama"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nu.png",
+			"variants": ["Faroe Islands", "Botswana", "Niue", "Czechia"],
+			"answer": "Niue"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sz.png",
+			"variants": ["Guam", "Swaziland", "Equatorial Guinea", "Tonga"],
+			"answer": "Swaziland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sd.png",
+			"variants": ["Cape Verde", "Sudan", "Serbia", "Qatar"],
+			"answer": "Sudan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nf.png",
+			"variants": ["Peru", "Norfolk Island", "Burundi", "New Caledonia"],
+			"answer": "Norfolk Island"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/es.png",
+			"variants": ["Czechia", "Spain", "Benin", "Turkey"],
+			"answer": "Spain"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/np.png",
+			"variants": ["Nepal", "Sudan", "Switzerland", "Northern Mariana Islands"],
+			"answer": "Nepal"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fk.png",
+			"variants": [
+				"Martinique",
+				"Netherlands",
+				"Saint Pierre and Miquelon",
+				"Falkland Islands"
+			],
+			"answer": "Falkland Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gg.png",
+			"variants": ["Uganda", "Guernsey", "Seychelles", "Bahrain"],
+			"answer": "Guernsey"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/is.png",
+			"variants": ["Iceland", "Angola", "Solomon Islands", "Bangladesh"],
+			"answer": "Iceland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/uz.png",
+			"variants": [
+				"French Southern Territories",
+				"Macedonia",
+				"Botswana",
+				"Uzbekistan"
+			],
+			"answer": "Uzbekistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ai.png",
+			"variants": ["Guinea-Bissau", "Anguilla", "Nepal", "Faroe Islands"],
+			"answer": "Anguilla"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zw.png",
+			"variants": ["Germany", "Zimbabwe", "Tokelau", "Liberia"],
+			"answer": "Zimbabwe"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mx.png",
+			"variants": ["Saint Helena", "Mexico", "Slovenia", "Italy"],
+			"answer": "Mexico"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sb.png",
+			"variants": [
+				"São Tomé and Príncipe",
+				"Montserrat",
+				"French Southern Territories",
+				"Solomon Islands"
+			],
+			"answer": "Solomon Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tz.png",
+			"variants": ["Azerbaijan", "Philippines", "Kosovo", "Tanzania"],
+			"answer": "Tanzania"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bo.png",
+			"variants": ["Guinea-Bissau", "Bolivia", "Libya", "Denmark"],
+			"answer": "Bolivia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mp.png",
+			"variants": [
+				"British Virgin Islands",
+				"Northern Mariana Islands",
+				"Moldova",
+				"Seychelles"
+			],
+			"answer": "Northern Mariana Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bh.png",
+			"variants": ["Syria", "Spain", "Armenia", "Bahrain"],
+			"answer": "Bahrain"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sa.png",
+			"variants": ["Yemen", "Panama", "Falkland Islands", "Saudi Arabia"],
+			"answer": "Saudi Arabia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bn.png",
+			"variants": ["Ireland", "Sudan", "Egypt", "Brunei"],
+			"answer": "Brunei"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fr.png",
+			"variants": ["Norfolk Island", "Philippines", "Mauritius", "France"],
+			"answer": "France"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ua.png",
+			"variants": ["Tanzania", "Jersey", "Ukraine", "Gibraltar"],
+			"answer": "Ukraine"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nu.png",
+			"variants": ["Isle of Man", "Rwanda", "Niue", "Mozambique"],
+			"answer": "Niue"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/id.png",
+			"variants": ["Indonesia", "Bonaire", "Israel", "Belarus"],
+			"answer": "Indonesia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bm.png",
+			"variants": [
+				"Bhutan",
+				"South Georgia and the South Sandwich Islands",
+				"Zimbabwe",
+				"Bermuda"
+			],
+			"answer": "Bermuda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mq.png",
+			"variants": ["Bonaire", "Lithuania", "South Africa", "Martinique"],
+			"answer": "Martinique"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/de.png",
+			"variants": ["Denmark", "Anguilla", "Germany", "French Polynesia"],
+			"answer": "Germany"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sn.png",
+			"variants": [
+				"Luxembourg",
+				"Senegal",
+				"Saint Martin",
+				"Dominican Republic"
+			],
+			"answer": "Senegal"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/xk.png",
+			"variants": ["Kosovo", "Georgia", "Samoa", "Myanmar [Burma]"],
+			"answer": "Kosovo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/se.png",
+			"variants": ["Swaziland", "Mali", "Armenia", "Sweden"],
+			"answer": "Sweden"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lc.png",
+			"variants": ["New Zealand", "Qatar", "France", "Saint Lucia"],
+			"answer": "Saint Lucia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ge.png",
+			"variants": ["Georgia", "Greece", "Hungary", "Rwanda"],
+			"answer": "Georgia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cm.png",
+			"variants": ["Åland", "Macedonia", "Cameroon", "Germany"],
+			"answer": "Cameroon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cw.png",
+			"variants": ["Mozambique", "Argentina", "Curacao", "Swaziland"],
+			"answer": "Curacao"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["French Polynesia", "Malta", "Honduras", "Gibraltar"],
+			"answer": "French Polynesia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ke.png",
+			"variants": ["Tuvalu", "Mongolia", "Kenya", "Western Sahara"],
+			"answer": "Kenya"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kp.png",
+			"variants": [
+				"North Korea",
+				"São Tomé and Príncipe",
+				"Rwanda",
+				"Turks and Caicos Islands"
+			],
+			"answer": "North Korea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cf.png",
+			"variants": [
+				"Central African Republic",
+				"Israel",
+				"Bangladesh",
+				"Mongolia"
+			],
+			"answer": "Central African Republic"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mf.png",
+			"variants": ["Palestine", "Indonesia", "French Guiana", "Saint Martin"],
+			"answer": "Saint Martin"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mk.png",
+			"variants": ["Palau", "Iran", "Guernsey", "Macedonia"],
+			"answer": "Macedonia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bo.png",
+			"variants": ["Bolivia", "Niue", "Montserrat", "Faroe Islands"],
+			"answer": "Bolivia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vi.png",
+			"variants": [
+				"Lesotho",
+				"U.S. Virgin Islands",
+				"Chad",
+				"Bosnia and Herzegovina"
+			],
+			"answer": "U.S. Virgin Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tf.png",
+			"variants": [
+				"Syria",
+				"Réunion",
+				"French Southern Territories",
+				"El Salvador"
+			],
+			"answer": "French Southern Territories"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ch.png",
+			"variants": ["Bulgaria", "Cuba", "Somalia", "Switzerland"],
+			"answer": "Switzerland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pk.png",
+			"variants": ["Belize", "Gambia", "Pakistan", "Costa Rica"],
+			"answer": "Pakistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": [
+				"Oman",
+				"Russia",
+				"Israel",
+				"Democratic Republic of the Congo"
+			],
+			"answer": "Oman"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ne.png",
+			"variants": [
+				"Democratic Republic of the Congo",
+				"Denmark",
+				"Niger",
+				"Guinea-Bissau"
+			],
+			"answer": "Niger"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/li.png",
+			"variants": ["Georgia", "Thailand", "Liechtenstein", "Western Sahara"],
+			"answer": "Liechtenstein"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": ["Israel", "Palestine", "Eritrea", "Burkina Faso"],
+			"answer": "Burkina Faso"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/st.png",
+			"variants": [
+				"Slovakia",
+				"Turks and Caicos Islands",
+				"Thailand",
+				"São Tomé and Príncipe"
+			],
+			"answer": "São Tomé and Príncipe"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tm.png",
+			"variants": ["Palestine", "Turkmenistan", "Armenia", "Nicaragua"],
+			"answer": "Turkmenistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mn.png",
+			"variants": ["Mongolia", "Saint Helena", "India", "Zambia"],
+			"answer": "Mongolia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/se.png",
+			"variants": ["Hong Kong", "Sweden", "Montenegro", "United Arab Emirates"],
+			"answer": "Sweden"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/je.png",
+			"variants": ["Cambodia", "Bulgaria", "Jersey", "Hong Kong"],
+			"answer": "Jersey"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/re.png",
+			"variants": ["Belarus", "Mali", "Réunion", "Vatican City"],
+			"answer": "Réunion"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mt.png",
+			"variants": ["Malta", "Morocco", "Madagascar", "Cyprus"],
+			"answer": "Malta"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["Marshall Islands", "Indonesia", "Aruba", "Oman"],
+			"answer": "Oman"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/eg.png",
+			"variants": ["Egypt", "Tuvalu", "Uzbekistan", "Afghanistan"],
+			"answer": "Egypt"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mu.png",
+			"variants": ["Montenegro", "Mauritius", "Togo", "Burundi"],
+			"answer": "Mauritius"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tv.png",
+			"variants": ["Myanmar [Burma]", "Ivory Coast", "Saint Lucia", "Tuvalu"],
+			"answer": "Tuvalu"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/us.png",
+			"variants": ["Belarus", "Malaysia", "United States", "Sierra Leone"],
+			"answer": "United States"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gg.png",
+			"variants": ["São Tomé and Príncipe", "China", "Romania", "Guernsey"],
+			"answer": "Guernsey"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nr.png",
+			"variants": [
+				"Marshall Islands",
+				"Nauru",
+				"Croatia",
+				"South Georgia and the South Sandwich Islands"
+			],
+			"answer": "Nauru"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ru.png",
+			"variants": ["Russia", "Saudi Arabia", "Uruguay", "Uganda"],
+			"answer": "Russia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kn.png",
+			"variants": ["Mali", "Honduras", "Saint Kitts and Nevis", "Swaziland"],
+			"answer": "Saint Kitts and Nevis"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mc.png",
+			"variants": ["Haiti", "Canada", "Monaco", "Madagascar"],
+			"answer": "Monaco"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/se.png",
+			"variants": [
+				"Democratic Republic of the Congo",
+				"Israel",
+				"Serbia",
+				"Sweden"
+			],
+			"answer": "Sweden"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/er.png",
+			"variants": ["Nepal", "Uruguay", "Eritrea", "Tanzania"],
+			"answer": "Eritrea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mx.png",
+			"variants": ["Bonaire", "Vanuatu", "Micronesia", "Mexico"],
+			"answer": "Mexico"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dk.png",
+			"variants": ["United States", "Yemen", "Eritrea", "Denmark"],
+			"answer": "Denmark"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bi.png",
+			"variants": ["Australia", "Saint Martin", "Lesotho", "Burundi"],
+			"answer": "Burundi"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mn.png",
+			"variants": ["Réunion", "Dominica", "Mongolia", "Suriname"],
+			"answer": "Mongolia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/na.png",
+			"variants": [
+				"Cambodia",
+				"U.S. Virgin Islands",
+				"Namibia",
+				"Saint Helena"
+			],
+			"answer": "Namibia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kh.png",
+			"variants": [
+				"Turkey",
+				"Cambodia",
+				"Marshall Islands",
+				"U.S. Virgin Islands"
+			],
+			"answer": "Cambodia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bh.png",
+			"variants": [
+				"Bahrain",
+				"Pitcairn Islands",
+				"São Tomé and Príncipe",
+				"Guinea-Bissau"
+			],
+			"answer": "Bahrain"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mq.png",
+			"variants": ["Togo", "American Samoa", "Ecuador", "Martinique"],
+			"answer": "Martinique"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gg.png",
+			"variants": [
+				"Djibouti",
+				"Sweden",
+				"Guernsey",
+				"South Georgia and the South Sandwich Islands"
+			],
+			"answer": "Guernsey"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pk.png",
+			"variants": ["Burundi", "Turkey", "Pakistan", "Myanmar [Burma]"],
+			"answer": "Pakistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cl.png",
+			"variants": ["Saint Helena", "Chile", "Haiti", "Chad"],
+			"answer": "Chile"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ca.png",
+			"variants": ["India", "Cape Verde", "Tunisia", "Canada"],
+			"answer": "Canada"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ar.png",
+			"variants": ["Nauru", "Venezuela", "Argentina", "Guinea-Bissau"],
+			"answer": "Argentina"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hu.png",
+			"variants": ["Palau", "Montserrat", "Singapore", "Hungary"],
+			"answer": "Hungary"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/do.png",
+			"variants": [
+				"Monaco",
+				"Dominican Republic",
+				"Finland",
+				"Saint Vincent and the Grenadines"
+			],
+			"answer": "Dominican Republic"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/at.png",
+			"variants": [
+				"South Georgia and the South Sandwich Islands",
+				"Turkmenistan",
+				"Austria",
+				"Thailand"
+			],
+			"answer": "Austria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pw.png",
+			"variants": ["Saint Kitts and Nevis", "Kyrgyzstan", "Comoros", "Palau"],
+			"answer": "Palau"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gy.png",
+			"variants": ["Paraguay", "Guyana", "Saint Helena", "Ghana"],
+			"answer": "Guyana"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ee.png",
+			"variants": ["Togo", "Sri Lanka", "South Sudan", "Estonia"],
+			"answer": "Estonia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ly.png",
+			"variants": [
+				"French Southern Territories",
+				"Libya",
+				"Tanzania",
+				"Cambodia"
+			],
+			"answer": "Libya"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pe.png",
+			"variants": ["Peru", "Brazil", "Mauritania", "Kosovo"],
+			"answer": "Peru"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sl.png",
+			"variants": ["Kosovo", "New Caledonia", "Sierra Leone", "Swaziland"],
+			"answer": "Sierra Leone"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ec.png",
+			"variants": [
+				"Cyprus",
+				"Democratic Republic of the Congo",
+				"Ecuador",
+				"Saudi Arabia"
+			],
+			"answer": "Ecuador"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/br.png",
+			"variants": [
+				"Bosnia and Herzegovina",
+				"San Marino",
+				"Northern Mariana Islands",
+				"Brazil"
+			],
+			"answer": "Brazil"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ax.png",
+			"variants": ["Northern Mariana Islands", "Cameroon", "Peru", "Åland"],
+			"answer": "Åland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kg.png",
+			"variants": [
+				"South Georgia and the South Sandwich Islands",
+				"Yemen",
+				"Kyrgyzstan",
+				"Kuwait"
+			],
+			"answer": "Kyrgyzstan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sb.png",
+			"variants": ["Netherlands", "Malta", "Solomon Islands", "Moldova"],
+			"answer": "Solomon Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tw.png",
+			"variants": ["Macao", "Taiwan", "Suriname", "Tuvalu"],
+			"answer": "Taiwan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/st.png",
+			"variants": [
+				"Argentina",
+				"São Tomé and Príncipe",
+				"Laos",
+				"Svalbard and Jan Mayen"
+			],
+			"answer": "São Tomé and Príncipe"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cf.png",
+			"variants": [
+				"Central African Republic",
+				"Bahamas",
+				"Pakistan",
+				"Ivory Coast"
+			],
+			"answer": "Central African Republic"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bz.png",
+			"variants": [
+				"Slovenia",
+				"Saint Vincent and the Grenadines",
+				"Vanuatu",
+				"Belize"
+			],
+			"answer": "Belize"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ng.png",
+			"variants": [
+				"Nigeria",
+				"South Georgia and the South Sandwich Islands",
+				"Cuba",
+				"Bangladesh"
+			],
+			"answer": "Nigeria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/be.png",
+			"variants": ["Benin", "Belgium", "Malawi", "Maldives"],
+			"answer": "Belgium"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ao.png",
+			"variants": ["Angola", "Kazakhstan", "Botswana", "Martinique"],
+			"answer": "Angola"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tl.png",
+			"variants": ["Greenland", "East Timor", "New Caledonia", "Montenegro"],
+			"answer": "East Timor"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pe.png",
+			"variants": ["Marshall Islands", "Martinique", "Norway", "Peru"],
+			"answer": "Peru"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jp.png",
+			"variants": ["Puerto Rico", "Thailand", "Japan", "Azerbaijan"],
+			"answer": "Japan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fk.png",
+			"variants": ["Barbados", "Falkland Islands", "Venezuela", "Sudan"],
+			"answer": "Falkland Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tr.png",
+			"variants": ["Romania", "Thailand", "South Africa", "Turkey"],
+			"answer": "Turkey"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/td.png",
+			"variants": ["Saint Pierre and Miquelon", "Argentina", "Åland", "Chad"],
+			"answer": "Chad"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mf.png",
+			"variants": [
+				"Saint Martin",
+				"Vatican City",
+				"Northern Mariana Islands",
+				"Equatorial Guinea"
+			],
+			"answer": "Saint Martin"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mp.png",
+			"variants": [
+				"Northern Mariana Islands",
+				"Singapore",
+				"Guatemala",
+				"Brunei"
+			],
+			"answer": "Northern Mariana Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cy.png",
+			"variants": ["Cyprus", "Slovakia", "South Sudan", "United Arab Emirates"],
+			"answer": "Cyprus"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/so.png",
+			"variants": ["Italy", "Somalia", "Tanzania", "Ecuador"],
+			"answer": "Somalia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kz.png",
+			"variants": ["Chile", "Libya", "Poland", "Kazakhstan"],
+			"answer": "Kazakhstan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mo.png",
+			"variants": ["Chad", "Benin", "Macao", "Equatorial Guinea"],
+			"answer": "Macao"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mp.png",
+			"variants": [
+				"Bonaire",
+				"Northern Mariana Islands",
+				"San Marino",
+				"Norway"
+			],
+			"answer": "Northern Mariana Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hu.png",
+			"variants": ["Egypt", "Curacao", "Hungary", "Moldova"],
+			"answer": "Hungary"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gm.png",
+			"variants": ["Albania", "Gambia", "Iraq", "Bosnia and Herzegovina"],
+			"answer": "Gambia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pl.png",
+			"variants": ["Christmas Island", "Gibraltar", "Mexico", "Poland"],
+			"answer": "Poland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vi.png",
+			"variants": [
+				"Algeria",
+				"United Kingdom",
+				"Sweden",
+				"U.S. Virgin Islands"
+			],
+			"answer": "U.S. Virgin Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bq.png",
+			"variants": ["Costa Rica", "Bonaire", "Ethiopia", "Turkey"],
+			"answer": "Bonaire"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ck.png",
+			"variants": ["Denmark", "Cook Islands", "Romania", "Jordan"],
+			"answer": "Cook Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tk.png",
+			"variants": [
+				"Trinidad and Tobago",
+				"Tokelau",
+				"American Samoa",
+				"Myanmar [Burma]"
+			],
+			"answer": "Tokelau"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jm.png",
+			"variants": ["Jersey", "Jamaica", "Falkland Islands", "Honduras"],
+			"answer": "Jamaica"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ws.png",
+			"variants": ["Samoa", "Burundi", "Nepal", "Bolivia"],
+			"answer": "Samoa"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["North Korea", "Honduras", "Norway", "French Polynesia"],
+			"answer": "French Polynesia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ki.png",
+			"variants": ["Eritrea", "Pitcairn Islands", "Monaco", "Kiribati"],
+			"answer": "Kiribati"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rw.png",
+			"variants": ["Tuvalu", "Western Sahara", "Réunion", "Rwanda"],
+			"answer": "Rwanda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": ["Guatemala", "Bosnia and Herzegovina", "Uganda", "Dominica"],
+			"answer": "Uganda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/re.png",
+			"variants": ["Réunion", "Portugal", "French Polynesia", "Guinea-Bissau"],
+			"answer": "Réunion"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rs.png",
+			"variants": ["Mongolia", "Serbia", "Martinique", "Morocco"],
+			"answer": "Serbia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bl.png",
+			"variants": ["South Sudan", "Saint Barthélemy", "Indonesia", "Malaysia"],
+			"answer": "Saint Barthélemy"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cm.png",
+			"variants": [
+				"Philippines",
+				"Cameroon",
+				"Cocos [Keeling] Islands",
+				"Honduras"
+			],
+			"answer": "Cameroon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jo.png",
+			"variants": ["Jamaica", "Albania", "Jordan", "Uzbekistan"],
+			"answer": "Jordan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mg.png",
+			"variants": ["Benin", "Belarus", "Kenya", "Madagascar"],
+			"answer": "Madagascar"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nl.png",
+			"variants": ["Rwanda", "Honduras", "Netherlands", "Åland"],
+			"answer": "Netherlands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ee.png",
+			"variants": [
+				"Estonia",
+				"Puerto Rico",
+				"Saint Kitts and Nevis",
+				"Dominica"
+			],
+			"answer": "Estonia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sl.png",
+			"variants": ["Netherlands", "Kuwait", "Sierra Leone", "Belize"],
+			"answer": "Sierra Leone"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gf.png",
+			"variants": [
+				"Saint Martin",
+				"French Guiana",
+				"Marshall Islands",
+				"South Korea"
+			],
+			"answer": "French Guiana"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mo.png",
+			"variants": ["Burkina Faso", "Israel", "Falkland Islands", "Macao"],
+			"answer": "Macao"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ga.png",
+			"variants": ["Serbia", "New Caledonia", "Turkey", "Gabon"],
+			"answer": "Gabon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/km.png",
+			"variants": ["Comoros", "Austria", "Angola", "Slovakia"],
+			"answer": "Comoros"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sd.png",
+			"variants": ["Saint Lucia", "Serbia", "Algeria", "Sudan"],
+			"answer": "Sudan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kp.png",
+			"variants": [
+				"Lithuania",
+				"Honduras",
+				"Cocos [Keeling] Islands",
+				"North Korea"
+			],
+			"answer": "North Korea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/za.png",
+			"variants": ["South Africa", "Micronesia", "U.S. Virgin Islands", "Chad"],
+			"answer": "South Africa"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/et.png",
+			"variants": [
+				"French Southern Territories",
+				"Taiwan",
+				"Dominica",
+				"Ethiopia"
+			],
+			"answer": "Ethiopia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["Chile", "Iran", "Wallis and Futuna", "Zambia"],
+			"answer": "Iran"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kr.png",
+			"variants": ["Jordan", "Iceland", "South Korea", "French Guiana"],
+			"answer": "South Korea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["Oman", "Romania", "Ghana", "Nauru"],
+			"answer": "Oman"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gm.png",
+			"variants": ["Kenya", "Bhutan", "Gambia", "India"],
+			"answer": "Gambia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sg.png",
+			"variants": ["Singapore", "Yemen", "China", "Jamaica"],
+			"answer": "Singapore"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/li.png",
+			"variants": [
+				"Djibouti",
+				"Liechtenstein",
+				"Benin",
+				"Saint Kitts and Nevis"
+			],
+			"answer": "Liechtenstein"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cf.png",
+			"variants": ["Canada", "Zimbabwe", "Central African Republic", "Denmark"],
+			"answer": "Central African Republic"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mm.png",
+			"variants": [
+				"Northern Mariana Islands",
+				"El Salvador",
+				"Myanmar [Burma]",
+				"Albania"
+			],
+			"answer": "Myanmar [Burma]"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gy.png",
+			"variants": ["Morocco", "Nauru", "British Virgin Islands", "Guyana"],
+			"answer": "Guyana"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/il.png",
+			"variants": ["Israel", "Gabon", "Philippines", "Egypt"],
+			"answer": "Israel"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nr.png",
+			"variants": ["Brunei", "Jersey", "Albania", "Nauru"],
+			"answer": "Nauru"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fo.png",
+			"variants": ["Liberia", "Faroe Islands", "Lesotho", "Swaziland"],
+			"answer": "Faroe Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tj.png",
+			"variants": ["Belgium", "Tajikistan", "France", "Croatia"],
+			"answer": "Tajikistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kz.png",
+			"variants": ["Belize", "Kazakhstan", "Azerbaijan", "Peru"],
+			"answer": "Kazakhstan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["French Polynesia", "Swaziland", "Nigeria", "Burkina Faso"],
+			"answer": "French Polynesia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/qa.png",
+			"variants": ["Qatar", "Maldives", "Brunei", "North Korea"],
+			"answer": "Qatar"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mv.png",
+			"variants": ["Thailand", "Maldives", "Russia", "Saudi Arabia"],
+			"answer": "Maldives"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tc.png",
+			"variants": [
+				"Cameroon",
+				"Luxembourg",
+				"Turks and Caicos Islands",
+				"Armenia"
+			],
+			"answer": "Turks and Caicos Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pg.png",
+			"variants": ["Brazil", "Papua New Guinea", "Austria", "Nauru"],
+			"answer": "Papua New Guinea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/uz.png",
+			"variants": ["Zimbabwe", "Sri Lanka", "Uzbekistan", "Costa Rica"],
+			"answer": "Uzbekistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/la.png",
+			"variants": ["Turks and Caicos Islands", "Uganda", "Laos", "Albania"],
+			"answer": "Laos"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bn.png",
+			"variants": ["Cyprus", "Brunei", "Dominica", "Guadeloupe"],
+			"answer": "Brunei"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bh.png",
+			"variants": ["Somalia", "Sweden", "Bahrain", "Svalbard and Jan Mayen"],
+			"answer": "Bahrain"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/wf.png",
+			"variants": [
+				"Wallis and Futuna",
+				"Hong Kong",
+				"Greenland",
+				"Guinea-Bissau"
+			],
+			"answer": "Wallis and Futuna"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ae.png",
+			"variants": ["Belgium", "Ethiopia", "Iran", "United Arab Emirates"],
+			"answer": "United Arab Emirates"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gd.png",
+			"variants": ["Japan", "Grenada", "Dominican Republic", "Oman"],
+			"answer": "Grenada"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/eh.png",
+			"variants": ["Portugal", "Albania", "Western Sahara", "Sweden"],
+			"answer": "Western Sahara"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pl.png",
+			"variants": ["Bulgaria", "Greece", "Poland", "Rwanda"],
+			"answer": "Poland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/to.png",
+			"variants": ["Tonga", "Albania", "Cayman Islands", "Bulgaria"],
+			"answer": "Tonga"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cg.png",
+			"variants": [
+				"French Polynesia",
+				"Martinique",
+				"Republic of the Congo",
+				"Mexico"
+			],
+			"answer": "Republic of the Congo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gu.png",
+			"variants": ["Gabon", "Indonesia", "Malta", "Guam"],
+			"answer": "Guam"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sh.png",
+			"variants": ["Cayman Islands", "Moldova", "Saint Helena", "Ghana"],
+			"answer": "Saint Helena"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vn.png",
+			"variants": ["Curacao", "Vietnam", "Canada", "Haiti"],
+			"answer": "Vietnam"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bj.png",
+			"variants": [
+				"East Timor",
+				"Benin",
+				"São Tomé and Príncipe",
+				"South Georgia and the South Sandwich Islands"
+			],
+			"answer": "Benin"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gb.png",
+			"variants": [
+				"United Kingdom",
+				"Iran",
+				"South Georgia and the South Sandwich Islands",
+				"Curacao"
+			],
+			"answer": "United Kingdom"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bg.png",
+			"variants": ["Grenada", "Saudi Arabia", "Faroe Islands", "Bulgaria"],
+			"answer": "Bulgaria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bd.png",
+			"variants": ["Bangladesh", "United Kingdom", "Niger", "Kosovo"],
+			"answer": "Bangladesh"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kr.png",
+			"variants": ["Kazakhstan", "Malta", "South Korea", "Mozambique"],
+			"answer": "South Korea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/no.png",
+			"variants": ["Norway", "Romania", "Haiti", "Saint Martin"],
+			"answer": "Norway"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/yt.png",
+			"variants": ["Papua New Guinea", "Curacao", "Portugal", "Mayotte"],
+			"answer": "Mayotte"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sx.png",
+			"variants": [
+				"Suriname",
+				"Sint Maarten",
+				"Bosnia and Herzegovina",
+				"Papua New Guinea"
+			],
+			"answer": "Sint Maarten"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ws.png",
+			"variants": ["Montserrat", "Samoa", "Falkland Islands", "Bermuda"],
+			"answer": "Samoa"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ye.png",
+			"variants": ["Palestine", "Guernsey", "Tunisia", "Yemen"],
+			"answer": "Yemen"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kn.png",
+			"variants": ["Saint Kitts and Nevis", "Brazil", "Swaziland", "Libya"],
+			"answer": "Saint Kitts and Nevis"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ne.png",
+			"variants": ["Hungary", "Gabon", "Niger", "Andorra"],
+			"answer": "Niger"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ba.png",
+			"variants": [
+				"Laos",
+				"Uzbekistan",
+				"Equatorial Guinea",
+				"Bosnia and Herzegovina"
+			],
+			"answer": "Bosnia and Herzegovina"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jp.png",
+			"variants": ["Bosnia and Herzegovina", "Mongolia", "Morocco", "Japan"],
+			"answer": "Japan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tw.png",
+			"variants": ["Swaziland", "Bolivia", "Taiwan", "Uzbekistan"],
+			"answer": "Taiwan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lt.png",
+			"variants": ["Nepal", "Réunion", "Lithuania", "Martinique"],
+			"answer": "Lithuania"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bd.png",
+			"variants": ["Jamaica", "Portugal", "Bangladesh", "Armenia"],
+			"answer": "Bangladesh"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cm.png",
+			"variants": ["Czechia", "Cameroon", "Rwanda", "Argentina"],
+			"answer": "Cameroon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/me.png",
+			"variants": ["Mauritius", "Montenegro", "Senegal", "Tunisia"],
+			"answer": "Montenegro"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ht.png",
+			"variants": ["Haiti", "Åland", "Ethiopia", "Philippines"],
+			"answer": "Haiti"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mp.png",
+			"variants": [
+				"Bosnia and Herzegovina",
+				"Colombia",
+				"Haiti",
+				"Northern Mariana Islands"
+			],
+			"answer": "Northern Mariana Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bj.png",
+			"variants": ["Azerbaijan", "Benin", "South Korea", "Malawi"],
+			"answer": "Benin"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fo.png",
+			"variants": [
+				"Puerto Rico",
+				"New Caledonia",
+				"French Southern Territories",
+				"Faroe Islands"
+			],
+			"answer": "Faroe Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pa.png",
+			"variants": ["Saint Martin", "Monaco", "Montenegro", "Panama"],
+			"answer": "Panama"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cf.png",
+			"variants": [
+				"South Georgia and the South Sandwich Islands",
+				"Central African Republic",
+				"Oman",
+				"Eritrea"
+			],
+			"answer": "Central African Republic"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/re.png",
+			"variants": ["Réunion", "Lebanon", "Aruba", "Niue"],
+			"answer": "Réunion"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tk.png",
+			"variants": [
+				"Georgia",
+				"Christmas Island",
+				"Tokelau",
+				"Pitcairn Islands"
+			],
+			"answer": "Tokelau"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sn.png",
+			"variants": ["Australia", "Senegal", "Guatemala", "Mongolia"],
+			"answer": "Senegal"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nr.png",
+			"variants": ["Nigeria", "Equatorial Guinea", "Angola", "Nauru"],
+			"answer": "Nauru"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ru.png",
+			"variants": [
+				"United States",
+				"Russia",
+				"United Kingdom",
+				"Saint Kitts and Nevis"
+			],
+			"answer": "Russia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mf.png",
+			"variants": [
+				"Fiji",
+				"Saint Martin",
+				"Saint Lucia",
+				"Turks and Caicos Islands"
+			],
+			"answer": "Saint Martin"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lr.png",
+			"variants": ["Djibouti", "Jamaica", "Liberia", "China"],
+			"answer": "Liberia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": ["South Africa", "Angola", "Nigeria", "Burkina Faso"],
+			"answer": "Burkina Faso"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ws.png",
+			"variants": [
+				"Samoa",
+				"Kyrgyzstan",
+				"São Tomé and Príncipe",
+				"Christmas Island"
+			],
+			"answer": "Samoa"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dm.png",
+			"variants": ["Christmas Island", "Samoa", "Dominica", "North Korea"],
+			"answer": "Dominica"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bt.png",
+			"variants": ["Cape Verde", "Bhutan", "Brazil", "Philippines"],
+			"answer": "Bhutan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ar.png",
+			"variants": [
+				"Argentina",
+				"Antigua and Barbuda",
+				"Saint Lucia",
+				"Algeria"
+			],
+			"answer": "Argentina"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/xk.png",
+			"variants": ["Luxembourg", "East Timor", "Kosovo", "Anguilla"],
+			"answer": "Kosovo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fi.png",
+			"variants": ["Dominican Republic", "Finland", "Nigeria", "Namibia"],
+			"answer": "Finland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bi.png",
+			"variants": ["Kazakhstan", "Pitcairn Islands", "Burundi", "Panama"],
+			"answer": "Burundi"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rw.png",
+			"variants": ["Rwanda", "Mexico", "Guatemala", "Macao"],
+			"answer": "Rwanda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bq.png",
+			"variants": ["Montenegro", "Eritrea", "Saint Lucia", "Bonaire"],
+			"answer": "Bonaire"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hr.png",
+			"variants": ["Saudi Arabia", "Croatia", "Bermuda", "Egypt"],
+			"answer": "Croatia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nu.png",
+			"variants": ["Jordan", "Moldova", "Latvia", "Niue"],
+			"answer": "Niue"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vc.png",
+			"variants": [
+				"Togo",
+				"Saint Vincent and the Grenadines",
+				"Cocos [Keeling] Islands",
+				"El Salvador"
+			],
+			"answer": "Saint Vincent and the Grenadines"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/do.png",
+			"variants": [
+				"Bolivia",
+				"Jordan",
+				"Dominican Republic",
+				"Saint Kitts and Nevis"
+			],
+			"answer": "Dominican Republic"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gl.png",
+			"variants": ["Ecuador", "Greenland", "Christmas Island", "Haiti"],
+			"answer": "Greenland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jm.png",
+			"variants": ["Jamaica", "Liberia", "Syria", "Croatia"],
+			"answer": "Jamaica"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ms.png",
+			"variants": ["Ukraine", "Poland", "Montserrat", "Anguilla"],
+			"answer": "Montserrat"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gu.png",
+			"variants": ["Saint Lucia", "Czechia", "Kosovo", "Guam"],
+			"answer": "Guam"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["Argentina", "Norway", "Iran", "French Polynesia"],
+			"answer": "French Polynesia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hn.png",
+			"variants": [
+				"Central African Republic",
+				"Honduras",
+				"French Guiana",
+				"British Virgin Islands"
+			],
+			"answer": "Honduras"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ee.png",
+			"variants": ["Kyrgyzstan", "Estonia", "Malawi", "Uruguay"],
+			"answer": "Estonia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zw.png",
+			"variants": ["Saint Kitts and Nevis", "Zimbabwe", "Latvia", "Cuba"],
+			"answer": "Zimbabwe"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gw.png",
+			"variants": ["Suriname", "Afghanistan", "Guinea-Bissau", "South Africa"],
+			"answer": "Guinea-Bissau"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pm.png",
+			"variants": [
+				"Saint Pierre and Miquelon",
+				"India",
+				"Moldova",
+				"New Caledonia"
+			],
+			"answer": "Saint Pierre and Miquelon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ga.png",
+			"variants": ["Guam", "Eritrea", "Gabon", "Finland"],
+			"answer": "Gabon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nr.png",
+			"variants": ["Yemen", "Australia", "Nauru", "Belarus"],
+			"answer": "Nauru"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/je.png",
+			"variants": [
+				"Morocco",
+				"Isle of Man",
+				"Jersey",
+				"Bosnia and Herzegovina"
+			],
+			"answer": "Jersey"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/es.png",
+			"variants": ["Benin", "Lithuania", "Palestine", "Spain"],
+			"answer": "Spain"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["Belarus", "Oman", "Colombia", "Christmas Island"],
+			"answer": "Oman"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tg.png",
+			"variants": ["Mauritius", "Niue", "Ireland", "Togo"],
+			"answer": "Togo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sy.png",
+			"variants": ["Marshall Islands", "United Kingdom", "Syria", "Russia"],
+			"answer": "Syria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gp.png",
+			"variants": ["Djibouti", "Guadeloupe", "Nauru", "Wallis and Futuna"],
+			"answer": "Guadeloupe"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tf.png",
+			"variants": [
+				"French Southern Territories",
+				"Malta",
+				"Mayotte",
+				"Vietnam"
+			],
+			"answer": "French Southern Territories"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fo.png",
+			"variants": ["Mauritania", "Morocco", "Nicaragua", "Faroe Islands"],
+			"answer": "Faroe Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mx.png",
+			"variants": ["Pakistan", "Hungary", "Mexico", "Sweden"],
+			"answer": "Mexico"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sl.png",
+			"variants": ["Macedonia", "Greenland", "Lesotho", "Sierra Leone"],
+			"answer": "Sierra Leone"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gw.png",
+			"variants": [
+				"Guinea-Bissau",
+				"Benin",
+				"Tuvalu",
+				"Cocos [Keeling] Islands"
+			],
+			"answer": "Guinea-Bissau"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dm.png",
+			"variants": ["Dominica", "Solomon Islands", "Tunisia", "Poland"],
+			"answer": "Dominica"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jo.png",
+			"variants": ["Jordan", "Palestine", "Mongolia", "Romania"],
+			"answer": "Jordan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bl.png",
+			"variants": [
+				"Uganda",
+				"Svalbard and Jan Mayen",
+				"Saint Barthélemy",
+				"Switzerland"
+			],
+			"answer": "Saint Barthélemy"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ci.png",
+			"variants": ["Costa Rica", "Djibouti", "Ivory Coast", "Faroe Islands"],
+			"answer": "Ivory Coast"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ar.png",
+			"variants": ["Argentina", "Iceland", "Portugal", "Ivory Coast"],
+			"answer": "Argentina"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nc.png",
+			"variants": ["Djibouti", "New Caledonia", "Niger", "Ivory Coast"],
+			"answer": "New Caledonia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/co.png",
+			"variants": ["Western Sahara", "Sierra Leone", "Colombia", "New Zealand"],
+			"answer": "Colombia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/al.png",
+			"variants": ["Haiti", "Albania", "Bonaire", "Pakistan"],
+			"answer": "Albania"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nf.png",
+			"variants": ["Ireland", "Tanzania", "Lebanon", "Norfolk Island"],
+			"answer": "Norfolk Island"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cd.png",
+			"variants": [
+				"Bahamas",
+				"Democratic Republic of the Congo",
+				"Cocos [Keeling] Islands",
+				"Liberia"
+			],
+			"answer": "Democratic Republic of the Congo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/km.png",
+			"variants": ["Poland", "Comoros", "Luxembourg", "Mauritius"],
+			"answer": "Comoros"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["Comoros", "Algeria", "Mauritania", "Romania"],
+			"answer": "Algeria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/er.png",
+			"variants": ["Belize", "Eritrea", "Sierra Leone", "Dominica"],
+			"answer": "Eritrea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["Austria", "Sudan", "Oman", "Slovakia"],
+			"answer": "Oman"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mu.png",
+			"variants": ["South Korea", "Turkmenistan", "Rwanda", "Mauritius"],
+			"answer": "Mauritius"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mv.png",
+			"variants": ["Qatar", "Maldives", "Åland", "Greenland"],
+			"answer": "Maldives"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bm.png",
+			"variants": [
+				"Sint Maarten",
+				"Syria",
+				"Bermuda",
+				"Bosnia and Herzegovina"
+			],
+			"answer": "Bermuda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hk.png",
+			"variants": ["Canada", "Turkey", "Djibouti", "Hong Kong"],
+			"answer": "Hong Kong"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pn.png",
+			"variants": ["Taiwan", "Pitcairn Islands", "Falkland Islands", "Iraq"],
+			"answer": "Pitcairn Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sh.png",
+			"variants": ["Angola", "Uzbekistan", "Belize", "Saint Helena"],
+			"answer": "Saint Helena"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/xk.png",
+			"variants": ["Costa Rica", "Hong Kong", "Guernsey", "Kosovo"],
+			"answer": "Kosovo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cu.png",
+			"variants": ["Cuba", "Pitcairn Islands", "Canada", "Austria"],
+			"answer": "Cuba"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cm.png",
+			"variants": [
+				"United Arab Emirates",
+				"Sint Maarten",
+				"Hungary",
+				"Cameroon"
+			],
+			"answer": "Cameroon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ni.png",
+			"variants": ["Taiwan", "Algeria", "Singapore", "Nicaragua"],
+			"answer": "Nicaragua"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": ["South Africa", "Åland", "Burkina Faso", "Gibraltar"],
+			"answer": "Burkina Faso"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tm.png",
+			"variants": ["Japan", "New Caledonia", "Jersey", "Turkmenistan"],
+			"answer": "Turkmenistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/it.png",
+			"variants": ["Peru", "Guam", "Italy", "Tanzania"],
+			"answer": "Italy"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ro.png",
+			"variants": ["Bermuda", "Romania", "Turkey", "Australia"],
+			"answer": "Romania"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sk.png",
+			"variants": ["South Korea", "Bulgaria", "Slovakia", "Eritrea"],
+			"answer": "Slovakia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cw.png",
+			"variants": ["Åland", "Czechia", "Curacao", "Puerto Rico"],
+			"answer": "Curacao"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": ["Djibouti", "Gambia", "Colombia", "Uganda"],
+			"answer": "Uganda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mz.png",
+			"variants": ["United Kingdom", "Mozambique", "Mauritius", "Sweden"],
+			"answer": "Mozambique"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sr.png",
+			"variants": ["Åland", "Suriname", "Guinea-Bissau", "Cuba"],
+			"answer": "Suriname"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/it.png",
+			"variants": ["Taiwan", "Sint Maarten", "Italy", "Costa Rica"],
+			"answer": "Italy"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jo.png",
+			"variants": ["Saint Martin", "Jordan", "Czechia", "Wallis and Futuna"],
+			"answer": "Jordan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tj.png",
+			"variants": [
+				"Ecuador",
+				"Kiribati",
+				"British Virgin Islands",
+				"Tajikistan"
+			],
+			"answer": "Tajikistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/qa.png",
+			"variants": ["Qatar", "Brunei", "Northern Mariana Islands", "Slovenia"],
+			"answer": "Qatar"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/am.png",
+			"variants": ["Monaco", "Ecuador", "Armenia", "San Marino"],
+			"answer": "Armenia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gy.png",
+			"variants": ["Israel", "Guyana", "Singapore", "Kuwait"],
+			"answer": "Guyana"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lc.png",
+			"variants": [
+				"Saint Lucia",
+				"Saint Kitts and Nevis",
+				"Australia",
+				"Uruguay"
+			],
+			"answer": "Saint Lucia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/km.png",
+			"variants": ["Saint Barthélemy", "Comoros", "Swaziland", "Vatican City"],
+			"answer": "Comoros"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pe.png",
+			"variants": [
+				"Svalbard and Jan Mayen",
+				"Peru",
+				"Botswana",
+				"United Kingdom"
+			],
+			"answer": "Peru"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zm.png",
+			"variants": ["Saint Barthélemy", "Somalia", "Zambia", "Iran"],
+			"answer": "Zambia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/il.png",
+			"variants": ["Cook Islands", "Samoa", "Israel", "Bahrain"],
+			"answer": "Israel"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tl.png",
+			"variants": ["Jamaica", "Macedonia", "East Timor", "Anguilla"],
+			"answer": "East Timor"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/aw.png",
+			"variants": [
+				"Ghana",
+				"Cayman Islands",
+				"Saint Vincent and the Grenadines",
+				"Aruba"
+			],
+			"answer": "Aruba"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gn.png",
+			"variants": [
+				"Anguilla",
+				"Sierra Leone",
+				"Guinea",
+				"Northern Mariana Islands"
+			],
+			"answer": "Guinea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hr.png",
+			"variants": ["Croatia", "Antigua and Barbuda", "Gabon", "Syria"],
+			"answer": "Croatia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pn.png",
+			"variants": ["Guatemala", "Mongolia", "Pitcairn Islands", "Algeria"],
+			"answer": "Pitcairn Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ve.png",
+			"variants": ["Bangladesh", "Senegal", "Malta", "Venezuela"],
+			"answer": "Venezuela"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nu.png",
+			"variants": ["East Timor", "Kyrgyzstan", "Yemen", "Niue"],
+			"answer": "Niue"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pt.png",
+			"variants": ["Jamaica", "Bermuda", "Portugal", "Hungary"],
+			"answer": "Portugal"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/li.png",
+			"variants": [
+				"Liechtenstein",
+				"Panama",
+				"French Southern Territories",
+				"Bermuda"
+			],
+			"answer": "Liechtenstein"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mu.png",
+			"variants": ["Mauritius", "Denmark", "Yemen", "Wallis and Futuna"],
+			"answer": "Mauritius"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ru.png",
+			"variants": ["Ecuador", "Saint Martin", "Russia", "Jordan"],
+			"answer": "Russia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bq.png",
+			"variants": ["Slovenia", "South Africa", "Ukraine", "Bonaire"],
+			"answer": "Bonaire"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ad.png",
+			"variants": [
+				"Zimbabwe",
+				"Tajikistan",
+				"Andorra",
+				"Democratic Republic of the Congo"
+			],
+			"answer": "Andorra"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sl.png",
+			"variants": ["Djibouti", "Uzbekistan", "Sierra Leone", "Guernsey"],
+			"answer": "Sierra Leone"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gl.png",
+			"variants": ["Åland", "Bulgaria", "Indonesia", "Greenland"],
+			"answer": "Greenland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/na.png",
+			"variants": [
+				"Turks and Caicos Islands",
+				"Namibia",
+				"French Polynesia",
+				"Nepal"
+			],
+			"answer": "Namibia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/am.png",
+			"variants": ["Armenia", "Bulgaria", "Mongolia", "French Guiana"],
+			"answer": "Armenia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/as.png",
+			"variants": ["Micronesia", "Saudi Arabia", "Ecuador", "American Samoa"],
+			"answer": "American Samoa"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cw.png",
+			"variants": [
+				"Bonaire",
+				"Curacao",
+				"French Southern Territories",
+				"Indonesia"
+			],
+			"answer": "Curacao"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tg.png",
+			"variants": ["Togo", "Aruba", "Martinique", "Malta"],
+			"answer": "Togo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lb.png",
+			"variants": ["Pakistan", "Maldives", "Macao", "Lebanon"],
+			"answer": "Lebanon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/va.png",
+			"variants": ["Angola", "Vatican City", "Anguilla", "Malawi"],
+			"answer": "Vatican City"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ie.png",
+			"variants": ["Isle of Man", "Sri Lanka", "Kenya", "Ireland"],
+			"answer": "Ireland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["Greece", "Saint Martin", "Germany", "Algeria"],
+			"answer": "Algeria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": ["Chile", "Burkina Faso", "Suriname", "Luxembourg"],
+			"answer": "Burkina Faso"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mg.png",
+			"variants": ["Madagascar", "Macedonia", "China", "Guinea-Bissau"],
+			"answer": "Madagascar"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ne.png",
+			"variants": ["Dominica", "Niger", "Liechtenstein", "Mexico"],
+			"answer": "Niger"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jo.png",
+			"variants": ["Belgium", "Jordan", "Tunisia", "Kyrgyzstan"],
+			"answer": "Jordan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mu.png",
+			"variants": ["Mauritius", "Morocco", "Somalia", "Iran"],
+			"answer": "Mauritius"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sb.png",
+			"variants": [
+				"Solomon Islands",
+				"Norway",
+				"Grenada",
+				"Democratic Republic of the Congo"
+			],
+			"answer": "Solomon Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pr.png",
+			"variants": ["India", "Puerto Rico", "Greece", "Bulgaria"],
+			"answer": "Puerto Rico"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/az.png",
+			"variants": ["Spain", "Eritrea", "Azerbaijan", "Iceland"],
+			"answer": "Azerbaijan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ls.png",
+			"variants": ["Ireland", "Lesotho", "Rwanda", "Wallis and Futuna"],
+			"answer": "Lesotho"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["Bermuda", "French Polynesia", "Senegal", "Poland"],
+			"answer": "French Polynesia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tj.png",
+			"variants": ["Tajikistan", "Iran", "North Korea", "Panama"],
+			"answer": "Tajikistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cd.png",
+			"variants": [
+				"Egypt",
+				"Hungary",
+				"Belize",
+				"Democratic Republic of the Congo"
+			],
+			"answer": "Democratic Republic of the Congo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gi.png",
+			"variants": ["Czechia", "Swaziland", "American Samoa", "Gibraltar"],
+			"answer": "Gibraltar"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/uz.png",
+			"variants": ["Uzbekistan", "East Timor", "Finland", "Guernsey"],
+			"answer": "Uzbekistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/af.png",
+			"variants": [
+				"Afghanistan",
+				"French Polynesia",
+				"Democratic Republic of the Congo",
+				"American Samoa"
+			],
+			"answer": "Afghanistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bg.png",
+			"variants": ["Georgia", "Bulgaria", "Palau", "Liechtenstein"],
+			"answer": "Bulgaria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/si.png",
+			"variants": [
+				"Saint Barthélemy",
+				"British Virgin Islands",
+				"Falkland Islands",
+				"Slovenia"
+			],
+			"answer": "Slovenia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/al.png",
+			"variants": ["Albania", "Slovakia", "Tokelau", "Barbados"],
+			"answer": "Albania"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": [
+				"Uganda",
+				"Isle of Man",
+				"Cocos [Keeling] Islands",
+				"Angola"
+			],
+			"answer": "Uganda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bq.png",
+			"variants": [
+				"Wallis and Futuna",
+				"Bonaire",
+				"French Southern Territories",
+				"Burkina Faso"
+			],
+			"answer": "Bonaire"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gb.png",
+			"variants": [
+				"Solomon Islands",
+				"Gibraltar",
+				"United Kingdom",
+				"Saint Pierre and Miquelon"
+			],
+			"answer": "United Kingdom"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bg.png",
+			"variants": ["British Virgin Islands", "Cambodia", "Bulgaria", "Austria"],
+			"answer": "Bulgaria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tw.png",
+			"variants": ["Taiwan", "Mayotte", "Bahrain", "Slovakia"],
+			"answer": "Taiwan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fo.png",
+			"variants": ["Morocco", "Marshall Islands", "Belarus", "Faroe Islands"],
+			"answer": "Faroe Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["Algeria", "Georgia", "Laos", "Isle of Man"],
+			"answer": "Algeria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bh.png",
+			"variants": ["Austria", "Croatia", "Malawi", "Bahrain"],
+			"answer": "Bahrain"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zm.png",
+			"variants": ["India", "Saudi Arabia", "Zambia", "British Virgin Islands"],
+			"answer": "Zambia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kh.png",
+			"variants": ["Cayman Islands", "Madagascar", "Chad", "Cambodia"],
+			"answer": "Cambodia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gu.png",
+			"variants": ["Burundi", "Vanuatu", "Guam", "Estonia"],
+			"answer": "Guam"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ni.png",
+			"variants": ["Norway", "India", "Nicaragua", "Czechia"],
+			"answer": "Nicaragua"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cr.png",
+			"variants": ["Costa Rica", "Russia", "Switzerland", "Rwanda"],
+			"answer": "Costa Rica"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bd.png",
+			"variants": ["Japan", "Bangladesh", "Cape Verde", "French Guiana"],
+			"answer": "Bangladesh"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ki.png",
+			"variants": ["Kiribati", "Serbia", "Sweden", "São Tomé and Príncipe"],
+			"answer": "Kiribati"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bb.png",
+			"variants": ["Christmas Island", "Mauritania", "North Korea", "Barbados"],
+			"answer": "Barbados"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pt.png",
+			"variants": ["Maldives", "Liberia", "Mauritania", "Portugal"],
+			"answer": "Portugal"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["Algeria", "Egypt", "Iran", "São Tomé and Príncipe"],
+			"answer": "Iran"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/er.png",
+			"variants": ["Japan", "Cambodia", "Eritrea", "Nepal"],
+			"answer": "Eritrea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ms.png",
+			"variants": ["Guernsey", "France", "Montserrat", "Mongolia"],
+			"answer": "Montserrat"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ht.png",
+			"variants": ["Uganda", "Haiti", "Bangladesh", "Saint Martin"],
+			"answer": "Haiti"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lr.png",
+			"variants": ["Niger", "Israel", "Liberia", "Bonaire"],
+			"answer": "Liberia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sb.png",
+			"variants": ["Solomon Islands", "Niue", "Norway", "Mayotte"],
+			"answer": "Solomon Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/li.png",
+			"variants": ["Ireland", "Botswana", "Liechtenstein", "Venezuela"],
+			"answer": "Liechtenstein"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/so.png",
+			"variants": ["Lebanon", "Saint Helena", "Somalia", "Andorra"],
+			"answer": "Somalia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/th.png",
+			"variants": ["U.S. Virgin Islands", "Thailand", "Nigeria", "Albania"],
+			"answer": "Thailand"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bs.png",
+			"variants": ["Philippines", "Panama", "Taiwan", "Bahamas"],
+			"answer": "Bahamas"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mc.png",
+			"variants": ["Tunisia", "Monaco", "Syria", "Svalbard and Jan Mayen"],
+			"answer": "Monaco"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bl.png",
+			"variants": ["Gabon", "Chad", "Saint Barthélemy", "Latvia"],
+			"answer": "Saint Barthélemy"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tm.png",
+			"variants": [
+				"United Arab Emirates",
+				"Turkmenistan",
+				"Ireland",
+				"Cocos [Keeling] Islands"
+			],
+			"answer": "Turkmenistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ck.png",
+			"variants": ["New Zealand", "Ivory Coast", "Cook Islands", "Dominica"],
+			"answer": "Cook Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lu.png",
+			"variants": ["Brazil", "Luxembourg", "Angola", "Republic of the Congo"],
+			"answer": "Luxembourg"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/af.png",
+			"variants": ["Maldives", "Hong Kong", "French Polynesia", "Afghanistan"],
+			"answer": "Afghanistan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/us.png",
+			"variants": [
+				"Saint Pierre and Miquelon",
+				"Estonia",
+				"United States",
+				"Ecuador"
+			],
+			"answer": "United States"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tv.png",
+			"variants": ["Cyprus", "Chad", "North Korea", "Tuvalu"],
+			"answer": "Tuvalu"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vu.png",
+			"variants": [
+				"Switzerland",
+				"British Virgin Islands",
+				"Vanuatu",
+				"French Polynesia"
+			],
+			"answer": "Vanuatu"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lb.png",
+			"variants": ["Bermuda", "Ecuador", "Mauritania", "Lebanon"],
+			"answer": "Lebanon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tr.png",
+			"variants": ["Czechia", "Turkey", "Turks and Caicos Islands", "Benin"],
+			"answer": "Turkey"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rw.png",
+			"variants": ["Portugal", "Rwanda", "France", "Guernsey"],
+			"answer": "Rwanda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/va.png",
+			"variants": ["Saint Lucia", "Botswana", "Burkina Faso", "Vatican City"],
+			"answer": "Vatican City"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vn.png",
+			"variants": ["Venezuela", "Vietnam", "Malawi", "Philippines"],
+			"answer": "Vietnam"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mw.png",
+			"variants": ["Morocco", "Gabon", "Malawi", "Sudan"],
+			"answer": "Malawi"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lv.png",
+			"variants": ["Latvia", "Trinidad and Tobago", "Venezuela", "Italy"],
+			"answer": "Latvia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lk.png",
+			"variants": ["Tanzania", "India", "Sri Lanka", "Niue"],
+			"answer": "Sri Lanka"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/so.png",
+			"variants": ["Turkey", "Jersey", "Kuwait", "Somalia"],
+			"answer": "Somalia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ro.png",
+			"variants": [
+				"Falkland Islands",
+				"Romania",
+				"Trinidad and Tobago",
+				"Guinea"
+			],
+			"answer": "Romania"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sr.png",
+			"variants": ["Namibia", "Luxembourg", "Suriname", "Lebanon"],
+			"answer": "Suriname"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ly.png",
+			"variants": ["Equatorial Guinea", "Morocco", "United Kingdom", "Libya"],
+			"answer": "Libya"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gn.png",
+			"variants": ["Bhutan", "Saint Pierre and Miquelon", "Guinea", "Denmark"],
+			"answer": "Guinea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/de.png",
+			"variants": ["Faroe Islands", "Guernsey", "Burundi", "Germany"],
+			"answer": "Germany"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gd.png",
+			"variants": ["Uzbekistan", "Grenada", "Wallis and Futuna", "France"],
+			"answer": "Grenada"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dj.png",
+			"variants": ["Uganda", "Libya", "Djibouti", "Spain"],
+			"answer": "Djibouti"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mk.png",
+			"variants": ["Sierra Leone", "Hong Kong", "Macedonia", "China"],
+			"answer": "Macedonia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gb.png",
+			"variants": ["Poland", "United Kingdom", "Libya", "Sierra Leone"],
+			"answer": "United Kingdom"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tg.png",
+			"variants": [
+				"Democratic Republic of the Congo",
+				"Kuwait",
+				"Lithuania",
+				"Togo"
+			],
+			"answer": "Togo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/si.png",
+			"variants": [
+				"Chad",
+				"East Timor",
+				"Turks and Caicos Islands",
+				"Slovenia"
+			],
+			"answer": "Slovenia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lr.png",
+			"variants": ["Liberia", "Suriname", "Chad", "Uganda"],
+			"answer": "Liberia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sy.png",
+			"variants": ["Bahrain", "Gibraltar", "Syria", "Poland"],
+			"answer": "Syria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sh.png",
+			"variants": ["Bahamas", "Saint Helena", "Anguilla", "Canada"],
+			"answer": "Saint Helena"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/za.png",
+			"variants": ["South Africa", "Latvia", "Iceland", "Gibraltar"],
+			"answer": "South Africa"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vc.png",
+			"variants": [
+				"Dominican Republic",
+				"Saint Lucia",
+				"Tokelau",
+				"Saint Vincent and the Grenadines"
+			],
+			"answer": "Saint Vincent and the Grenadines"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mv.png",
+			"variants": ["Peru", "Dominica", "Mali", "Maldives"],
+			"answer": "Maldives"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jm.png",
+			"variants": ["Jamaica", "Greece", "Macedonia", "Latvia"],
+			"answer": "Jamaica"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gf.png",
+			"variants": ["Swaziland", "Botswana", "Argentina", "French Guiana"],
+			"answer": "French Guiana"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sa.png",
+			"variants": [
+				"Svalbard and Jan Mayen",
+				"American Samoa",
+				"Cuba",
+				"Saudi Arabia"
+			],
+			"answer": "Saudi Arabia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["South Africa", "South Korea", "Iran", "Thailand"],
+			"answer": "Iran"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": ["Japan", "Uganda", "Cayman Islands", "Ireland"],
+			"answer": "Uganda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["Paraguay", "Mauritius", "Puerto Rico", "Oman"],
+			"answer": "Oman"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/la.png",
+			"variants": ["Georgia", "Namibia", "Mayotte", "Laos"],
+			"answer": "Laos"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/to.png",
+			"variants": ["Tonga", "Kyrgyzstan", "Dominica", "Madagascar"],
+			"answer": "Tonga"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nz.png",
+			"variants": [
+				"Turkmenistan",
+				"Svalbard and Jan Mayen",
+				"Honduras",
+				"New Zealand"
+			],
+			"answer": "New Zealand"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/st.png",
+			"variants": ["Jersey", "Austria", "São Tomé and Príncipe", "Finland"],
+			"answer": "São Tomé and Príncipe"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kz.png",
+			"variants": ["Saudi Arabia", "New Caledonia", "Jamaica", "Kazakhstan"],
+			"answer": "Kazakhstan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": [
+				"Liberia",
+				"Burkina Faso",
+				"French Southern Territories",
+				"Palestine"
+			],
+			"answer": "Burkina Faso"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cl.png",
+			"variants": ["Bahamas", "Malta", "Anguilla", "Chile"],
+			"answer": "Chile"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pm.png",
+			"variants": ["Saint Pierre and Miquelon", "Turkey", "Eritrea", "Guyana"],
+			"answer": "Saint Pierre and Miquelon"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/np.png",
+			"variants": ["Sri Lanka", "Nepal", "Morocco", "Malaysia"],
+			"answer": "Nepal"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ps.png",
+			"variants": ["Sudan", "New Caledonia", "Madagascar", "Palestine"],
+			"answer": "Palestine"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sz.png",
+			"variants": ["Germany", "Swaziland", "Iran", "French Guiana"],
+			"answer": "Swaziland"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gm.png",
+			"variants": ["Tuvalu", "Laos", "Guinea", "Gambia"],
+			"answer": "Gambia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/az.png",
+			"variants": [
+				"Azerbaijan",
+				"French Guiana",
+				"Equatorial Guinea",
+				"Bonaire"
+			],
+			"answer": "Azerbaijan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/do.png",
+			"variants": [
+				"Puerto Rico",
+				"Wallis and Futuna",
+				"Dominican Republic",
+				"Turks and Caicos Islands"
+			],
+			"answer": "Dominican Republic"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sk.png",
+			"variants": ["Indonesia", "Uganda", "Slovakia", "Bonaire"],
+			"answer": "Slovakia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/me.png",
+			"variants": ["Cameroon", "Algeria", "Montenegro", "South Africa"],
+			"answer": "Montenegro"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/na.png",
+			"variants": ["Comoros", "Namibia", "Bulgaria", "Jersey"],
+			"answer": "Namibia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lr.png",
+			"variants": ["Namibia", "Anguilla", "Liberia", "Italy"],
+			"answer": "Liberia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sb.png",
+			"variants": ["Mauritius", "Solomon Islands", "Zambia", "Australia"],
+			"answer": "Solomon Islands"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dj.png",
+			"variants": ["Tokelau", "Panama", "Yemen", "Djibouti"],
+			"answer": "Djibouti"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bn.png",
+			"variants": ["Kenya", "Malta", "Brunei", "Central African Republic"],
+			"answer": "Brunei"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": [
+				"U.S. Virgin Islands",
+				"Uganda",
+				"Estonia",
+				"Dominican Republic"
+			],
+			"answer": "Uganda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tt.png",
+			"variants": [
+				"Turkey",
+				"Solomon Islands",
+				"U.S. Virgin Islands",
+				"Trinidad and Tobago"
+			],
+			"answer": "Trinidad and Tobago"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mk.png",
+			"variants": [
+				"American Samoa",
+				"Turks and Caicos Islands",
+				"Macedonia",
+				"Belize"
+			],
+			"answer": "Macedonia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/az.png",
+			"variants": ["Azerbaijan", "Vanuatu", "French Guiana", "Colombia"],
+			"answer": "Azerbaijan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bd.png",
+			"variants": ["Micronesia", "Bangladesh", "United States", "Rwanda"],
+			"answer": "Bangladesh"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/py.png",
+			"variants": ["Qatar", "Paraguay", "Bahrain", "Haiti"],
+			"answer": "Paraguay"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kg.png",
+			"variants": [
+				"São Tomé and Príncipe",
+				"Kyrgyzstan",
+				"Maldives",
+				"United Arab Emirates"
+			],
+			"answer": "Kyrgyzstan"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/aw.png",
+			"variants": [
+				"South Georgia and the South Sandwich Islands",
+				"Aruba",
+				"Germany",
+				"Sudan"
+			],
+			"answer": "Aruba"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/br.png",
+			"variants": ["Seychelles", "Brazil", "Saint Lucia", "Guinea"],
+			"answer": "Brazil"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["Russia", "Malaysia", "Burkina Faso", "French Polynesia"],
+			"answer": "French Polynesia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dk.png",
+			"variants": ["Denmark", "Liberia", "Czechia", "Lesotho"],
+			"answer": "Denmark"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ba.png",
+			"variants": [
+				"Bosnia and Herzegovina",
+				"Czechia",
+				"Macao",
+				"Guinea-Bissau"
+			],
+			"answer": "Bosnia and Herzegovina"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/uy.png",
+			"variants": [
+				"Germany",
+				"East Timor",
+				"Uruguay",
+				"Saint Pierre and Miquelon"
+			],
+			"answer": "Uruguay"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rw.png",
+			"variants": ["Egypt", "Kenya", "Rwanda", "Sri Lanka"],
+			"answer": "Rwanda"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["Jordan", "East Timor", "Algeria", "Poland"],
+			"answer": "Algeria"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ki.png",
+			"variants": ["Kiribati", "Palau", "India", "Paraguay"],
+			"answer": "Kiribati"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["Turkmenistan", "Cuba", "Gabon", "Iran"],
+			"answer": "Iran"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cf.png",
+			"variants": ["Ukraine", "Central African Republic", "Estonia", "Fiji"],
+			"answer": "Central African Republic"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gn.png",
+			"variants": ["Niger", "Tonga", "Guinea", "Egypt"],
+			"answer": "Guinea"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/td.png",
+			"variants": ["Chad", "Singapore", "Oman", "Martinique"],
+			"answer": "Chad"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zm.png",
+			"variants": ["Zambia", "Ecuador", "Ghana", "Guadeloupe"],
+			"answer": "Zambia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mu.png",
+			"variants": [
+				"Marshall Islands",
+				"Venezuela",
+				"Cayman Islands",
+				"Mauritius"
+			],
+			"answer": "Mauritius"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bb.png",
+			"variants": ["Bonaire", "South Africa", "Solomon Islands", "Barbados"],
+			"answer": "Barbados"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ee.png",
+			"variants": ["Estonia", "Greece", "Vietnam", "Ivory Coast"],
+			"answer": "Estonia"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sm.png",
+			"variants": ["Åland", "Botswana", "San Marino", "Syria"],
+			"answer": "San Marino"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ao.png",
+			"variants": ["Curacao", "Cocos [Keeling] Islands", "Angola", "Brunei"],
+			"answer": "Angola"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tk.png",
+			"variants": ["Denmark", "Belarus", "Slovakia", "Tokelau"],
+			"answer": "Tokelau"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dk.png",
+			"variants": ["Laos", "Denmark", "French Southern Territories", "Tuvalu"],
+			"answer": "Denmark"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cx.png",
+			"variants": [
+				"Equatorial Guinea",
+				"Slovakia",
+				"Christmas Island",
+				"Mauritius"
+			],
+			"answer": "Christmas Island"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cd.png",
+			"variants": [
+				"Togo",
+				"Norfolk Island",
+				"Democratic Republic of the Congo",
+				"Fiji"
+			],
+			"answer": "Democratic Republic of the Congo"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mf.png",
+			"variants": ["Serbia", "Saint Martin", "Bahamas", "Syria"],
+			"answer": "Saint Martin"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/il.png",
+			"variants": ["Israel", "French Guiana", "Kazakhstan", "Niue"],
+			"answer": "Israel"
+		}
+	],
+
+	"ku": [
+		{
+			"flag": "https://flagcdn.com/256x192/mg.png",
+			"variants": ["کازاخستان", "ماداگاسکار", "ئێریتریا", "نیجەر"],
+			"answer": "ماداگاسکار"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/iq.png",
+			"variants": ["ماداگاسکار", "کۆستەریکا", "عێراق", "شانشینە یەگرتۆکان"],
+			"answer": "عێراق"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fj.png",
+			"variants": ["ئەندۆرا", "ئەلبانیا", "ئیستۆنیا", "فیجی"],
+			"answer": "فیجی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gl.png",
+			"variants": ["گرینلاند", "ئەسیوپیا", "ڕۆمانیا", "مارتینیک"],
+			"answer": "گرینلاند"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ro.png",
+			"variants": ["ڕۆمانیا", "سری لانکا", "تونس", "سلڤادۆر"],
+			"answer": "ڕۆمانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cc.png",
+			"variants": [
+				"مایۆت",
+				"شانشینە یەگرتۆکان",
+				"دوورگەکانی کۆکۆس [کیلینگ].",
+				"نەیجیریا"
+			],
+			"answer": "دوورگەکانی کۆکۆس [کیلینگ]."
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pw.png",
+			"variants": ["لیختنشتاین", "فلیپین", "پالاو", "سیشێل"],
+			"answer": "پالاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sv.png",
+			"variants": [
+				"سلڤادۆر",
+				"نیوزله‌ندا",
+				"بۆلیڤیا",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور"
+			],
+			"answer": "ئەلسەلڤادۆر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/aw.png",
+			"variants": ["ساموا", "سلۆڤاکیا", "بەڕازیل", "ئاروبا"],
+			"answer": "ئاروبا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rs.png",
+			"variants": ["تۆکێلاو", "ئیسپانیا", "سربیا", "کیریباتی"],
+			"answer": "سربیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cg.png",
+			"variants": ["شانشینی عەرەبی", "قوبرس", "کۆماری کۆنگۆ", "بۆتان"],
+			"answer": "کۆماری کۆنگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ec.png",
+			"variants": ["سویدی", "ئەسیوپیا", "ئیکوادۆر", "پاکستان"],
+			"answer": "ئیکوادۆر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/us.png",
+			"variants": [
+				"ویلایەتە یەکگرتووەکان",
+				"مایکرۆنێزیا",
+				"ڤێتنام",
+				"میانمار [بۆرما]"
+			],
+			"answer": "ئەمریکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nl.png",
+			"variants": ["هۆڵەندا", "کیریباتی", "ئوردن", "ئۆکرانیا"],
+			"answer": "هۆڵەندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vg.png",
+			"variants": [
+				"باربادۆس",
+				"دوورگەکانی ڤێرجینیای بەریتانیا",
+				"تورکمانستان",
+				"ئازەربایجان"
+			],
+			"answer": "دوورگەکانی ڤێرجینیای بەریتانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pn.png",
+			"variants": ["نیجەر", "باربادۆس", "دوورگەکانی پیتکاین", "لیبیا"],
+			"answer": "دوورگەکانی پیتکەیرن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gb.png",
+			"variants": [
+				"دوورگەی مان",
+				"سری لانکا",
+				"شانشینە یەگرتۆکان",
+				"بۆسنە و هێرزۆگۆبینیا"
+			],
+			"answer": "شانشینی یەکگرتوو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tz.png",
+			"variants": ["مالاوی", "نیپاڵ", "تانزانیا", "سربیا"],
+			"answer": "تانزانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lr.png",
+			"variants": ["دوورگەکانی فۆڵکلاند", "کۆتى عاج", "بۆنایر", "لیبێریا"],
+			"answer": "لیبێریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dm.png",
+			"variants": ["شانشینی عەرەبی", "گرینلاند", "کەمبۆدیا", "دۆمینیکا"],
+			"answer": "دۆمینیکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["مۆناکۆ", "ئازەربایجان", "ئێران", "ناورو"],
+			"answer": "ئێران"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ly.png",
+			"variants": ["دوورگەکانی فۆڵکلاند", "زامبیا", "لیبیا", "ئیکوادۆر"],
+			"answer": "لیبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vn.png",
+			"variants": ["ڤێتنام", "مەغریب", "پالاو", "کامیرۆن"],
+			"answer": "ڤێتنام"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ls.png",
+			"variants": ["دوورگەی مان", "سیرالیۆن", "لێسۆتۆ", "سودان"],
+			"answer": "لێسۆتۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ag.png",
+			"variants": [
+				"کۆڵۆمبیا",
+				"کۆمۆرۆس",
+				"سانت بارتێلمی",
+				"ئەنتیگوا و باربودا"
+			],
+			"answer": "ئەنتیگوا و باربودا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dk.png",
+			"variants": ["مەنگۆلیا", "فەلەستین", "دانیمارک", "فیجی"],
+			"answer": "دانیمارک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/am.png",
+			"variants": ["کوێت", "ئەرمینیا", "باربادۆس", "پۆڵەندا"],
+			"answer": "ئەرمینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bn.png",
+			"variants": ["تایلەند", "برونێی", "دوورگەکانی ماریانای باکوور", "پالاو"],
+			"answer": "برونێی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ht.png",
+			"variants": ["هۆنگ کۆنگ", "گامبیا", "هایتی", "ئەفغانستان"],
+			"answer": "هایتی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/eh.png",
+			"variants": ["ڕۆژئاوای سەحرا", "ئایسلەندا", "کیریباتی", "زامبیا"],
+			"answer": "سەحرای ڕۆژئاوا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lb.png",
+			"variants": ["لوبنان", "مەقدۆنیا", "سینت مارتن", "گامبیا"],
+			"answer": "لوبنان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vu.png",
+			"variants": [
+				"سانت ڤینسێنت و گرێنادین",
+				"ساو تۆمێ و پرینسیپی",
+				"ڤانواتو",
+				"سری لانکا"
+			],
+			"answer": "ڤانواتو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bw.png",
+			"variants": ["بۆتسوانا", "تورکمانستان", "یەمەن", "ڕۆژئاوای سەحرا"],
+			"answer": "بۆتسوانا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zw.png",
+			"variants": ["زیمبابۆی", "بەرمودا", "مۆنتسێرات", "مۆزەمبیق"],
+			"answer": "زیمبابۆی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cy.png",
+			"variants": ["قوبرس", "لیبیا", "سانت ڤینسێنت و گرێنادین", "سەنیگال"],
+			"answer": "قوبرس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/im.png",
+			"variants": [
+				"کۆریای باشوور",
+				"دوورگەی مان",
+				"والیس و فوتونا",
+				"ئەفغانستان"
+			],
+			"answer": "دوورگەی مان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sa.png",
+			"variants": [
+				"بۆسنە و هێرزۆگۆبینیا",
+				"ڕێونیۆن",
+				"لوبنان",
+				"عەرەبستانی سوعوودی"
+			],
+			"answer": "سعودیە"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ba.png",
+			"variants": ["فەلەستین", "ئەلبانیا", "پورتوگال", "بۆسنە و هێرزۆگۆبینیا"],
+			"answer": "بۆسنە و هەرزەگۆڤینا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/co.png",
+			"variants": ["سانت مارتن", "هەنگاریا", "نیوە", "کۆڵۆمبیا"],
+			"answer": "کۆڵۆمبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kr.png",
+			"variants": ["دوورگەکانی فۆڵکلاند", "بەحرەین", "کۆریای باشوور", "ئێران"],
+			"answer": "کۆریای باشوور"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cz.png",
+			"variants": ["ڕۆژئاوای سەحرا", "چیکیا", "خاکی باشووری فەرەنسا", "زامبیا"],
+			"answer": "چیکیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ru.png",
+			"variants": ["پاپوای نیوگینیا", "ڕوسیا", "گینیا", "سڤاڵبارد و یان ماین"],
+			"answer": "ڕووسیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sc.png",
+			"variants": ["سلۆڤاکیا", "سیشێل", "لیبێریا", "باشووری سودان"],
+			"answer": "سیشێڵ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mt.png",
+			"variants": ["پیرۆ", "ماڵتا", "یۆنان", "دوورگەکانی فۆڵکلاند"],
+			"answer": "ماڵتا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sa.png",
+			"variants": ["بەحرەین", "سویسرا", "عەرەبستانی سوعوودی", "لیختنشتاین"],
+			"answer": "سعودیە"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mf.png",
+			"variants": ["پاراگوای", "سانت مارتن", "سانت پیێر و میکێلۆن", "برونێی"],
+			"answer": "سەینت مارتن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cv.png",
+			"variants": ["گینیا-بیساو", "گوادلۆپ", "کیپ ڤێردی", "ڕۆژئاوای سەحرا"],
+			"answer": "کیپ ڤێرد"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/si.png",
+			"variants": ["سلۆڤینیا", "شانشینی عەرەبی", "پاکستان", "تورکیا"],
+			"answer": "سلۆڤینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ye.png",
+			"variants": ["بولگاریا", "جامایکا", "کۆڵۆمبیا", "یەمەن"],
+			"answer": "یەمەن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ni.png",
+			"variants": ["بولگاریا", "فیجی", "زامبیا", "نیکاراگوا"],
+			"answer": "نیکاراگوا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": ["مۆریتانیا", "دانیمارک", "گواتیمالا", "بورکینا فاسۆ"],
+			"answer": "بورکینا فاسۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tj.png",
+			"variants": ["تاجیکستان", "مایۆت", "باشوری ئەفریقا", "مۆناکۆ"],
+			"answer": "تاجیکستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/eh.png",
+			"variants": ["ئیکواتۆریال گینیا", "تورکیا", "ڕۆژئاوای سەحرا", "لیتوانیا"],
+			"answer": "سەحرای ڕۆژئاوا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/as.png",
+			"variants": ["سامۆای ئەمریکی", "مالاوی", "دانیمارک", "ئەسیوپیا"],
+			"answer": "سامۆای ئەمریکی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dm.png",
+			"variants": ["ماداگاسکار", "تەيمۆری رۆژهەڵات", "دۆمینیکا", "ئیسپانیا"],
+			"answer": "دۆمینیکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": ["ئۆگاندا", "گرینلاند", "ژاپۆن", "سامۆای ئەمریکی"],
+			"answer": "ئۆگاندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ua.png",
+			"variants": ["سربیا", "ئەنگویلا", "ئۆکرانیا", "هۆنگ کۆنگ"],
+			"answer": "ئۆکرانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kw.png",
+			"variants": ["کۆریای باکور", "کوێت", "سانت کیتس و نیڤیس", "مەقدۆنیا"],
+			"answer": "کوێت"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bj.png",
+			"variants": ["ڕۆژئاوای سەحرا", "سانت مارتن", "بێنین", "باشووری سودان"],
+			"answer": "بێنین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/yt.png",
+			"variants": ["دوورگەکانی کوک", "مایۆت", "بەلجیکا", "سانت پیێر و میکێلۆن"],
+			"answer": "مایۆت"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["پاکستان", "ئایسلەندا", "جیبۆتی", "ئێران"],
+			"answer": "ئێران"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ba.png",
+			"variants": [
+				"بۆسنە و هێرزۆگۆبینیا",
+				"بەرمودا",
+				"تورکمانستان",
+				"دوورگەکانی کایمان"
+			],
+			"answer": "بۆسنە و هەرزەگۆڤینا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hk.png",
+			"variants": ["تۆنگا", "هۆنگ کۆنگ", "ڕۆمانیا", "چیکیا"],
+			"answer": "هۆنگ کۆنگ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ls.png",
+			"variants": ["چاد", "ئیکوادۆر", "لێسۆتۆ", "تورکیا"],
+			"answer": "لێسۆتۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/st.png",
+			"variants": ["نەمسا", "ساو تۆمێ و پرینسیپی", "کۆسۆڤۆ", "باهاماس"],
+			"answer": "ساو تۆمێ و پرینسیپی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gt.png",
+			"variants": ["نەمسا", "سودان", "گواتیمالا", "تایلەند"],
+			"answer": "گواتیمالا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pw.png",
+			"variants": ["ماڵتا", "ڕوسیا", "فلیپین", "پالاو"],
+			"answer": "پالاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ad.png",
+			"variants": ["کیریباتی", "ئاروبا", "ئەندۆرا", "دانیمارک"],
+			"answer": "ئەندۆرا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ye.png",
+			"variants": ["مەغریب", "یەمەن", "لێسۆتۆ", "پالاو"],
+			"answer": "یەمەن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["عەرەبستانی سوعوودی", "جەزائیر", "مەغریب", "مالی"],
+			"answer": "جەزائیر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bb.png",
+			"variants": ["باربادۆس", "ڕواندا", "بۆنایر", "گویانا"],
+			"answer": "باربادۆس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kg.png",
+			"variants": ["زامبیا", "لاتڤیا", "قرغیزستان", "هندۆراس"],
+			"answer": "قرقیزستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/yt.png",
+			"variants": ["نامیبیا", "کۆسۆڤۆ", "مایۆت", "شانشینە یەگرتۆکان"],
+			"answer": "مایۆت"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gm.png",
+			"variants": ["پورتوگال", "لیتوانیا", "سلڤادۆر", "گامبیا"],
+			"answer": "گامبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/im.png",
+			"variants": [
+				"بەنگلادیش",
+				"دوورگەکانی کایمان",
+				"دوورگەی مان",
+				"دوورگەکانی ماریانای باکوور"
+			],
+			"answer": "دوورگەی مان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gd.png",
+			"variants": ["جیبۆتی", "نیکاراگوا", "گرێنادا", "مۆڵدۆڤا"],
+			"answer": "گرێنادا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zw.png",
+			"variants": ["ئەرجەنتین", "ماڵتا", "سانت هێلێنا", "زیمبابۆی"],
+			"answer": "زیمبابۆی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/re.png",
+			"variants": ["ساموا", "ڕێونیۆن", "ئەڵمانیا", "ئێرلەندا"],
+			"answer": "ڕیونیۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tl.png",
+			"variants": [
+				"ئوسترالیا",
+				"تەيمۆری رۆژهەڵات",
+				"ساو تۆمێ و پرینسیپی",
+				"سورینام"
+			],
+			"answer": "تیمۆری ڕۆژهەڵات"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ky.png",
+			"variants": ["ئێریتریا", "دوورگەکانی کایمان", "تایوان", "نیپاڵ"],
+			"answer": "دوورگەکانی کایمان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ls.png",
+			"variants": ["سلۆڤینیا", "لێسۆتۆ", "ئۆگاندا", "کازاخستان"],
+			"answer": "لێسۆتۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vi.png",
+			"variants": [
+				"دوورگەکانی ڤێرجینی ئەمریکا",
+				"ئۆزبەکستان",
+				"غانا",
+				"دوورگەکانی ماریانای باکوور"
+			],
+			"answer": "دوورگەکانی ڤێرجینیای ئەمریکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tt.png",
+			"variants": ["ترینیداد و تۆباگۆ", "دانیمارک", "تاجیکستان", "ئۆرۆگوای"],
+			"answer": "ترینیداد و تۆباگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/au.png",
+			"variants": ["سویسرا", "ئوسترالیا", "بەلیز", "فلیپین"],
+			"answer": "ئوسترالیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["جەزائیر", "پەنەما", "گرێنادا", "جبل طارق"],
+			"answer": "جەزائیر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/be.png",
+			"variants": ["پۆڵەندا", "مۆنتینیگرۆ", "لیتوانیا", "بەلجیکا"],
+			"answer": "بەلجیکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tg.png",
+			"variants": ["بوروندی", "کۆستەریکا", "ماڵتا", "تۆگۆ"],
+			"answer": "تۆگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sy.png",
+			"variants": ["سوریا", "گرینلاند", "فەرەنسا", "کوێت"],
+			"answer": "سوریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vg.png",
+			"variants": [
+				"میانمار [بۆرما]",
+				"دوورگەکانی ڤێرجینیای بەریتانیا",
+				"ئەڵمانیا",
+				"ئوسترالیا"
+			],
+			"answer": "دوورگەکانی ڤێرجینیای بەریتانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bi.png",
+			"variants": ["دوورگەکانی کایمان", "ئەسیوپیا", "بوروندی", "ئۆکرانیا"],
+			"answer": "بۆروندی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ht.png",
+			"variants": ["بورکینا فاسۆ", "سەنگافورە", "هایتی", "جامایکا"],
+			"answer": "هایتی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pe.png",
+			"variants": ["ماڵتا", "پیرۆ", "ئیتاڵیا", "لیتوانیا"],
+			"answer": "پیرۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gt.png",
+			"variants": ["کۆماری کۆنگۆ", "گواتیمالا", "نەرویج", "تاجیکستان"],
+			"answer": "گواتیمالا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dj.png",
+			"variants": [
+				"جیبۆتی",
+				"دوورگەکانی تورک و کایکۆس",
+				"شیلی",
+				"کاڵێدۆنیای نوێ"
+			],
+			"answer": "جیبۆتی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tn.png",
+			"variants": ["ئازەربایجان", "تونس", "بەڕازیل", "شیلی"],
+			"answer": "تونس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hk.png",
+			"variants": ["ڕێونیۆن", "کامیرۆن", "هۆنگ کۆنگ", "پالاو"],
+			"answer": "هۆنگ کۆنگ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["کینیا", "جیبۆتی", "پۆلینیزیای فەرەنسی", "تانزانیا"],
+			"answer": "پۆلینیزیای فەرەنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["پورتوگال", "پەنەما", "ئێران", "لیختنشتاین"],
+			"answer": "ئێران"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/to.png",
+			"variants": ["بێلاڕوس", "تۆنگا", "ماڵدیڤ", "بۆتسوانا"],
+			"answer": "تۆنگا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vn.png",
+			"variants": ["تایلەند", "ڤێتنام", "ئۆزبەکستان", "مەغریب"],
+			"answer": "ڤێتنام"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vg.png",
+			"variants": [
+				"سویدی",
+				"سودان",
+				"ئیکواتۆریال گینیا",
+				"دوورگەکانی ڤێرجینیای بەریتانیا"
+			],
+			"answer": "دوورگەکانی ڤێرجینیای بەریتانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ne.png",
+			"variants": ["نیجەر", "مەغریب", "ئۆگاندا", "مەنگۆلیا"],
+			"answer": "نیجەر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ni.png",
+			"variants": ["لاتڤیا", "نیکاراگوا", "ئەسیوپیا", "قوبرس"],
+			"answer": "نیکاراگوا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/be.png",
+			"variants": ["بوروندی", "ئیسپانیا", "بەلجیکا", "فلیپین"],
+			"answer": "بەلجیکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lu.png",
+			"variants": [
+				"ماکاو",
+				"لۆکسمبۆرگ",
+				"سانت ڤینسێنت و گرێنادین",
+				"کیپ ڤێردی"
+			],
+			"answer": "لۆکسمبۆرگ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pa.png",
+			"variants": ["کرواتیا", "مۆنتسێرات", "پەنەما", "سلڤادۆر"],
+			"answer": "پەنەما"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nu.png",
+			"variants": ["دورگەکانی فارۆ", "بۆتسوانا", "نیوە", "چیکیا"],
+			"answer": "نیوە"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sz.png",
+			"variants": ["گوام", "سوازیلاند", "ئیکواتۆریال گینیا", "تۆنگا"],
+			"answer": "سوازیلاند"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sd.png",
+			"variants": ["کیپ ڤێردی", "سودان", "سربیا", "قەتەر"],
+			"answer": "سودان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nf.png",
+			"variants": ["پیرۆ", "دوورگەی نۆرفۆلک", "بوروندی", "کاڵێدۆنیای نوێ"],
+			"answer": "دوورگەی نۆرفۆلک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/es.png",
+			"variants": ["چیکیا", "ئیسپانیا", "بێنین", "تورکیا"],
+			"answer": "ئیسپانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/np.png",
+			"variants": ["نیپاڵ", "سودان", "سویسرا", "دوورگەکانی ماریانای باکوور"],
+			"answer": "نیپاڵ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fk.png",
+			"variants": [
+				"مارتینیک",
+				"هۆڵەندا",
+				"سانت پیێر و میکێلۆن",
+				"دوورگەکانی فۆڵکلاند"
+			],
+			"answer": "دوورگەکانی فۆڵکلاند"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gg.png",
+			"variants": ["ئۆگاندا", "گێرنسی", "سیشێل", "بەحرەین"],
+			"answer": "گێرنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/is.png",
+			"variants": ["ئایسلەندا", "ئەنگۆلا", "دوورگەکانی سلێمان", "بەنگلادیش"],
+			"answer": "ئایسلەندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/uz.png",
+			"variants": [
+				"خاکی باشووری فەرەنسا",
+				"مەقدۆنیا",
+				"بۆتسوانا",
+				"ئۆزبەکستان"
+			],
+			"answer": "ئۆزبەکستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ai.png",
+			"variants": ["گینیا-بیساو", "ئەنگویلا", "نیپاڵ", "دورگەکانی فارۆ"],
+			"answer": "ئەنگویلا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zw.png",
+			"variants": ["ئەڵمانیا", "زیمبابۆی", "تۆکێلاو", "لیبێریا"],
+			"answer": "زیمبابۆی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mx.png",
+			"variants": ["سانت هێلێنا", "مەکسیک", "سلۆڤینیا", "ئیتاڵیا"],
+			"answer": "مەکسیک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sb.png",
+			"variants": [
+				"ساو تۆمێ و پرینسیپی",
+				"مۆنتسێرات",
+				"خاکی باشووری فەرەنسا",
+				"دوورگەکانی سلێمان"
+			],
+			"answer": "دوورگەکانی سلێمان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tz.png",
+			"variants": ["ئازەربایجان", "فلیپین", "کۆسۆڤۆ", "تانزانیا"],
+			"answer": "تانزانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bo.png",
+			"variants": ["گینیا-بیساو", "بۆلیڤیا", "لیبیا", "دانیمارک"],
+			"answer": "بۆلیڤیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mp.png",
+			"variants": [
+				"دوورگەکانی ڤێرجینیای بەریتانیا",
+				"دوورگەکانی ماریانای باکوور",
+				"مۆڵدۆڤا",
+				"سیشێل"
+			],
+			"answer": "دوورگەکانی باکووری ماریانا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bh.png",
+			"variants": ["سوریا", "ئیسپانیا", "ئەرمینیا", "بەحرەین"],
+			"answer": "بەحرەین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sa.png",
+			"variants": [
+				"یەمەن",
+				"پەنەما",
+				"دوورگەکانی فۆڵکلاند",
+				"عەرەبستانی سوعوودی"
+			],
+			"answer": "سعودیە"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bn.png",
+			"variants": ["ئێرلەندا", "سودان", "میسر", "برونێی"],
+			"answer": "برونێی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fr.png",
+			"variants": ["دوورگەی نۆرفۆلک", "فلیپین", "مۆریس", "فەرەنسا"],
+			"answer": "فەرەنسا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ua.png",
+			"variants": ["تانزانیا", "جێرسی", "ئۆکرانیا", "جبل طارق"],
+			"answer": "ئۆکرانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nu.png",
+			"variants": ["دوورگەی مان", "ڕواندا", "نیوە", "مۆزەمبیق"],
+			"answer": "نیوە"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/id.png",
+			"variants": ["ئەندەنوسیا", "بۆنایر", "ئیسرائیل", "بێلاڕوس"],
+			"answer": "ئەندەنوسیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bm.png",
+			"variants": [
+				"بۆتان",
+				"باشووری جۆرجیا و دوورگەکانی ساندویچی باشوور",
+				"زیمبابۆی",
+				"بەرمودا"
+			],
+			"answer": "بەرمودا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mq.png",
+			"variants": ["بۆنایر", "لیتوانیا", "باشوری ئەفریقا", "مارتینیک"],
+			"answer": "مارتینیک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/de.png",
+			"variants": ["دانیمارک", "ئەنگویلا", "ئەڵمانیا", "پۆلینیزیای فەرەنسی"],
+			"answer": "ئەڵمانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sn.png",
+			"variants": ["لۆکسمبۆرگ", "سەنیگال", "سانت مارتن", "کۆماری دۆمینیکەن"],
+			"answer": "سەنیگال"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/xk.png",
+			"variants": ["کۆسۆڤۆ", "جۆرجیا", "ساموا", "میانمار [بۆرما]"],
+			"answer": "کۆسۆڤۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/se.png",
+			"variants": ["سوازیلاند", "مالی", "ئەرمینیا", "سویدی"],
+			"answer": "سوید"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lc.png",
+			"variants": ["نیوزله‌ندا", "قەتەر", "فەرەنسا", "سانت لوسیا"],
+			"answer": "سانت لوسیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ge.png",
+			"variants": ["جۆرجیا", "یۆنان", "هەنگاریا", "ڕواندا"],
+			"answer": "جۆرجیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cm.png",
+			"variants": ["ئالاند", "مەقدۆنیا", "کامیرۆن", "ئەڵمانیا"],
+			"answer": "کامیرۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cw.png",
+			"variants": ["مۆزەمبیق", "ئەرجەنتین", "کوراکاو", "سوازیلاند"],
+			"answer": "کوراکاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["پۆلینیزیای فەرەنسی", "ماڵتا", "هندۆراس", "جبل طارق"],
+			"answer": "پۆلینیزیای فەرەنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ke.png",
+			"variants": ["توڤالو", "مەنگۆلیا", "کینیا", "ڕۆژئاوای سەحرا"],
+			"answer": "کینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kp.png",
+			"variants": [
+				"کۆریای باکور",
+				"ساو تۆمێ و پرینسیپی",
+				"ڕواندا",
+				"دوورگەکانی تورک و کایکۆس"
+			],
+			"answer": "کۆریای باکوور"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cf.png",
+			"variants": [
+				"کۆماری ئەفریقیای ناوەراست",
+				"ئیسرائیل",
+				"بەنگلادیش",
+				"مەنگۆلیا"
+			],
+			"answer": "کۆماری ئەفریقای ناوەڕاست"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mf.png",
+			"variants": [
+				"فەلەستین",
+				"ئەندەنوسیا",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور",
+				"سانت مارتن"
+			],
+			"answer": "سەینت مارتن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mk.png",
+			"variants": ["پالاو", "ئێران", "گێرنسی", "مەقدۆنیا"],
+			"answer": "مەقدۆنیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bo.png",
+			"variants": ["بۆلیڤیا", "نیوە", "مۆنتسێرات", "دورگەکانی فارۆ"],
+			"answer": "بۆلیڤیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vi.png",
+			"variants": [
+				"لێسۆتۆ",
+				"دوورگەکانی ڤێرجینی ئەمریکا",
+				"چاد",
+				"بۆسنە و هێرزۆگۆبینیا"
+			],
+			"answer": "دوورگەکانی ڤێرجینیای ئەمریکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tf.png",
+			"variants": ["سوریا", "ڕێونیۆن", "خاکی باشووری فەرەنسا", "سلڤادۆر"],
+			"answer": "خاکەکانی باشووری فەرەنسا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ch.png",
+			"variants": ["بولگاریا", "کوبا", "سۆماڵ", "سویسرا"],
+			"answer": "سویسرا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pk.png",
+			"variants": ["بەلیز", "گامبیا", "پاکستان", "کۆستەریکا"],
+			"answer": "پاکستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["عومان", "ڕوسیا", "ئیسرائیل", "کۆماری دیموکراتی کۆنگۆ"],
+			"answer": "عومان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ne.png",
+			"variants": [
+				"کۆماری دیموکراتی کۆنگۆ",
+				"دانیمارک",
+				"نیجەر",
+				"گینیا-بیساو"
+			],
+			"answer": "نیجەر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/li.png",
+			"variants": ["جۆرجیا", "تایلەند", "لیختنشتاین", "ڕۆژئاوای سەحرا"],
+			"answer": "لیختنشتاین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": ["ئیسرائیل", "فەلەستین", "ئێریتریا", "بورکینا فاسۆ"],
+			"answer": "بورکینا فاسۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/st.png",
+			"variants": [
+				"سلۆڤاکیا",
+				"دوورگەکانی تورک و کایکۆس",
+				"تایلەند",
+				"ساو تۆمێ و پرینسیپی"
+			],
+			"answer": "ساو تۆمێ و پرینسیپی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tm.png",
+			"variants": ["فەلەستین", "تورکمانستان", "ئەرمینیا", "نیکاراگوا"],
+			"answer": "تورکمانستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mn.png",
+			"variants": ["مەنگۆلیا", "سانت هێلێنا", "هیندستان", "زامبیا"],
+			"answer": "مەنگۆلیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/se.png",
+			"variants": ["هۆنگ کۆنگ", "سویدی", "مۆنتینیگرۆ", "شانشینی عەرەبی"],
+			"answer": "سوید"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/je.png",
+			"variants": ["کەمبۆدیا", "بولگاریا", "جێرسی", "هۆنگ کۆنگ"],
+			"answer": "جێرسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/re.png",
+			"variants": ["بێلاڕوس", "مالی", "ڕێونیۆن", "شاری ڤاتیكان"],
+			"answer": "ڕیونیۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mt.png",
+			"variants": ["ماڵتا", "مەغریب", "ماداگاسکار", "قوبرس"],
+			"answer": "ماڵتا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["دوورگەکانی مارشال", "ئەندەنوسیا", "ئاروبا", "عومان"],
+			"answer": "عومان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/بۆ نموونە.png",
+			"variants": ["میسر", "توڤالو", "ئۆزبەکستان", "ئەفغانستان"],
+			"answer": "میسر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mu.png",
+			"variants": ["مۆنتینیگرۆ", "مۆریس", "تۆگۆ", "بوروندی"],
+			"answer": "مۆریس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tv.png",
+			"variants": ["میانمار [بۆرما]", "کۆتى عاج", "سانت لوسیا", "توڤالو"],
+			"answer": "توڤالو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/us.png",
+			"variants": ["بێلاڕوس", "مالیزیا", "ویلایەتە یەکگرتووەکان", "سیرالیۆن"],
+			"answer": "ئەمریکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gg.png",
+			"variants": ["ساو تۆمێ و پرینسیپی", "چین", "ڕۆمانیا", "گێرنسی"],
+			"answer": "گێرنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nr.png",
+			"variants": [
+				"دوورگەکانی مارشال",
+				"ناورو",
+				"کرواتیا",
+				"باشووری جۆرجیا و دوورگەکانی ساندویچی باشوور"
+			],
+			"answer": "ناورو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ru.png",
+			"variants": ["ڕوسیا", "عەرەبستانی سوعوودی", "ئۆرۆگوای", "ئۆگاندا"],
+			"answer": "ڕووسیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kn.png",
+			"variants": ["مالی", "هندۆراس", "سانت کیتس و نیڤیس", "سوازیلاند"],
+			"answer": "سەینت کیتس و نیڤیس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mc.png",
+			"variants": ["هایتی", "کەنەدا", "مۆناکۆ", "ماداگاسکار"],
+			"answer": "مۆناکۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/se.png",
+			"variants": ["کۆماری دیموکراتی کۆنگۆ", "ئیسرائیل", "سربیا", "سویدی"],
+			"answer": "سوید"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/er.png",
+			"variants": ["نیپاڵ", "ئۆرۆگوای", "ئێریتریا", "تانزانیا"],
+			"answer": "ئێریتریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mx.png",
+			"variants": ["بۆنایر", "ڤانواتو", "مایکرۆنێزیا", "مەکسیک"],
+			"answer": "مەکسیک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dk.png",
+			"variants": ["ویلایەتە یەکگرتووەکان", "یەمەن", "ئێریتریا", "دانیمارک"],
+			"answer": "دانیمارک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bi.png",
+			"variants": ["ئوسترالیا", "سانت مارتن", "لێسۆتۆ", "بوروندی"],
+			"answer": "بۆروندی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mn.png",
+			"variants": ["ڕێونیۆن", "دۆمینیکا", "مەنگۆلیا", "سورینام"],
+			"answer": "مەنگۆلیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/na.png",
+			"variants": [
+				"کەمبۆدیا",
+				"دوورگەکانی ڤێرجینی ئەمریکا",
+				"نامیبیا",
+				"سانت هێلێنا"
+			],
+			"answer": "نامیبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kh.png",
+			"variants": [
+				"تورکیا",
+				"کەمبۆدیا",
+				"دوورگەکانی مارشال",
+				"دوورگەکانی ڤێرجینی ئەمریکا"
+			],
+			"answer": "کەمبۆدیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bh.png",
+			"variants": [
+				"بەحرەین",
+				"دوورگەکانی پیتکاین",
+				"ساو تۆمێ و پرینسیپی",
+				"گینیا-بیساو"
+			],
+			"answer": "بەحرەین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mq.png",
+			"variants": ["تۆگۆ", "سامۆای ئەمریکی", "ئیکوادۆر", "مارتینیک"],
+			"answer": "مارتینیک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gg.png",
+			"variants": [
+				"جیبۆتی",
+				"سویدی",
+				"گێرنسی",
+				"باشووری جۆرجیا و دوورگەکانی ساندویچی باشوور"
+			],
+			"answer": "گێرنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pk.png",
+			"variants": ["بوروندی", "تورکیا", "پاکستان", "میانمار [بۆرما]"],
+			"answer": "پاکستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cl.png",
+			"variants": ["سانت هێلێنا", "شیلی", "هایتی", "چاد"],
+			"answer": "شیلی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ca.png",
+			"variants": ["هیندستان", "کیپ ڤێردی", "تونس", "کەنەدا"],
+			"answer": "کەنەدا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ar.png",
+			"variants": ["ناورو", "ڤەنزوێلا", "ئەرجەنتین", "گینیا-بیساو"],
+			"answer": "ئەرجەنتین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hu.png",
+			"variants": ["پالاو", "مۆنتسێرات", "سەنگافورە", "هەنگاریا"],
+			"answer": "هەنگاریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/do.png",
+			"variants": [
+				"مۆناکۆ",
+				"کۆماری دۆمینیکەن",
+				"فینلاند",
+				"سانت ڤینسێنت و گرێنادین"
+			],
+			"answer": "کۆماری دۆمینیکان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/at.png",
+			"variants": [
+				"باشووری جۆرجیا و دوورگەکانی ساندویچی باشوور",
+				"تورکمانستان",
+				"نەمسا",
+				"تایلەند"
+			],
+			"answer": "نەمسا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pw.png",
+			"variants": ["سانت کیتس و نیڤیس", "قرغیزستان", "کۆمۆرۆس", "پالاو"],
+			"answer": "پالاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gy.png",
+			"variants": ["پاراگوای", "گویانا", "سانت هێلێنا", "غانا"],
+			"answer": "گویانا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ee.png",
+			"variants": ["تۆگۆ", "سری لانکا", "باشووری سودان", "ئیستۆنیا"],
+			"answer": "ئیستۆنیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ly.png",
+			"variants": ["خاکی باشووری فەرەنسا", "لیبیا", "تانزانیا", "کەمبۆدیا"],
+			"answer": "لیبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pe.png",
+			"variants": ["پیرۆ", "بەڕازیل", "مۆریتانیا", "کۆسۆڤۆ"],
+			"answer": "پیرۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sl.png",
+			"variants": ["کۆسۆڤۆ", "کاڵێدۆنیای نوێ", "سیرالیۆن", "سوازیلاند"],
+			"answer": "سیرالیۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ec.png",
+			"variants": [
+				"قوبرس",
+				"کۆماری دیموکراتی کۆنگۆ",
+				"ئیکوادۆر",
+				"عەرەبستانی سوعوودی"
+			],
+			"answer": "ئیکوادۆر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/br.png",
+			"variants": [
+				"بۆسنە و هێرزۆگۆبینیا",
+				"سان مارینۆ",
+				"دوورگەکانی ماریانای باکوور",
+				"بەڕازیل"
+			],
+			"answer": "بەڕازیل"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ax.png",
+			"variants": ["دوورگەکانی ماریانای باکوور", "کامیرۆن", "پیرۆ", "ئالاند"],
+			"answer": "ئالاند"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kg.png",
+			"variants": [
+				"باشووری جۆرجیا و دوورگەکانی ساندویچی باشوور",
+				"یەمەن",
+				"قرغیزستان",
+				"کوێت"
+			],
+			"answer": "قرقیزستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sb.png",
+			"variants": ["هۆڵەندا", "ماڵتا", "دوورگەکانی سلێمان", "مۆڵدۆڤا"],
+			"answer": "دوورگەکانی سلێمان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tw.png",
+			"variants": ["ماکاو", "تایوان", "سورینام", "توڤالو"],
+			"answer": "تایوان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/st.png",
+			"variants": [
+				"ئەرجەنتین",
+				"ساو تۆمێ و پرینسیپی",
+				"لاوس",
+				"سڤاڵبارد و یان ماین"
+			],
+			"answer": "ساو تۆمێ و پرینسیپی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cf.png",
+			"variants": [
+				"کۆماری ئەفریقیای ناوەراست",
+				"باهاماس",
+				"پاکستان",
+				"کۆتى عاج"
+			],
+			"answer": "کۆماری ئەفریقای ناوەڕاست"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bz.png",
+			"variants": ["سلۆڤینیا", "سانت ڤینسێنت و گرێنادین", "ڤانواتو", "بەلیز"],
+			"answer": "بەلیز"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ng.png",
+			"variants": [
+				"نەیجیریا",
+				"باشووری جۆرجیا و دوورگەکانی ساندویچی باشوور",
+				"کوبا",
+				"بەنگلادیش"
+			],
+			"answer": "نەیجیریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/be.png",
+			"variants": ["بێنین", "بەلجیکا", "مالاوی", "ماڵدیڤ"],
+			"answer": "بەلجیکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ao.png",
+			"variants": ["ئەنگۆلا", "کازاخستان", "بۆتسوانا", "مارتینیک"],
+			"answer": "ئەنگۆلا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tl.png",
+			"variants": [
+				"گرینلاند",
+				"تەيمۆری رۆژهەڵات",
+				"کاڵێدۆنیای نوێ",
+				"مۆنتینیگرۆ"
+			],
+			"answer": "تیمۆری ڕۆژهەڵات"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pe.png",
+			"variants": ["دوورگەکانی مارشال", "مارتینیک", "نەرویج", "پیرۆ"],
+			"answer": "پیرۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jp.png",
+			"variants": ["پورتوگال", "تایلەند", "ژاپۆن", "ئازەربایجان"],
+			"answer": "ژاپۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fk.png",
+			"variants": ["باربادۆس", "دوورگەکانی فۆڵکلاند", "ڤەنزوێلا", "سودان"],
+			"answer": "دوورگەکانی فۆڵکلاند"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tr.png",
+			"variants": ["ڕۆمانیا", "تایلەند", "باشوری ئەفریقا", "تورکیا"],
+			"answer": "تورکیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/td.png",
+			"variants": ["سانت پیێر و میکێلۆن", "ئەرجەنتین", "ئالاند", "چاد"],
+			"answer": "چاد"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mf.png",
+			"variants": [
+				"سانت مارتن",
+				"شاری ڤاتیكان",
+				"دوورگەکانی ماریانای باکوور",
+				"ئیکواتۆریال گینیا"
+			],
+			"answer": "سەینت مارتن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mp.png",
+			"variants": [
+				"دوورگەکانی ماریانای باکوور",
+				"سەنگافورە",
+				"گواتیمالا",
+				"برونێی"
+			],
+			"answer": "دوورگەکانی باکووری ماریانا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cy.png",
+			"variants": ["قوبرس", "سلۆڤاکیا", "باشووری سودان", "شانشینی عەرەبی"],
+			"answer": "قوبرس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/so.png",
+			"variants": ["ئیتاڵیا", "سۆماڵ", "تانزانیا", "ئیکوادۆر"],
+			"answer": "سۆماڵ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kz.png",
+			"variants": ["شیلی", "لیبیا", "پۆڵەندا", "کازاخستان"],
+			"answer": "کازاخستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mo.png",
+			"variants": ["چاد", "بێنین", "ماکاو", "ئیکواتۆریال گینیا"],
+			"answer": "ماکاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mp.png",
+			"variants": [
+				"بۆنایر",
+				"دوورگەکانی ماریانای باکوور",
+				"سان مارینۆ",
+				"نەرویج"
+			],
+			"answer": "دوورگەکانی باکووری ماریانا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hu.png",
+			"variants": ["میسر", "کوراکاو", "هەنگاریا", "مۆڵدۆڤا"],
+			"answer": "هەنگاریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gm.png",
+			"variants": ["ئەلبانیا", "گامبیا", "عێراق", "بۆسنە و هێرزۆگۆبینیا"],
+			"answer": "گامبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pl.png",
+			"variants": ["دوورگەی کریسمس", "جبل طارق", "مەکسیک", "پۆڵەندا"],
+			"answer": "پۆڵەندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vi.png",
+			"variants": [
+				"جەزائیر",
+				"شانشینە یەگرتۆکان",
+				"سویدی",
+				"دوورگەکانی ڤێرجینی ئەمریکا"
+			],
+			"answer": "دوورگەکانی ڤێرجینیای ئەمریکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bq.png",
+			"variants": ["کۆستەریکا", "بۆنایر", "ئەسیوپیا", "تورکیا"],
+			"answer": "بۆنایر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ck.png",
+			"variants": ["دانیمارک", "دوورگەکانی کوک", "ڕۆمانیا", "ئوردن"],
+			"answer": "دوورگەکانی کوک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tk.png",
+			"variants": [
+				"ترینیداد و تۆباگۆ",
+				"تۆکێلاو",
+				"سامۆای ئەمریکی",
+				"میانمار [بۆرما]"
+			],
+			"answer": "تۆکێلاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jm.png",
+			"variants": ["جێرسی", "جامایکا", "دوورگەکانی فۆڵکلاند", "هندۆراس"],
+			"answer": "جامایکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ws.png",
+			"variants": ["ساموا", "بوروندی", "نیپاڵ", "بۆلیڤیا"],
+			"answer": "ساموا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["کۆریای باکور", "هندۆراس", "نەرویج", "پۆلینیزیای فەرەنسی"],
+			"answer": "پۆلینیزیای فەرەنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ki.png",
+			"variants": ["ئێریتریا", "دوورگەکانی پیتکاین", "مۆناکۆ", "کیریباتی"],
+			"answer": "کیریباتی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rw.png",
+			"variants": ["توڤالو", "ڕۆژئاوای سەحرا", "ڕێونیۆن", "ڕواندا"],
+			"answer": "ڕواندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": ["گواتیمالا", "بۆسنە و هێرزۆگۆبینیا", "ئۆگاندا", "دۆمینیکا"],
+			"answer": "ئۆگاندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/re.png",
+			"variants": ["ڕێونیۆن", "پورتوگال", "پۆلینیزیای فەرەنسی", "گینیا-بیساو"],
+			"answer": "ڕیونیۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rs.png",
+			"variants": ["مەنگۆلیا", "سربیا", "مارتینیک", "مەغریب"],
+			"answer": "سربیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bl.png",
+			"variants": ["باشووری سودان", "سانت بارتێلمی", "ئەندەنوسیا", "مالیزیا"],
+			"answer": "سانت بارتێلمی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cm.png",
+			"variants": [
+				"فلیپین",
+				"کامیرۆن",
+				"دوورگەکانی کۆکۆس [کیلینگ].",
+				"هندۆراس"
+			],
+			"answer": "کامیرۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jo.png",
+			"variants": ["جامایکا", "ئەلبانیا", "ئوردن", "ئۆزبەکستان"],
+			"answer": "ئوردن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mg.png",
+			"variants": ["بێنین", "بێلاڕوس", "کینیا", "ماداگاسکار"],
+			"answer": "ماداگاسکار"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nl.png",
+			"variants": ["ڕواندا", "هندۆراس", "هۆڵەندا", "ئالاند"],
+			"answer": "هۆڵەندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ee.png",
+			"variants": ["ئیستۆنیا", "پورتوگال", "سانت کیتس و نیڤیس", "دۆمینیکا"],
+			"answer": "ئیستۆنیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sl.png",
+			"variants": ["هۆڵەندا", "کوێت", "سیرالیۆن", "بەلیز"],
+			"answer": "سیرالیۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gf.png",
+			"variants": [
+				"سانت مارتن",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور",
+				"دوورگەکانی مارشال",
+				"کۆریای باشوور"
+			],
+			"answer": "گویانای فەرەنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mo.png",
+			"variants": ["بورکینا فاسۆ", "ئیسرائیل", "دوورگەکانی فۆڵکلاند", "ماکاو"],
+			"answer": "ماکاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ga.png",
+			"variants": ["سربیا", "کاڵێدۆنیای نوێ", "تورکیا", "گابۆن"],
+			"answer": "گابۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/km.png",
+			"variants": ["کۆمۆرۆس", "نەمسا", "ئەنگۆلا", "سلۆڤاکیا"],
+			"answer": "کۆمۆرۆس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sd.png",
+			"variants": ["سانت لوسیا", "سربیا", "جەزائیر", "سودان"],
+			"answer": "سودان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kp.png",
+			"variants": [
+				"لیتوانیا",
+				"هندۆراس",
+				"دوورگەکانی کۆکۆس [کیلینگ].",
+				"کۆریای باکور"
+			],
+			"answer": "کۆریای باکوور"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/za.png",
+			"variants": [
+				"باشوری ئەفریقا",
+				"مایکرۆنێزیا",
+				"دوورگەکانی ڤێرجینی ئەمریکا",
+				"چاد"
+			],
+			"answer": "ئەفریقای باشوور"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/et.png",
+			"variants": ["خاکی باشووری فەرەنسا", "تایوان", "دۆمینیکا", "ئەسیوپیا"],
+			"answer": "ئەسیوپیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["شیلی", "ئێران", "والیس و فوتونا", "زامبیا"],
+			"answer": "ئێران"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kr.png",
+			"variants": [
+				"ئوردن",
+				"ئایسلەندا",
+				"کۆریای باشوور",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور"
+			],
+			"answer": "کۆریای باشوور"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["عومان", "ڕۆمانیا", "غانا", "ناورو"],
+			"answer": "عومان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gm.png",
+			"variants": ["کینیا", "بۆتان", "گامبیا", "هیندستان"],
+			"answer": "گامبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sg.png",
+			"variants": ["سەنگافورە", "یەمەن", "چین", "جامایکا"],
+			"answer": "سەنگافورە"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/li.png",
+			"variants": ["جیبۆتی", "لیختنشتاین", "بێنین", "سانت کیتس و نیڤیس"],
+			"answer": "لیختنشتاین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cf.png",
+			"variants": [
+				"کەنەدا",
+				"زیمبابۆی",
+				"کۆماری ئەفریقیای ناوەراست",
+				"دانیمارک"
+			],
+			"answer": "کۆماری ئەفریقای ناوەڕاست"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mm.png",
+			"variants": [
+				"دوورگەکانی ماریانای باکوور",
+				"سلڤادۆر",
+				"میانمار [بۆرما]",
+				"ئەلبانیا"
+			],
+			"answer": "میانمار [بۆرما]"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gy.png",
+			"variants": [
+				"مەغریب",
+				"ناورو",
+				"دوورگەکانی ڤێرجینیای بەریتانیا",
+				"گویانا"
+			],
+			"answer": "گویانا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/il.png",
+			"variants": ["ئیسرائیل", "گابۆن", "فلیپین", "میسر"],
+			"answer": "ئیسرائیل"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nr.png",
+			"variants": ["برونێی", "جێرسی", "ئەلبانیا", "ناورو"],
+			"answer": "ناورو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fo.png",
+			"variants": ["لیبێریا", "دورگەکانی فارۆ", "لێسۆتۆ", "سوازیلاند"],
+			"answer": "دوورگەکانی فارۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tj.png",
+			"variants": ["بەلجیکا", "تاجیکستان", "فەرەنسا", "کرواتیا"],
+			"answer": "تاجیکستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kz.png",
+			"variants": ["بەلیز", "کازاخستان", "ئازەربایجان", "پیرۆ"],
+			"answer": "کازاخستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": [
+				"پۆلینیزیای فەرەنسی",
+				"سوازیلاند",
+				"نەیجیریا",
+				"بورکینا فاسۆ"
+			],
+			"answer": "پۆلینیزیای فەرەنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/qa.png",
+			"variants": ["قەتەر", "ماڵدیڤ", "برونێی", "کۆریای باکور"],
+			"answer": "قەتەر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mv.png",
+			"variants": ["تایلەند", "ماڵدیڤ", "ڕوسیا", "عەرەبستانی سوعوودی"],
+			"answer": "ماڵدیڤ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tc.png",
+			"variants": [
+				"کامیرۆن",
+				"لۆکسمبۆرگ",
+				"دوورگەکانی تورک و کایکۆس",
+				"ئەرمینیا"
+			],
+			"answer": "دوورگەکانی تورک و کایکۆس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pg.png",
+			"variants": ["بەڕازیل", "پاپوای نیوگینیا", "نەمسا", "ناورو"],
+			"answer": "پاپوای نیوگینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/uz.png",
+			"variants": ["زیمبابۆی", "سری لانکا", "ئۆزبەکستان", "کۆستەریکا"],
+			"answer": "ئۆزبەکستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/la.png",
+			"variants": ["دوورگەکانی تورک و کایکۆس", "ئۆگاندا", "لاوس", "ئەلبانیا"],
+			"answer": "لائۆس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bn.png",
+			"variants": ["قوبرس", "برونێی", "دۆمینیکا", "گوادلۆپ"],
+			"answer": "برونێی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bh.png",
+			"variants": ["سۆماڵ", "سویدی", "بەحرەین", "سڤاڵبارد و یان ماین"],
+			"answer": "بەحرەین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/wf.png",
+			"variants": ["والیس و فوتونا", "هۆنگ کۆنگ", "گرینلاند", "گینیا-بیساو"],
+			"answer": "والیس و فۆتونا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ae.png",
+			"variants": ["بەلجیکا", "ئەسیوپیا", "ئێران", "شانشینی عەرەبی"],
+			"answer": "ئیماراتی یەکگرتووی عەرەبی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gd.png",
+			"variants": ["ژاپۆن", "گرێنادا", "کۆماری دۆمینیکەن", "عومان"],
+			"answer": "گرێنادا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/eh.png",
+			"variants": ["پورتوگال", "ئەلبانیا", "ڕۆژئاوای سەحرا", "سویدی"],
+			"answer": "سەحرای ڕۆژئاوا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pl.png",
+			"variants": ["بولگاریا", "یۆنان", "پۆڵەندا", "ڕواندا"],
+			"answer": "پۆڵەندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/to.png",
+			"variants": ["تۆنگا", "ئەلبانیا", "دوورگەکانی کایمان", "بولگاریا"],
+			"answer": "تۆنگا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cg.png",
+			"variants": ["پۆلینیزیای فەرەنسی", "مارتینیک", "کۆماری کۆنگۆ", "مەکسیک"],
+			"answer": "کۆماری کۆنگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gu.png",
+			"variants": ["گابۆن", "ئەندەنوسیا", "ماڵتا", "گوام"],
+			"answer": "گوام"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sh.png",
+			"variants": ["دوورگەکانی کایمان", "مۆڵدۆڤا", "سانت هێلێنا", "غانا"],
+			"answer": "سانت هێلێنا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vn.png",
+			"variants": ["کوراکاو", "ڤێتنام", "کەنەدا", "هایتی"],
+			"answer": "ڤێتنام"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bj.png",
+			"variants": [
+				"تەيمۆری رۆژهەڵات",
+				"بێنین",
+				"ساو تۆمێ و پرینسیپی",
+				"باشووری جۆرجیا و دوورگەکانی ساندویچی باشوور"
+			],
+			"answer": "بێنین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gb.png",
+			"variants": [
+				"شانشینە یەگرتۆکان",
+				"ئێران",
+				"باشووری جۆرجیا و دوورگەکانی ساندویچی باشوور",
+				"کوراکاو"
+			],
+			"answer": "شانشینی یەکگرتوو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bg.png",
+			"variants": [
+				"گرێنادا",
+				"عەرەبستانی سوعوودی",
+				"دورگەکانی فارۆ",
+				"بولگاریا"
+			],
+			"answer": "بولگاریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bd.png",
+			"variants": ["بەنگلادیش", "شانشینە یەگرتۆکان", "نیجەر", "کۆسۆڤۆ"],
+			"answer": "بەنگلادیش"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kr.png",
+			"variants": ["کازاخستان", "ماڵتا", "کۆریای باشوور", "مۆزەمبیق"],
+			"answer": "کۆریای باشوور"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/no.png",
+			"variants": ["نەرویج", "ڕۆمانیا", "هایتی", "سانت مارتن"],
+			"answer": "نەرویج"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/yt.png",
+			"variants": ["پاپوای نیوگینیا", "کوراکاو", "پورتوگال", "مایۆت"],
+			"answer": "مایۆت"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sx.png",
+			"variants": [
+				"سورینام",
+				"سینت مارتن",
+				"بۆسنە و هێرزۆگۆبینیا",
+				"پاپوای نیوگینیا"
+			],
+			"answer": "سینت مارتن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ws.png",
+			"variants": ["مۆنتسێرات", "ساموا", "دوورگەکانی فۆڵکلاند", "بەرمودا"],
+			"answer": "ساموا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ye.png",
+			"variants": ["فەلەستین", "گێرنسی", "تونس", "یەمەن"],
+			"answer": "یەمەن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kn.png",
+			"variants": ["سانت کیتس و نیڤیس", "بەڕازیل", "سوازیلاند", "لیبیا"],
+			"answer": "سەینت کیتس و نیڤیس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ne.png",
+			"variants": ["هەنگاریا", "گابۆن", "نیجەر", "ئەندۆرا"],
+			"answer": "نیجەر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ba.png",
+			"variants": [
+				"لاوس",
+				"ئۆزبەکستان",
+				"ئیکواتۆریال گینیا",
+				"بۆسنە و هێرزۆگۆبینیا"
+			],
+			"answer": "بۆسنە و هەرزەگۆڤینا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jp.png",
+			"variants": ["بۆسنە و هێرزۆگۆبینیا", "مەنگۆلیا", "مەغریب", "ژاپۆن"],
+			"answer": "ژاپۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tw.png",
+			"variants": ["سوازیلاند", "بۆلیڤیا", "تایوان", "ئۆزبەکستان"],
+			"answer": "تایوان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lt.png",
+			"variants": ["نیپاڵ", "ڕێونیۆن", "لیتوانیا", "مارتینیک"],
+			"answer": "لیتوانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bd.png",
+			"variants": ["جامایکا", "پورتوگال", "بەنگلادیش", "ئەرمینیا"],
+			"answer": "بەنگلادیش"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cm.png",
+			"variants": ["چیکیا", "کامیرۆن", "ڕواندا", "ئەرجەنتین"],
+			"answer": "کامیرۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/me.png",
+			"variants": ["مۆریس", "مۆنتینیگرۆ", "سەنیگال", "تونس"],
+			"answer": "مۆنتینیگرۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ht.png",
+			"variants": ["هایتی", "ئالاند", "ئەسیوپیا", "فلیپین"],
+			"answer": "هایتی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mp.png",
+			"variants": [
+				"بۆسنە و هێرزۆگۆبینیا",
+				"کۆڵۆمبیا",
+				"هایتی",
+				"دوورگەکانی ماریانای باکوور"
+			],
+			"answer": "دوورگەکانی باکووری ماریانا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bj.png",
+			"variants": ["ئازەربایجان", "بێنین", "کۆریای باشوور", "مالاوی"],
+			"answer": "بێنین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fo.png",
+			"variants": [
+				"پورتوگال",
+				"کاڵێدۆنیای نوێ",
+				"خاکی باشووری فەرەنسا",
+				"دورگەکانی فارۆ"
+			],
+			"answer": "دوورگەکانی فارۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pa.png",
+			"variants": ["سانت مارتن", "مۆناکۆ", "مۆنتینیگرۆ", "پەنەما"],
+			"answer": "پەنەما"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cf.png",
+			"variants": [
+				"باشووری جۆرجیا و دوورگەکانی ساندویچی باشوور",
+				"کۆماری ئەفریقیای ناوەراست",
+				"عومان",
+				"ئێریتریا"
+			],
+			"answer": "کۆماری ئەفریقای ناوەڕاست"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/re.png",
+			"variants": ["ڕێونیۆن", "لوبنان", "ئاروبا", "نیوە"],
+			"answer": "ڕیونیۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tk.png",
+			"variants": ["جۆرجیا", "دوورگەی کریسمس", "تۆکێلاو", "دوورگەکانی پیتکاین"],
+			"answer": "تۆکێلاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sn.png",
+			"variants": ["ئوسترالیا", "سەنیگال", "گواتیمالا", "مەنگۆلیا"],
+			"answer": "سەنیگال"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nr.png",
+			"variants": ["نەیجیریا", "ئیکواتۆریال گینیا", "ئەنگۆلا", "ناورو"],
+			"answer": "ناورو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ru.png",
+			"variants": [
+				"ویلایەتە یەکگرتووەکان",
+				"ڕوسیا",
+				"شانشینە یەگرتۆکان",
+				"سانت کیتس و نیڤیس"
+			],
+			"answer": "ڕووسیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mf.png",
+			"variants": [
+				"فیجی",
+				"سانت مارتن",
+				"سانت لوسیا",
+				"دوورگەکانی تورک و کایکۆس"
+			],
+			"answer": "سەینت مارتن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lr.png",
+			"variants": ["جیبۆتی", "جامایکا", "لیبێریا", "چین"],
+			"answer": "لیبێریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": ["باشوری ئەفریقا", "ئەنگۆلا", "نەیجیریا", "بورکینا فاسۆ"],
+			"answer": "بورکینا فاسۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ws.png",
+			"variants": [
+				"ساموا",
+				"قرغیزستان",
+				"ساو تۆمێ و پرینسیپی",
+				"دوورگەی کریسمس"
+			],
+			"answer": "ساموا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dm.png",
+			"variants": ["دوورگەی کریسمس", "ساموا", "دۆمینیکا", "کۆریای باکور"],
+			"answer": "دۆمینیکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bt.png",
+			"variants": ["کیپ ڤێردی", "بۆتان", "بەڕازیل", "فلیپین"],
+			"answer": "بۆتان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ar.png",
+			"variants": ["ئەرجەنتین", "ئەنتیگوا و باربودا", "سانت لوسیا", "جەزائیر"],
+			"answer": "ئەرجەنتین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/xk.png",
+			"variants": ["لۆکسمبۆرگ", "تەيمۆری رۆژهەڵات", "کۆسۆڤۆ", "ئەنگویلا"],
+			"answer": "کۆسۆڤۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fi.png",
+			"variants": ["کۆماری دۆمینیکەن", "فینلاند", "نەیجیریا", "نامیبیا"],
+			"answer": "فینلاند"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bi.png",
+			"variants": ["کازاخستان", "دوورگەکانی پیتکاین", "بوروندی", "پەنەما"],
+			"answer": "بۆروندی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rw.png",
+			"variants": ["ڕواندا", "مەکسیک", "گواتیمالا", "ماکاو"],
+			"answer": "ڕواندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bq.png",
+			"variants": ["مۆنتینیگرۆ", "ئێریتریا", "سانت لوسیا", "بۆنایر"],
+			"answer": "بۆنایر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hr.png",
+			"variants": ["عەرەبستانی سوعوودی", "کرواتیا", "بەرمودا", "میسر"],
+			"answer": "کرواتیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nu.png",
+			"variants": ["ئوردن", "مۆڵدۆڤا", "لاتڤیا", "نیوە"],
+			"answer": "نیوە"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vc.png",
+			"variants": [
+				"تۆگۆ",
+				"سانت ڤینسێنت و گرێنادین",
+				"دوورگەکانی کۆکۆس [کیلینگ].",
+				"سلڤادۆر"
+			],
+			"answer": "سەینت ڤینسێنت و گرێنادین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/do.png",
+			"variants": ["بۆلیڤیا", "ئوردن", "کۆماری دۆمینیکەن", "سانت کیتس و نیڤیس"],
+			"answer": "کۆماری دۆمینیکان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gl.png",
+			"variants": ["ئیکوادۆر", "گرینلاند", "دوورگەی کریسمس", "هایتی"],
+			"answer": "گرینلاند"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jm.png",
+			"variants": ["جامایکا", "لیبێریا", "سوریا", "کرواتیا"],
+			"answer": "جامایکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ms.png",
+			"variants": ["ئۆکرانیا", "پۆڵەندا", "مۆنتسێرات", "ئەنگویلا"],
+			"answer": "مۆنتسێرات"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gu.png",
+			"variants": ["سانت لوسیا", "چیکیا", "کۆسۆڤۆ", "گوام"],
+			"answer": "گوام"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["ئەرجەنتین", "نەرویج", "ئێران", "پۆلینیزیای فەرەنسی"],
+			"answer": "پۆلینیزیای فەرەنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hn.png",
+			"variants": [
+				"کۆماری ئەفریقیای ناوەراست",
+				"هندۆراس",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور",
+				"دوورگەکانی ڤێرجینیای بەریتانیا"
+			],
+			"answer": "هندۆراس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ee.png",
+			"variants": ["قرغیزستان", "ئیستۆنیا", "مالاوی", "ئۆرۆگوای"],
+			"answer": "ئیستۆنیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zw.png",
+			"variants": ["سانت کیتس و نیڤیس", "زیمبابۆی", "لاتڤیا", "کوبا"],
+			"answer": "زیمبابۆی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gw.png",
+			"variants": ["سورینام", "ئەفغانستان", "گینیا-بیساو", "باشوری ئەفریقا"],
+			"answer": "گینیا-بیساو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pm.png",
+			"variants": [
+				"سانت پیێر و میکێلۆن",
+				"هیندستان",
+				"مۆڵدۆڤا",
+				"کاڵێدۆنیای نوێ"
+			],
+			"answer": "سانت پیێر و میکێلۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ga.png",
+			"variants": ["گوام", "ئێریتریا", "گابۆن", "فینلاند"],
+			"answer": "گابۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nr.png",
+			"variants": ["یەمەن", "ئوسترالیا", "ناورو", "بێلاڕوس"],
+			"answer": "ناورو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/je.png",
+			"variants": ["مەغریب", "دوورگەی مان", "جێرسی", "بۆسنە و هێرزۆگۆبینیا"],
+			"answer": "جێرسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/es.png",
+			"variants": ["بێنین", "لیتوانیا", "فەلەستین", "ئیسپانیا"],
+			"answer": "ئیسپانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["بێلاڕوس", "عومان", "کۆڵۆمبیا", "دوورگەی کریسمس"],
+			"answer": "عومان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tg.png",
+			"variants": ["مۆریس", "نیوە", "ئێرلەندا", "تۆگۆ"],
+			"answer": "تۆگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sy.png",
+			"variants": ["دوورگەکانی مارشال", "شانشینە یەگرتۆکان", "سوریا", "ڕوسیا"],
+			"answer": "سوریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gp.png",
+			"variants": ["جیبۆتی", "گوادلۆپ", "ناورو", "والیس و فوتونا"],
+			"answer": "گوادلۆپ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tf.png",
+			"variants": ["خاکی باشووری فەرەنسا", "ماڵتا", "مایۆت", "ڤێتنام"],
+			"answer": "خاکەکانی باشووری فەرەنسا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fo.png",
+			"variants": ["مۆریتانیا", "مەغریب", "نیکاراگوا", "دورگەکانی فارۆ"],
+			"answer": "دوورگەکانی فارۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mx.png",
+			"variants": ["پاکستان", "هەنگاریا", "مەکسیک", "سویدی"],
+			"answer": "مەکسیک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sl.png",
+			"variants": ["مەقدۆنیا", "گرینلاند", "لێسۆتۆ", "سیرالیۆن"],
+			"answer": "سیرالیۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gw.png",
+			"variants": [
+				"گینیا-بیساو",
+				"بێنین",
+				"توڤالو",
+				"دوورگەکانی کۆکۆس [کیلینگ]."
+			],
+			"answer": "گینیا-بیساو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dm.png",
+			"variants": ["دۆمینیکا", "دوورگەکانی سلێمان", "تونس", "پۆڵەندا"],
+			"answer": "دۆمینیکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jo.png",
+			"variants": ["ئوردن", "فەلەستین", "مەنگۆلیا", "ڕۆمانیا"],
+			"answer": "ئوردن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bl.png",
+			"variants": ["ئۆگاندا", "سڤاڵبارد و یان ماین", "سانت بارتێلمی", "سویسرا"],
+			"answer": "سانت بارتێلمی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ci.png",
+			"variants": ["کۆستەریکا", "جیبۆتی", "کۆتى عاج", "دورگەکانی فارۆ"],
+			"answer": "کەناری عاج"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ar.png",
+			"variants": ["ئەرجەنتین", "ئایسلەندا", "پورتوگال", "کۆتى عاج"],
+			"answer": "ئەرجەنتین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nc.png",
+			"variants": ["جیبۆتی", "کاڵێدۆنیای نوێ", "نیجەر", "کۆتى عاج"],
+			"answer": "کالیدۆنیای نوێ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/co.png",
+			"variants": ["ڕۆژئاوای سەحرا", "سیرالیۆن", "کۆڵۆمبیا", "نیوزله‌ندا"],
+			"answer": "کۆڵۆمبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/al.png",
+			"variants": ["هایتی", "ئەلبانیا", "بۆنایر", "پاکستان"],
+			"answer": "ئەلبانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nf.png",
+			"variants": ["ئێرلەندا", "تانزانیا", "لوبنان", "دوورگەی نۆرفۆلک"],
+			"answer": "دوورگەی نۆرفۆلک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cd.png",
+			"variants": [
+				"باهاماس",
+				"کۆماری دیموکراتی کۆنگۆ",
+				"دوورگەکانی کۆکۆس [کیلینگ].",
+				"لیبێریا"
+			],
+			"answer": "کۆماری دیموکراتیی کۆنگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/km.png",
+			"variants": ["پۆڵەندا", "کۆمۆرۆس", "لۆکسمبۆرگ", "مۆریس"],
+			"answer": "کۆمۆرۆس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["کۆمۆرۆس", "جەزائیر", "مۆریتانیا", "ڕۆمانیا"],
+			"answer": "جەزائیر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/er.png",
+			"variants": ["بەلیز", "ئێریتریا", "سیرالیۆن", "دۆمینیکا"],
+			"answer": "ئێریتریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["نەمسا", "سودان", "عومان", "سلۆڤاکیا"],
+			"answer": "عومان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mu.png",
+			"variants": ["کۆریای باشوور", "تورکمانستان", "ڕواندا", "مۆریس"],
+			"answer": "مۆریس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mv.png",
+			"variants": ["قەتەر", "ماڵدیڤ", "ئالاند", "گرینلاند"],
+			"answer": "ماڵدیڤ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bm.png",
+			"variants": ["سینت مارتن", "سوریا", "بەرمودا", "بۆسنە و هێرزۆگۆبینیا"],
+			"answer": "بەرمودا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hk.png",
+			"variants": ["کەنەدا", "تورکیا", "جیبۆتی", "هۆنگ کۆنگ"],
+			"answer": "هۆنگ کۆنگ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pn.png",
+			"variants": [
+				"تایوان",
+				"دوورگەکانی پیتکاین",
+				"دوورگەکانی فۆڵکلاند",
+				"عێراق"
+			],
+			"answer": "دوورگەکانی پیتکەیرن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sh.png",
+			"variants": ["ئەنگۆلا", "ئۆزبەکستان", "بەلیز", "سانت هێلێنا"],
+			"answer": "سانت هێلێنا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/xk.png",
+			"variants": ["کۆستەریکا", "هۆنگ کۆنگ", "گێرنسی", "کۆسۆڤۆ"],
+			"answer": "کۆسۆڤۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cu.png",
+			"variants": ["کوبا", "دوورگەکانی پیتکاین", "کەنەدا", "نەمسا"],
+			"answer": "کوبا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cm.png",
+			"variants": ["شانشینی عەرەبی", "سینت مارتن", "هەنگاریا", "کامیرۆن"],
+			"answer": "کامیرۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ni.png",
+			"variants": ["تایوان", "جەزائیر", "سەنگافورە", "نیکاراگوا"],
+			"answer": "نیکاراگوا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": ["باشوری ئەفریقا", "ئالاند", "بورکینا فاسۆ", "جبل طارق"],
+			"answer": "بورکینا فاسۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tm.png",
+			"variants": ["ژاپۆن", "کاڵێدۆنیای نوێ", "جێرسی", "تورکمانستان"],
+			"answer": "تورکمانستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/it.png",
+			"variants": ["پیرۆ", "گوام", "ئیتاڵیا", "تانزانیا"],
+			"answer": "ئیتاڵیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ro.png",
+			"variants": ["بەرمودا", "ڕۆمانیا", "تورکیا", "ئوسترالیا"],
+			"answer": "ڕۆمانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sk.png",
+			"variants": ["کۆریای باشوور", "بولگاریا", "سلۆڤاکیا", "ئێریتریا"],
+			"answer": "سلۆڤاکیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cw.png",
+			"variants": ["ئالاند", "چیکیا", "کوراکاو", "پورتوگال"],
+			"answer": "کوراکاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": ["جیبۆتی", "گامبیا", "کۆڵۆمبیا", "ئۆگاندا"],
+			"answer": "ئۆگاندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mz.png",
+			"variants": ["شانشینە یەگرتۆکان", "مۆزەمبیق", "مۆریس", "سویدی"],
+			"answer": "مۆزەمبیق"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sr.png",
+			"variants": ["ئالاند", "سورینام", "گینیا-بیساو", "کوبا"],
+			"answer": "سورینام"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/it.png",
+			"variants": ["تایوان", "سینت مارتن", "ئیتاڵیا", "کۆستەریکا"],
+			"answer": "ئیتاڵیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jo.png",
+			"variants": ["سانت مارتن", "ئوردن", "چیکیا", "والیس و فوتونا"],
+			"answer": "ئوردن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tj.png",
+			"variants": [
+				"ئیکوادۆر",
+				"کیریباتی",
+				"دوورگەکانی ڤێرجینیای بەریتانیا",
+				"تاجیکستان"
+			],
+			"answer": "تاجیکستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/qa.png",
+			"variants": ["قەتەر", "برونێی", "دوورگەکانی ماریانای باکوور", "سلۆڤینیا"],
+			"answer": "قەتەر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/am.png",
+			"variants": ["مۆناکۆ", "ئیکوادۆر", "ئەرمینیا", "سان مارینۆ"],
+			"answer": "ئەرمینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gy.png",
+			"variants": ["ئیسرائیل", "گویانا", "سەنگافورە", "کوێت"],
+			"answer": "گویانا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lc.png",
+			"variants": ["سانت لوسیا", "سانت کیتس و نیڤیس", "ئوسترالیا", "ئۆرۆگوای"],
+			"answer": "سانت لوسیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/km.png",
+			"variants": ["سانت بارتێلمی", "کۆمۆرۆس", "سوازیلاند", "شاری ڤاتیكان"],
+			"answer": "کۆمۆرۆس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pe.png",
+			"variants": [
+				"سڤاڵبارد و یان ماین",
+				"پیرۆ",
+				"بۆتسوانا",
+				"شانشینە یەگرتۆکان"
+			],
+			"answer": "پیرۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zm.png",
+			"variants": ["سانت بارتێلمی", "سۆماڵ", "زامبیا", "ئێران"],
+			"answer": "زامبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/il.png",
+			"variants": ["دوورگەکانی کوک", "ساموا", "ئیسرائیل", "بەحرەین"],
+			"answer": "ئیسرائیل"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tl.png",
+			"variants": ["جامایکا", "مەقدۆنیا", "تەيمۆری رۆژهەڵات", "ئەنگویلا"],
+			"answer": "تیمۆری ڕۆژهەڵات"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/aw.png",
+			"variants": [
+				"غانا",
+				"دوورگەکانی کایمان",
+				"سانت ڤینسێنت و گرێنادین",
+				"ئاروبا"
+			],
+			"answer": "ئاروبا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gn.png",
+			"variants": [
+				"ئەنگویلا",
+				"سیرالیۆن",
+				"گینیا",
+				"دوورگەکانی ماریانای باکوور"
+			],
+			"answer": "گینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/hr.png",
+			"variants": ["کرواتیا", "ئەنتیگوا و باربودا", "گابۆن", "سوریا"],
+			"answer": "کرواتیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pn.png",
+			"variants": ["گواتیمالا", "مەنگۆلیا", "دوورگەکانی پیتکاین", "جەزائیر"],
+			"answer": "دوورگەکانی پیتکەیرن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ve.png",
+			"variants": ["بەنگلادیش", "سەنیگال", "ماڵتا", "ڤەنزوێلا"],
+			"answer": "ڤەنزوێلا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nu.png",
+			"variants": ["تەيمۆری رۆژهەڵات", "قرغیزستان", "یەمەن", "نیوە"],
+			"answer": "نیوە"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pt.png",
+			"variants": ["جامایکا", "بەرمودا", "پورتوگال", "هەنگاریا"],
+			"answer": "پورتوگال"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/li.png",
+			"variants": ["لیختنشتاین", "پەنەما", "خاکی باشووری فەرەنسا", "بەرمودا"],
+			"answer": "لیختنشتاین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mu.png",
+			"variants": ["مۆریس", "دانیمارک", "یەمەن", "والیس و فوتونا"],
+			"answer": "مۆریس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ru.png",
+			"variants": ["ئیکوادۆر", "سانت مارتن", "ڕوسیا", "ئوردن"],
+			"answer": "ڕووسیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bq.png",
+			"variants": ["سلۆڤینیا", "باشوری ئەفریقا", "ئۆکرانیا", "بۆنایر"],
+			"answer": "بۆنایر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ad.png",
+			"variants": [
+				"زیمبابۆی",
+				"تاجیکستان",
+				"ئەندۆرا",
+				"کۆماری دیموکراتی کۆنگۆ"
+			],
+			"answer": "ئەندۆرا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sl.png",
+			"variants": ["جیبۆتی", "ئۆزبەکستان", "سیرالیۆن", "گێرنسی"],
+			"answer": "سیرالیۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gl.png",
+			"variants": ["ئالاند", "بولگاریا", "ئەندەنوسیا", "گرینلاند"],
+			"answer": "گرینلاند"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/na.png",
+			"variants": [
+				"دوورگەکانی تورک و کایکۆس",
+				"نامیبیا",
+				"پۆلینیزیای فەرەنسی",
+				"نیپاڵ"
+			],
+			"answer": "نامیبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/am.png",
+			"variants": [
+				"ئەرمینیا",
+				"بولگاریا",
+				"مەنگۆلیا",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور"
+			],
+			"answer": "ئەرمینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/as.png",
+			"variants": [
+				"مایکرۆنێزیا",
+				"عەرەبستانی سوعوودی",
+				"ئیکوادۆر",
+				"سامۆای ئەمریکی"
+			],
+			"answer": "سامۆای ئەمریکی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cw.png",
+			"variants": ["بۆنایر", "کوراکاو", "خاکی باشووری فەرەنسا", "ئەندەنوسیا"],
+			"answer": "کوراکاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tg.png",
+			"variants": ["تۆگۆ", "ئاروبا", "مارتینیک", "ماڵتا"],
+			"answer": "تۆگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lb.png",
+			"variants": ["پاکستان", "ماڵدیڤ", "ماکاو", "لوبنان"],
+			"answer": "لوبنان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/va.png",
+			"variants": ["ئەنگۆلا", "شاری ڤاتیكان", "ئەنگویلا", "مالاوی"],
+			"answer": "شاری ڤاتیکان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ie.png",
+			"variants": ["دوورگەی مان", "سری لانکا", "کینیا", "ئێرلەندا"],
+			"answer": "ئێرلەندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["یۆنان", "سانت مارتن", "ئەڵمانیا", "جەزائیر"],
+			"answer": "جەزائیر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": ["شیلی", "بورکینا فاسۆ", "سورینام", "لۆکسمبۆرگ"],
+			"answer": "بورکینا فاسۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mg.png",
+			"variants": ["ماداگاسکار", "مەقدۆنیا", "چین", "گینیا-بیساو"],
+			"answer": "ماداگاسکار"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ne.png",
+			"variants": ["دۆمینیکا", "نیجەر", "لیختنشتاین", "مەکسیک"],
+			"answer": "نیجەر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jo.png",
+			"variants": ["بەلجیکا", "ئوردن", "تونس", "قرغیزستان"],
+			"answer": "ئوردن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mu.png",
+			"variants": ["مۆریس", "مەغریب", "سۆماڵ", "ئێران"],
+			"answer": "مۆریس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sb.png",
+			"variants": [
+				"دوورگەکانی سلێمان",
+				"نەرویج",
+				"گرێنادا",
+				"کۆماری دیموکراتی کۆنگۆ"
+			],
+			"answer": "دوورگەکانی سلێمان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pr.png",
+			"variants": ["هیندستان", "پورتوگال", "یۆنان", "بولگاریا"],
+			"answer": "پورتوگال"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/az.png",
+			"variants": ["ئیسپانیا", "ئێریتریا", "ئازەربایجان", "ئایسلەندا"],
+			"answer": "ئازەربایجان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ls.png",
+			"variants": ["ئێرلەندا", "لێسۆتۆ", "ڕواندا", "والیس و فوتونا"],
+			"answer": "لێسۆتۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["بەرمودا", "پۆلینیزیای فەرەنسی", "سەنیگال", "پۆڵەندا"],
+			"answer": "پۆلینیزیای فەرەنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tj.png",
+			"variants": ["تاجیکستان", "ئێران", "کۆریای باکور", "پەنەما"],
+			"answer": "تاجیکستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cd.png",
+			"variants": ["میسر", "هەنگاریا", "بەلیز", "کۆماری دیموکراتی کۆنگۆ"],
+			"answer": "کۆماری دیموکراتیی کۆنگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gi.png",
+			"variants": ["چیکیا", "سوازیلاند", "سامۆای ئەمریکی", "جبل طارق"],
+			"answer": "جبل طارق"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/uz.png",
+			"variants": ["ئۆزبەکستان", "تەيمۆری رۆژهەڵات", "فینلاند", "گێرنسی"],
+			"answer": "ئۆزبەکستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/af.png",
+			"variants": [
+				"ئەفغانستان",
+				"پۆلینیزیای فەرەنسی",
+				"کۆماری دیموکراتی کۆنگۆ",
+				"سامۆای ئەمریکی"
+			],
+			"answer": "ئەفغانستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bg.png",
+			"variants": ["جۆرجیا", "بولگاریا", "پالاو", "لیختنشتاین"],
+			"answer": "بولگاریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/si.png",
+			"variants": [
+				"سانت بارتێلمی",
+				"دوورگەکانی ڤێرجینیای بەریتانیا",
+				"دوورگەکانی فۆڵکلاند",
+				"سلۆڤینیا"
+			],
+			"answer": "سلۆڤینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/al.png",
+			"variants": ["ئەلبانیا", "سلۆڤاکیا", "تۆکێلاو", "باربادۆس"],
+			"answer": "ئەلبانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": [
+				"ئۆگاندا",
+				"دوورگەی مان",
+				"دوورگەکانی کۆکۆس [کیلینگ].",
+				"ئەنگۆلا"
+			],
+			"answer": "ئۆگاندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bq.png",
+			"variants": [
+				"والیس و فوتونا",
+				"بۆنایر",
+				"خاکی باشووری فەرەنسا",
+				"بورکینا فاسۆ"
+			],
+			"answer": "بۆنایر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gb.png",
+			"variants": [
+				"دوورگەکانی سلێمان",
+				"جبل طارق",
+				"شانشینە یەگرتۆکان",
+				"سانت پیێر و میکێلۆن"
+			],
+			"answer": "شانشینی یەکگرتوو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bg.png",
+			"variants": [
+				"دوورگەکانی ڤێرجینیای بەریتانیا",
+				"کەمبۆدیا",
+				"بولگاریا",
+				"نەمسا"
+			],
+			"answer": "بولگاریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tw.png",
+			"variants": ["تایوان", "مایۆت", "بەحرەین", "سلۆڤاکیا"],
+			"answer": "تایوان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/fo.png",
+			"variants": ["مەغریب", "دوورگەکانی مارشال", "بێلاڕوس", "دورگەکانی فارۆ"],
+			"answer": "دوورگەکانی فارۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["جەزائیر", "جۆرجیا", "لاوس", "دوورگەی مان"],
+			"answer": "جەزائیر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bh.png",
+			"variants": ["نەمسا", "کرواتیا", "مالاوی", "بەحرەین"],
+			"answer": "بەحرەین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zm.png",
+			"variants": [
+				"هیندستان",
+				"عەرەبستانی سوعوودی",
+				"زامبیا",
+				"دوورگەکانی ڤێرجینیای بەریتانیا"
+			],
+			"answer": "زامبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kh.png",
+			"variants": ["دوورگەکانی کایمان", "ماداگاسکار", "چاد", "کەمبۆدیا"],
+			"answer": "کەمبۆدیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gu.png",
+			"variants": ["بوروندی", "ڤانواتو", "گوام", "ئیستۆنیا"],
+			"answer": "گوام"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ni.png",
+			"variants": ["نەرویج", "هیندستان", "نیکاراگوا", "چیکیا"],
+			"answer": "نیکاراگوا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cr.png",
+			"variants": ["کۆستەریکا", "ڕوسیا", "سویسرا", "ڕواندا"],
+			"answer": "کۆستاریکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bd.png",
+			"variants": [
+				"ژاپۆن",
+				"بەنگلادیش",
+				"کیپ ڤێردی",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور"
+			],
+			"answer": "بەنگلادیش"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ki.png",
+			"variants": ["کیریباتی", "سربیا", "سویدی", "ساو تۆمێ و پرینسیپی"],
+			"answer": "کیریباتی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bb.png",
+			"variants": ["دوورگەی کریسمس", "مۆریتانیا", "کۆریای باکور", "باربادۆس"],
+			"answer": "باربادۆس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pt.png",
+			"variants": ["ماڵدیڤ", "لیبێریا", "مۆریتانیا", "پورتوگال"],
+			"answer": "پورتوگال"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["جەزائیر", "میسر", "ئێران", "ساو تۆمێ و پرینسیپی"],
+			"answer": "ئێران"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/er.png",
+			"variants": ["ژاپۆن", "کەمبۆدیا", "ئێریتریا", "نیپاڵ"],
+			"answer": "ئێریتریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ms.png",
+			"variants": ["گێرنسی", "فەرەنسا", "مۆنتسێرات", "مەنگۆلیا"],
+			"answer": "مۆنتسێرات"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ht.png",
+			"variants": ["ئۆگاندا", "هایتی", "بەنگلادیش", "سانت مارتن"],
+			"answer": "هایتی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lr.png",
+			"variants": ["نیجەر", "ئیسرائیل", "لیبێریا", "بۆنایر"],
+			"answer": "لیبێریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sb.png",
+			"variants": ["دوورگەکانی سلێمان", "نیوە", "نەرویج", "مایۆت"],
+			"answer": "دوورگەکانی سلێمان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/li.png",
+			"variants": ["ئێرلەندا", "بۆتسوانا", "لیختنشتاین", "ڤەنزوێلا"],
+			"answer": "لیختنشتاین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/so.png",
+			"variants": ["لوبنان", "سانت هێلێنا", "سۆماڵ", "ئەندۆرا"],
+			"answer": "سۆماڵ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/th.png",
+			"variants": [
+				"دوورگەکانی ڤێرجینی ئەمریکا",
+				"تایلەند",
+				"نەیجیریا",
+				"ئەلبانیا"
+			],
+			"answer": "تایلەند"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bs.png",
+			"variants": ["فلیپین", "پەنەما", "تایوان", "باهاماس"],
+			"answer": "باهاماس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mc.png",
+			"variants": ["تونس", "مۆناکۆ", "سوریا", "سڤاڵبارد و یان ماین"],
+			"answer": "مۆناکۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bl.png",
+			"variants": ["گابۆن", "چاد", "سانت بارتێلمی", "لاتڤیا"],
+			"answer": "سانت بارتێلمی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tm.png",
+			"variants": [
+				"شانشینی عەرەبی",
+				"تورکمانستان",
+				"ئێرلەندا",
+				"دوورگەکانی کۆکۆس [کیلینگ]."
+			],
+			"answer": "تورکمانستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ck.png",
+			"variants": ["نیوزله‌ندا", "کۆتى عاج", "دوورگەکانی کوک", "دۆمینیکا"],
+			"answer": "دوورگەکانی کوک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lu.png",
+			"variants": ["بەڕازیل", "لۆکسمبۆرگ", "ئەنگۆلا", "کۆماری کۆنگۆ"],
+			"answer": "لۆکسمبۆرگ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/af.png",
+			"variants": ["ماڵدیڤ", "هۆنگ کۆنگ", "پۆلینیزیای فەرەنسی", "ئەفغانستان"],
+			"answer": "ئەفغانستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/us.png",
+			"variants": [
+				"سانت پیێر و میکێلۆن",
+				"ئیستۆنیا",
+				"ویلایەتە یەکگرتووەکان",
+				"ئیکوادۆر"
+			],
+			"answer": "ئەمریکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tv.png",
+			"variants": ["قوبرس", "چاد", "کۆریای باکور", "توڤالو"],
+			"answer": "توڤالو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vu.png",
+			"variants": [
+				"سویسرا",
+				"دوورگەکانی ڤێرجینیای بەریتانیا",
+				"ڤانواتو",
+				"پۆلینیزیای فەرەنسی"
+			],
+			"answer": "ڤانواتو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lb.png",
+			"variants": ["بەرمودا", "ئیکوادۆر", "مۆریتانیا", "لوبنان"],
+			"answer": "لوبنان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tr.png",
+			"variants": ["چیکیا", "تورکیا", "دوورگەکانی تورک و کایکۆس", "بێنین"],
+			"answer": "تورکیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rw.png",
+			"variants": ["پورتوگال", "ڕواندا", "فەرەنسا", "گێرنسی"],
+			"answer": "ڕواندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/va.png",
+			"variants": ["سانت لوسیا", "بۆتسوانا", "بورکینا فاسۆ", "شاری ڤاتیكان"],
+			"answer": "شاری ڤاتیکان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vn.png",
+			"variants": ["ڤەنزوێلا", "ڤێتنام", "مالاوی", "فلیپین"],
+			"answer": "ڤێتنام"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mw.png",
+			"variants": ["مەغریب", "گابۆن", "مالاوی", "سودان"],
+			"answer": "مالاوی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lv.png",
+			"variants": ["لاتڤیا", "ترینیداد و تۆباگۆ", "ڤەنزوێلا", "ئیتاڵیا"],
+			"answer": "لاتڤیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lk.png",
+			"variants": ["تانزانیا", "هیندستان", "سری لانکا", "نیوە"],
+			"answer": "سریلانکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/so.png",
+			"variants": ["تورکیا", "جێرسی", "کوێت", "سۆماڵ"],
+			"answer": "سۆماڵ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ro.png",
+			"variants": [
+				"دوورگەکانی فۆڵکلاند",
+				"ڕۆمانیا",
+				"ترینیداد و تۆباگۆ",
+				"گینیا"
+			],
+			"answer": "ڕۆمانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sr.png",
+			"variants": ["نامیبیا", "لۆکسمبۆرگ", "سورینام", "لوبنان"],
+			"answer": "سورینام"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ly.png",
+			"variants": ["ئیکواتۆریال گینیا", "مەغریب", "شانشینە یەگرتۆکان", "لیبیا"],
+			"answer": "لیبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gn.png",
+			"variants": ["بۆتان", "سانت پیێر و میکێلۆن", "گینیا", "دانیمارک"],
+			"answer": "گینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/de.png",
+			"variants": ["دورگەکانی فارۆ", "گێرنسی", "بوروندی", "ئەڵمانیا"],
+			"answer": "ئەڵمانیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gd.png",
+			"variants": ["ئۆزبەکستان", "گرێنادا", "والیس و فوتونا", "فەرەنسا"],
+			"answer": "گرێنادا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dj.png",
+			"variants": ["ئۆگاندا", "لیبیا", "جیبۆتی", "ئیسپانیا"],
+			"answer": "جیبۆتی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mk.png",
+			"variants": ["سیرالیۆن", "هۆنگ کۆنگ", "مەقدۆنیا", "چین"],
+			"answer": "مەقدۆنیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gb.png",
+			"variants": ["پۆڵەندا", "شانشینە یەگرتۆکان", "لیبیا", "سیرالیۆن"],
+			"answer": "شانشینی یەکگرتوو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tg.png",
+			"variants": ["کۆماری دیموکراتی کۆنگۆ", "کوێت", "لیتوانیا", "تۆگۆ"],
+			"answer": "تۆگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/si.png",
+			"variants": [
+				"چاد",
+				"تەيمۆری رۆژهەڵات",
+				"دوورگەکانی تورک و کایکۆس",
+				"سلۆڤینیا"
+			],
+			"answer": "سلۆڤینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lr.png",
+			"variants": ["لیبێریا", "سورینام", "چاد", "ئۆگاندا"],
+			"answer": "لیبێریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sy.png",
+			"variants": ["بەحرەین", "جبل طارق", "سوریا", "پۆڵەندا"],
+			"answer": "سوریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sh.png",
+			"variants": ["باهاماس", "سانت هێلێنا", "ئەنگویلا", "کەنەدا"],
+			"answer": "سانت هێلێنا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/za.png",
+			"variants": ["باشوری ئەفریقا", "لاتڤیا", "ئایسلەندا", "جبل طارق"],
+			"answer": "ئەفریقای باشوور"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/vc.png",
+			"variants": [
+				"کۆماری دۆمینیکەن",
+				"سانت لوسیا",
+				"تۆکێلاو",
+				"سانت ڤینسێنت و گرێنادین"
+			],
+			"answer": "سەینت ڤینسێنت و گرێنادین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mv.png",
+			"variants": ["پیرۆ", "دۆمینیکا", "مالی", "ماڵدیڤ"],
+			"answer": "ماڵدیڤ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/jm.png",
+			"variants": ["جامایکا", "یۆنان", "مەقدۆنیا", "لاتڤیا"],
+			"answer": "جامایکا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gf.png",
+			"variants": [
+				"سوازیلاند",
+				"بۆتسوانا",
+				"ئەرجەنتین",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور"
+			],
+			"answer": "گویانای فەرەنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sa.png",
+			"variants": [
+				"سڤاڵبارد و یان ماین",
+				"سامۆای ئەمریکی",
+				"کوبا",
+				"عەرەبستانی سوعوودی"
+			],
+			"answer": "سعودیە"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["باشوری ئەفریقا", "کۆریای باشوور", "ئێران", "تایلەند"],
+			"answer": "ئێران"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": ["ژاپۆن", "ئۆگاندا", "دوورگەکانی کایمان", "ئێرلەندا"],
+			"answer": "ئۆگاندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/om.png",
+			"variants": ["پاراگوای", "مۆریس", "پورتوگال", "عومان"],
+			"answer": "عومان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/la.png",
+			"variants": ["جۆرجیا", "نامیبیا", "مایۆت", "لاوس"],
+			"answer": "لائۆس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/to.png",
+			"variants": ["تۆنگا", "قرغیزستان", "دۆمینیکا", "ماداگاسکار"],
+			"answer": "تۆنگا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/nz.png",
+			"variants": [
+				"تورکمانستان",
+				"سڤاڵبارد و یان ماین",
+				"هندۆراس",
+				"نیوزله‌ندا"
+			],
+			"answer": "نیوزلەندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/st.png",
+			"variants": ["جێرسی", "نەمسا", "ساو تۆمێ و پرینسیپی", "فینلاند"],
+			"answer": "ساو تۆمێ و پرینسیپی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kz.png",
+			"variants": [
+				"عەرەبستانی سوعوودی",
+				"کاڵێدۆنیای نوێ",
+				"جامایکا",
+				"کازاخستان"
+			],
+			"answer": "کازاخستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bf.png",
+			"variants": [
+				"لیبێریا",
+				"بورکینا فاسۆ",
+				"خاکی باشووری فەرەنسا",
+				"فەلەستین"
+			],
+			"answer": "بورکینا فاسۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cl.png",
+			"variants": ["باهاماس", "ماڵتا", "ئەنگویلا", "شیلی"],
+			"answer": "شیلی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pm.png",
+			"variants": ["سانت پیێر و میکێلۆن", "تورکیا", "ئێریتریا", "گویانا"],
+			"answer": "سانت پیێر و میکێلۆن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/np.png",
+			"variants": ["سری لانکا", "نیپاڵ", "مەغریب", "مالیزیا"],
+			"answer": "نیپاڵ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ps.png",
+			"variants": ["سودان", "کاڵێدۆنیای نوێ", "ماداگاسکار", "فەلەستین"],
+			"answer": "فەلەستین"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sz.png",
+			"variants": [
+				"ئەڵمانیا",
+				"سوازیلاند",
+				"ئێران",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور"
+			],
+			"answer": "سوازیلاند"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gm.png",
+			"variants": ["توڤالو", "لاوس", "گینیا", "گامبیا"],
+			"answer": "گامبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/az.png",
+			"variants": [
+				"ئازەربایجان",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور",
+				"ئیکواتۆریال گینیا",
+				"بۆنایر"
+			],
+			"answer": "ئازەربایجان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/do.png",
+			"variants": [
+				"پورتوگال",
+				"والیس و فوتونا",
+				"کۆماری دۆمینیکەن",
+				"دوورگەکانی تورک و کایکۆس"
+			],
+			"answer": "کۆماری دۆمینیکان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sk.png",
+			"variants": ["ئەندەنوسیا", "ئۆگاندا", "سلۆڤاکیا", "بۆنایر"],
+			"answer": "سلۆڤاکیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/me.png",
+			"variants": ["کامیرۆن", "جەزائیر", "مۆنتینیگرۆ", "باشوری ئەفریقا"],
+			"answer": "مۆنتینیگرۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/na.png",
+			"variants": ["کۆمۆرۆس", "نامیبیا", "بولگاریا", "جێرسی"],
+			"answer": "نامیبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/lr.png",
+			"variants": ["نامیبیا", "ئەنگویلا", "لیبێریا", "ئیتاڵیا"],
+			"answer": "لیبێریا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sb.png",
+			"variants": ["مۆریس", "دوورگەکانی سلێمان", "زامبیا", "ئوسترالیا"],
+			"answer": "دوورگەکانی سلێمان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dj.png",
+			"variants": ["تۆکێلاو", "پەنەما", "یەمەن", "جیبۆتی"],
+			"answer": "جیبۆتی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bn.png",
+			"variants": ["کینیا", "ماڵتا", "برونێی", "کۆماری ئەفریقیای ناوەراست"],
+			"answer": "برونێی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ug.png",
+			"variants": [
+				"دوورگەکانی ڤێرجینی ئەمریکا",
+				"ئۆگاندا",
+				"ئیستۆنیا",
+				"کۆماری دۆمینیکەن"
+			],
+			"answer": "ئۆگاندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tt.png",
+			"variants": [
+				"تورکیا",
+				"دوورگەکانی سلێمان",
+				"دوورگەکانی ڤێرجینی ئەمریکا",
+				"ترینیداد و تۆباگۆ"
+			],
+			"answer": "ترینیداد و تۆباگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mk.png",
+			"variants": [
+				"سامۆای ئەمریکی",
+				"دوورگەکانی تورک و کایکۆس",
+				"مەقدۆنیا",
+				"بەلیز"
+			],
+			"answer": "مەقدۆنیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/az.png",
+			"variants": [
+				"ئازەربایجان",
+				"ڤانواتو",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور",
+				"کۆڵۆمبیا"
+			],
+			"answer": "ئازەربایجان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bd.png",
+			"variants": [
+				"مایکرۆنێزیا",
+				"بەنگلادیش",
+				"ویلایەتە یەکگرتووەکان",
+				"ڕواندا"
+			],
+			"answer": "بەنگلادیش"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/py.png",
+			"variants": ["قەتەر", "پاراگوای", "بەحرەین", "هایتی"],
+			"answer": "پاراگوای"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/kg.png",
+			"variants": [
+				"ساو تۆمێ و پرینسیپی",
+				"قرغیزستان",
+				"ماڵدیڤ",
+				"شانشینی عەرەبی"
+			],
+			"answer": "قرقیزستان"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/aw.png",
+			"variants": [
+				"باشووری جۆرجیا و دوورگەکانی ساندویچی باشوور",
+				"ئاروبا",
+				"ئەڵمانیا",
+				"سودان"
+			],
+			"answer": "ئاروبا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/br.png",
+			"variants": ["سیشێل", "بەڕازیل", "سانت لوسیا", "گینیا"],
+			"answer": "بەڕازیل"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/pf.png",
+			"variants": ["ڕوسیا", "مالیزیا", "بورکینا فاسۆ", "پۆلینیزیای فەرەنسی"],
+			"answer": "پۆلینیزیای فەرەنسی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dk.png",
+			"variants": ["دانیمارک", "لیبێریا", "چیکیا", "لێسۆتۆ"],
+			"answer": "دانیمارک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ba.png",
+			"variants": ["بۆسنە و هێرزۆگۆبینیا", "چیکیا", "ماکاو", "گینیا-بیساو"],
+			"answer": "بۆسنە و هەرزەگۆڤینا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/uy.png",
+			"variants": [
+				"ئەڵمانیا",
+				"تەيمۆری رۆژهەڵات",
+				"ئۆرۆگوای",
+				"سانت پیێر و میکێلۆن"
+			],
+			"answer": "ئۆرۆگوای"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/rw.png",
+			"variants": ["میسر", "کینیا", "ڕواندا", "سری لانکا"],
+			"answer": "ڕواندا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dz.png",
+			"variants": ["ئوردن", "تەيمۆری رۆژهەڵات", "جەزائیر", "پۆڵەندا"],
+			"answer": "جەزائیر"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ki.png",
+			"variants": ["کیریباتی", "پالاو", "هیندستان", "پاراگوای"],
+			"answer": "کیریباتی"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ir.png",
+			"variants": ["تورکمانستان", "کوبا", "گابۆن", "ئێران"],
+			"answer": "ئێران"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cf.png",
+			"variants": ["ئۆکرانیا", "کۆماری ئەفریقیای ناوەراست", "ئیستۆنیا", "فیجی"],
+			"answer": "کۆماری ئەفریقای ناوەڕاست"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/gn.png",
+			"variants": ["نیجەر", "تۆنگا", "گینیا", "میسر"],
+			"answer": "گینیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/td.png",
+			"variants": ["چاد", "سەنگافورە", "عومان", "مارتینیک"],
+			"answer": "چاد"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/zm.png",
+			"variants": ["زامبیا", "ئیکوادۆر", "غانا", "گوادلۆپ"],
+			"answer": "زامبیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mu.png",
+			"variants": [
+				"دوورگەکانی مارشال",
+				"ڤەنزوێلا",
+				"دوورگەکانی کایمان",
+				"مۆریس"
+			],
+			"answer": "مۆریس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/bb.png",
+			"variants": ["بۆنایر", "باشوری ئەفریقا", "دوورگەکانی سلێمان", "باربادۆس"],
+			"answer": "باربادۆس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ee.png",
+			"variants": ["ئیستۆنیا", "یۆنان", "ڤێتنام", "کۆتى عاج"],
+			"answer": "ئیستۆنیا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/sm.png",
+			"variants": ["ئالاند", "بۆتسوانا", "سان مارینۆ", "سوریا"],
+			"answer": "سان مارینۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/ao.png",
+			"variants": [
+				"کوراکاو",
+				"دوورگەکانی کۆکۆس [کیلینگ].",
+				"ئەنگۆلا",
+				"برونێی"
+			],
+			"answer": "ئەنگۆلا"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/tk.png",
+			"variants": ["دانیمارک", "بێلاڕوس", "سلۆڤاکیا", "تۆکێلاو"],
+			"answer": "تۆکێلاو"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/dk.png",
+			"variants": ["لاوس", "دانیمارک", "خاکی باشووری فەرەنسا", "توڤالو"],
+			"answer": "دانیمارک"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cx.png",
+			"variants": ["ئیکواتۆریال گینیا", "سلۆڤاکیا", "دوورگەی کریسمس", "مۆریس"],
+			"answer": "دوورگەی کریسمس"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/cd.png",
+			"variants": ["تۆگۆ", "دوورگەی نۆرفۆلک", "کۆماری دیموکراتی کۆنگۆ", "فیجی"],
+			"answer": "کۆماری دیموکراتیی کۆنگۆ"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/mf.png",
+			"variants": ["سربیا", "سانت مارتن", "باهاماس", "سوریا"],
+			"answer": "سەینت مارتن"
+		},
+		{
+			"flag": "https://flagcdn.com/256x192/il.png",
+			"variants": [
+				"ئیسرائیل",
+				"دورگەیەکی فەڕەنسایە کە دەکەوێتە باکوری خۆرهەڵاتی ئەمەریکای باشور",
+				"کازاخستان",
+				"نیوە"
+			],
+			"answer": "ئیسرائیل"
+		}
+	]
+}
