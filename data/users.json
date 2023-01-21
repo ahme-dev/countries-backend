@@ -3,32 +3,12 @@
 		"username": "ahmed",
 		"password": "yes",
 		"flags": {
-			"index": 1,
-			"answers": [
-				{
-					"correctAnswer": "Iraq",
-					"userAnswer": "Iraq",
-					"isCorrect": true,
-					"flag": ""
-				},
-				{
-					"correctAnswer": "Iran",
-					"userAnswer": "Turkey",
-					"isCorrect": false,
-					"flag": ""
-				}
-			]
+			"index": 0,
+			"answers": []
 		},
 		"capitals": {
 			"index": 0,
-			"answers": [
-				{
-					"correctAnswer": "Baghdad",
-					"userAnswer": "Baghdad",
-					"isCorrect": true,
-					"flag": ""
-				}
-			]
+			"answers": []
 		}
 	}
 ]
