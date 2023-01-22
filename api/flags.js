@@ -13,6 +13,7 @@ const flagsRouter = Router();
 // route handlers
 
 flagsRouter.route("/").get(async (req, res) => {
+	if (req.headers.cookie) console.log("has cookie");
 	res.json(db.data);
 });
 

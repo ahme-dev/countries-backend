@@ -1,0 +1,26 @@
+{
+  "sessions": [
+    {
+      "sid": "LrvngVIk6ilL-D3ahWWGTA5BnbXgpj1Y",
+      "session": {
+        "cookie": {
+          "originalMaxAge": 86400000,
+          "expires": "2023-01-23T17:35:05.725Z",
+          "httpOnly": true,
+          "path": "/"
+        }
+      }
+    },
+    {
+      "sid": "A1wbUf4Y-nNveayQIgEdgFQQtBeaQwSq",
+      "session": {
+        "cookie": {
+          "originalMaxAge": 86400000,
+          "expires": "2023-01-23T17:35:21.021Z",
+          "httpOnly": true,
+          "path": "/"
+        }
+      }
+    }
+  ]
+}
