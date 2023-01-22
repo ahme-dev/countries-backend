@@ -13,7 +13,11 @@ const flagsRouter = Router();
 // route handlers
 
 flagsRouter.route("/").get(async (req, res) => {
-	if (req.headers.cookie) console.log("has cookie");
+	let viewCount = req.session.viewCount;
+
+	req.session.viewCount = viewCount ? viewCount + 1 : 1;
+	console.log(viewCount);
+
 	res.json(db.data);
 });
 

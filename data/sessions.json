@@ -16,10 +16,23 @@
       "session": {
         "cookie": {
           "originalMaxAge": 86400000,
-          "expires": "2023-01-23T17:35:21.021Z",
+          "expires": "2023-01-23T17:45:22.195Z",
           "httpOnly": true,
           "path": "/"
-        }
+        },
+        "viewCount": 12
+      }
+    },
+    {
+      "sid": "svcCSO7560Cfn9MCkMjz9iCX5bL2oVCq",
+      "session": {
+        "cookie": {
+          "originalMaxAge": 86400000,
+          "expires": "2023-01-23T17:45:52.605Z",
+          "httpOnly": true,
+          "path": "/"
+        },
+        "viewCount": 4
       }
     }
   ]
