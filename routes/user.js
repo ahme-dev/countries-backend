@@ -12,7 +12,7 @@ const userRouter = Router();
 // routes
 
 userRouter.route("/").get((req, res) => {
-	if (!req.session.auth.username) return res.sendStatus(401);
+	if (!req.session.auth) return res.sendStatus(401);
 
 	// find user
 	let user = usersDB.data.find(
@@ -30,7 +30,7 @@ userRouter.route("/").get((req, res) => {
 });
 
 userRouter.route("/:type").patch(async (req, res) => {
-	if (!req.session.auth.username) return res.sendStatus(401);
+	if (!req.session.auth) return res.sendStatus(401);
 
 	let answerType = req.params.type;
 

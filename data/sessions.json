@@ -60,6 +60,17 @@
           "username": "ahmed"
         }
       }
+    },
+    {
+      "sid": "yNpMGnYi5jiwp07PPUY02PwmXD1jPU14",
+      "session": {
+        "cookie": {
+          "originalMaxAge": 86400000,
+          "expires": "2023-01-26T16:44:25.311Z",
+          "httpOnly": true,
+          "path": "/"
+        }
+      }
     }
   ]
 }
