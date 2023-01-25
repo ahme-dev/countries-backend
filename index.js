@@ -1,6 +1,7 @@
 import express, { json } from "express";
-import { flagsRouter } from "./api/flags.js";
-import { usersRouter } from "./api/users.js";
+import { flagsRouter } from "./routes/flags.js";
+import { loginRouter } from "./routes/login.js";
+import { userRouter } from "./routes/user.js";
 import cors from "cors";
 const app = express();
 
@@ -36,8 +37,8 @@ app.use(
 // routers
 
 app.use("/flags", flagsRouter);
-app.use("/users", usersRouter);
-// app.use("/capitals", require("./api/capitals"));
+app.use("/user", userRouter);
+app.use("/login", loginRouter);
 
 // not found routes
 app.all("*", (req, res) => {

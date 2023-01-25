@@ -7,50 +7,17 @@ const usersDB = new Low(new JSONFile("data/users.json"));
 await usersDB.read();
 
 // create router
-const usersRouter = Router();
+const userRouter = Router();
 
 // routes
 
-usersRouter
-	.route("/")
-	.get(async (req, res) => {
-		// remove passwords from returned users list
-		let usersClone = JSON.parse(JSON.stringify(usersDB.data));
-		let usersWithoutPass = usersClone.map((el) => {
-			delete el.password;
-			return el;
-		});
+userRouter.route("/").get((req, res) => {
+	if (!req.session.auth.username) return res.sendStatus(401);
 
-		res.json(usersWithoutPass);
-	})
-	.post(async (req, res) => {
-		// return if username and password are not provided
-		if (!req.body.username || !req.body.password) return res.sendStatus(400);
-
-		// make new user using body content
-		let newUser = {
-			username: req.body.username,
-			password: req.body.password,
-			flags: {
-				index: 0,
-				answers: [],
-			},
-			capitals: {
-				index: 0,
-				answers: [],
-			},
-		};
-
-		// add new user into list
-		usersDB.data.push(newUser);
-		await usersDB.write();
-
-		res.sendStatus(201);
-	});
-
-usersRouter.route("/:username").get(async (req, res) => {
 	// find user
-	let user = usersDB.data.find((el) => el.username === req.params.username);
+	let user = usersDB.data.find(
+		(el) => el.username === req.session.auth.username,
+	);
 
 	// return if user not found
 	if (!user) return res.sendStatus(404);
@@ -62,9 +29,10 @@ usersRouter.route("/:username").get(async (req, res) => {
 	res.json(userWithoutPass);
 });
 
-usersRouter.route("/:username/:type").patch(async (req, res) => {
+userRouter.route("/:type").patch(async (req, res) => {
+	if (!req.session.auth.username) return res.sendStatus(401);
+
 	let answerType = req.params.type;
-	console.log(answerType);
 
 	// return if not on either route
 	if (answerType !== "flags" && answerType !== "capitals") {
@@ -73,7 +41,7 @@ usersRouter.route("/:username/:type").patch(async (req, res) => {
 
 	// try to find user index
 	let userID = usersDB.data.findIndex(
-		(el) => el.username === req.params.username,
+		(el) => el.username === req.session.auth.username,
 	);
 
 	// return if user not found
@@ -98,4 +66,4 @@ usersRouter.route("/:username/:type").patch(async (req, res) => {
 	res.sendStatus(202);
 });
 
-export { usersRouter };
+export { userRouter };

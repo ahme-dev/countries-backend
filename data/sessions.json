@@ -34,6 +34,32 @@
         },
         "viewCount": 4
       }
+    },
+    {
+      "sid": "h6OeuxlldJbW6GZemAYAoZCel0hyYKjO",
+      "session": {
+        "cookie": {
+          "originalMaxAge": 86400000,
+          "expires": "2023-01-26T15:52:41.932Z",
+          "httpOnly": true,
+          "path": "/"
+        }
+      }
+    },
+    {
+      "sid": "Z0EVnDLyYANj2L2TE88rIff9j2Tl1qdC",
+      "session": {
+        "cookie": {
+          "originalMaxAge": 86400000,
+          "expires": "2023-01-26T16:26:52.254Z",
+          "httpOnly": true,
+          "path": "/"
+        },
+        "loggedIn": true,
+        "auth": {
+          "username": "ahmed"
+        }
+      }
     }
   ]
 }
