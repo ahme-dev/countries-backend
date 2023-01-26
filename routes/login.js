@@ -35,9 +35,8 @@ loginRouter.route("/").post(async (req, res) => {
 	}
 
 	// set auth data in session
-	req.session.auth = {
-		username: user.username,
-	};
+	req.session.username = user.username;
+	console.log("Have set", user.username, "in session.");
 
 	return res.sendStatus(200);
 });
