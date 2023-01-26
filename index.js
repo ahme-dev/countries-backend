@@ -2,14 +2,18 @@ import express, { json } from "express";
 import { flagsRouter } from "./routes/flags.js";
 import { loginRouter } from "./routes/login.js";
 import { userRouter } from "./routes/user.js";
+import { authRouter } from "./routes/auth.js";
 import cors from "cors";
 const app = express();
 
 // import session related packages
-import session from "express-session";
 import { Low } from "lowdb";
 import { JSONFile } from "lowdb/node";
+import session from "express-session";
 import lowdbStore from "connect-lowdb";
+
+import passport from "passport";
+import "./routes/authUtils.js";
 
 // create lowdb db and lowdb session store
 const adapter = new JSONFile("data/sessions.json");
@@ -26,10 +30,12 @@ app.use(
 		saveUninitialized: true,
 		secret: "keyboard cat",
 		cookie: {
-			secure: true,
 			maxAge: 1000 * 60 * 60 * 24,
 		},
 	}),
+
+	passport.initialize(),
+	passport.session(),
 
 	json(),
 	cors(), // to be configured later
@@ -39,6 +45,7 @@ app.use(
 
 app.use("/flags", flagsRouter);
 app.use("/user", userRouter);
+app.use("/auth", authRouter);
 app.use("/login", loginRouter);
 
 // not found routes

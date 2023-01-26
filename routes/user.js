@@ -12,10 +12,10 @@ const userRouter = Router();
 // routes
 
 userRouter.route("/").get((req, res) => {
-	if (!req.session.username) return res.sendStatus(401);
+	if (!req.user) return res.sendStatus(401);
 
 	// find user
-	let user = usersDB.data.find((el) => el.username === req.session.username);
+	let user = usersDB.data.find((el) => el.username === req.user.username);
 
 	// return if user not found
 	if (!user) return res.sendStatus(404);

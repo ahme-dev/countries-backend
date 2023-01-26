@@ -1,0 +1,18 @@
+{
+  "sessions": [
+    {
+      "sid": "kTiHeOc74FhqhMj7aXKvHjPm5QkQpC_C",
+      "session": {
+        "cookie": {
+          "originalMaxAge": 86400000,
+          "expires": "2023-01-27T19:46:56.434Z",
+          "httpOnly": true,
+          "path": "/"
+        },
+        "passport": {
+          "user": "ahmed"
+        }
+      }
+    }
+  ]
+}
