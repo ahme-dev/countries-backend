@@ -26,6 +26,7 @@ app.use(
 		saveUninitialized: true,
 		secret: "keyboard cat",
 		cookie: {
+			secure: true,
 			maxAge: 1000 * 60 * 60 * 24,
 		},
 	}),
