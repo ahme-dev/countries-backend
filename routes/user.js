@@ -28,7 +28,7 @@ userRouter.route("/").get((req, res) => {
 });
 
 userRouter.route("/:type").patch(async (req, res) => {
-	if (!req.session.username) return res.sendStatus(401);
+	if (!req.user) return res.sendStatus(401);
 
 	let answerType = req.params.type;
 
@@ -39,7 +39,7 @@ userRouter.route("/:type").patch(async (req, res) => {
 
 	// try to find user index
 	let userID = usersDB.data.findIndex(
-		(el) => el.username === req.session.auth.username,
+		(el) => el.username === req.user.username,
 	);
 
 	// return if user not found
