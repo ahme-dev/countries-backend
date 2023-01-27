@@ -27,9 +27,10 @@ app.use(
 	session({
 		store: new LowdbStore({ db }),
 		resave: false,
-		saveUninitialized: true,
+		saveUninitialized: false,
 		secret: "keyboard cat",
 		cookie: {
+			sameSite: "none",
 			maxAge: 1000 * 60 * 60 * 24,
 		},
 	}),
