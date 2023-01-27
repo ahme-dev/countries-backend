@@ -11,9 +11,6 @@ import { JSONFile } from "lowdb/node";
 import session from "express-session";
 import lowdbStore from "connect-lowdb";
 
-import passport from "passport";
-import "./routes/authUtils.js";
-
 // create lowdb db and lowdb session store
 const adapter = new JSONFile("data/sessions.json");
 const db = new Low(adapter);
@@ -22,20 +19,18 @@ const LowdbStore = lowdbStore(session);
 // middleware
 
 app.use(
-	// add session middlware using lowdb store
 	session({
 		store: new LowdbStore({ db }),
 		resave: false,
 		saveUninitialized: false,
-		secret: "keyboard cat",
+		secret: "keyboard cat", // import env secret later
 		cookie: {
+			httpOnly: true,
 			sameSite: "none",
+			secure: false, // set to true later
 			maxAge: 1000 * 60 * 60 * 24,
 		},
 	}),
-
-	passport.initialize(),
-	passport.session(),
 
 	json(),
 	cors({

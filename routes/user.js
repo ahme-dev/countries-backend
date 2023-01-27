@@ -12,10 +12,12 @@ const userRouter = Router();
 // routes
 
 userRouter.route("/").get((req, res) => {
-	if (!req.user) return res.sendStatus(401);
+	if (!req.session.username) return res.sendStatus(401);
+
+	console.log(req.session);
 
 	// find user
-	let user = usersDB.data.find((el) => el.username === req.user.username);
+	let user = usersDB.data.find((el) => el.username === req.session.username);
 
 	// return if user not found
 	if (!user) return res.sendStatus(404);
@@ -28,7 +30,7 @@ userRouter.route("/").get((req, res) => {
 });
 
 userRouter.route("/:type").patch(async (req, res) => {
-	if (!req.user) return res.sendStatus(401);
+	if (!req.session.username) return res.sendStatus(401);
 
 	let answerType = req.params.type;
 
@@ -39,7 +41,7 @@ userRouter.route("/:type").patch(async (req, res) => {
 
 	// try to find user index
 	let userID = usersDB.data.findIndex(
-		(el) => el.username === req.user.username,
+		(el) => el.username === req.session.username,
 	);
 
 	// return if user not found
