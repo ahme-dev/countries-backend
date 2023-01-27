@@ -16,10 +16,12 @@ userRouter.route("/").get((req, res) => {
 
 	if (!req.session.username) return res.sendStatus(401);
 
-	console.log("user: will try to fetch data from db");
+	console.log("user: will try to fetch data from db", usersDB.data);
 
 	// find user
 	let user = usersDB.data.find((el) => el.username === req.session.username);
+
+	console.log("user: found this", user);
 
 	// return if user not found
 	if (!user) return res.sendStatus(404);
