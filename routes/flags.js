@@ -12,11 +12,11 @@ const flagsRouter = Router();
 
 // route handlers
 
-flagsRouter.route("/").get(async (req, res) => {
+flagsRouter.route("/").get((req, res) => {
 	res.json(flagsDB.data);
 });
 
-flagsRouter.route("/:id").get(async (req, res) => {
+flagsRouter.route("/:id").get((req, res) => {
 	let id = req.params.id;
 
 	// return if out of length

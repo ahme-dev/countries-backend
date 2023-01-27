@@ -46,11 +46,7 @@ userRouter.route("/:type").patch(async (req, res) => {
 	if (userID === -1) return res.sendStatus(404);
 
 	// return if answer not provided
-	if (!req.body.answer) {
-		return res
-			.status(202)
-			.json({ "Your request body": req.body, "Your request": req });
-	}
+	if (!req.body.answer) return res.sendStatus(400);
 
 	// push answer to users results based on type
 	if (answerType === "flags") {

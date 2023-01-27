@@ -17,7 +17,7 @@ passport.deserializeUser((username, done) => {
 });
 
 passport.use(
-	new LocalStrategy(async (username, password, done) => {
+	new LocalStrategy((username, password, done) => {
 		let user = usersDB.data.find((el) => el.username === username);
 
 		if (!user) return done(null, false);
