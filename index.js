@@ -1,6 +1,5 @@
 import express, { json } from "express";
 import { flagsRouter } from "./routes/flags.js";
-import { loginRouter } from "./routes/login.js";
 import { userRouter } from "./routes/user.js";
 import { authRouter } from "./routes/auth.js";
 import cors from "cors";
@@ -51,7 +50,6 @@ app.use(
 app.use("/flags", flagsRouter);
 app.use("/user", userRouter);
 app.use("/auth", authRouter);
-app.use("/login", loginRouter);
 
 // not found routes
 app.all("*", (req, res) => {
