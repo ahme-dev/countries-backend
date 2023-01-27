@@ -41,6 +41,7 @@ app.use(
 	cors({
 		// to be configured later
 		origin: ["http://localhost:5173", "https://countries.ahmed.systems"],
+		credentials: true,
 	}),
 );
 
