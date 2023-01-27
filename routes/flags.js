@@ -1,10 +1,5 @@
 import { Router } from "express";
-import { Low } from "lowdb";
-import { JSONFile } from "lowdb/node";
-
-// config and read lowdb
-const flagsDB = new Low(new JSONFile("data/flags.json"));
-await flagsDB.read();
+import { flagsDB } from "../db";
 
 // create router
 

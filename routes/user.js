@@ -1,10 +1,5 @@
 import { Router } from "express";
-import { Low } from "lowdb";
-import { JSONFile } from "lowdb/node";
-
-// config and read lowdb
-const usersDB = new Low(new JSONFile("data/users.json"));
-await usersDB.read();
+import { usersDB } from "../db";
 
 // create router
 const userRouter = Router();
