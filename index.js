@@ -38,7 +38,10 @@ app.use(
 	passport.session(),
 
 	json(),
-	cors(), // to be configured later
+	cors({
+		// to be configured later
+		origin: ["http://localhost:5173", "https://countries.ahmed.systems"],
+	}),
 );
 
 // routers
