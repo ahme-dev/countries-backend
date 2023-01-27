@@ -48,7 +48,7 @@ userRouter.route("/:type").patch(async (req, res) => {
 	// return if answer not provided
 	if (!req.body.answer) {
 		return res
-			.status(500)
+			.status(202)
 			.json({ "Your request body": req.body, "Your request": req });
 	}
 
