@@ -9,19 +9,19 @@ await usersDB.read();
 export const authRouter = Router();
 
 authRouter.post("/login", (req, res) => {
-	console.log("request", req);
+	console.log("login: request body", req.body);
 	// if no username and password provided return bad request
 	if (!req.body.username || !req.body.password) return res.sendStatus(400);
 
 	// try to find user
 	let user = usersDB.data.find((el) => el.username === req.body.username);
 
-	console.log("before finding user");
+	console.log("login: before finding user");
 
 	// if user not found return not found
 	if (!user) return res.sendStatus(404);
 
-	console.log("before checking password");
+	console.log("login: before checking password");
 
 	// if password is wrong return not found
 	if (user.password !== req.body.password) return res.sendStatus(404);
@@ -33,14 +33,14 @@ authRouter.post("/login", (req, res) => {
 });
 
 authRouter.post("/register", async (req, res) => {
-	console.log("request", req);
+	console.log("register: request body", req.body);
 	// if no username and password provided return bad request
 	if (!req.body.username || !req.body.password) return res.sendStatus(400);
 
 	// try to find user with same username
 	let user = usersDB.data.find((el) => el.username === req.body.username);
 
-	console.log("before finding user. List is", usersDB.data);
+	console.log("register: before finding user. List is", usersDB.data);
 
 	// if user found return bad request
 	if (user) return res.sendStatus(400);
