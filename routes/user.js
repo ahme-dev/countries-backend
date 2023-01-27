@@ -12,7 +12,11 @@ const userRouter = Router();
 // routes
 
 userRouter.route("/").get((req, res) => {
+	console.log("user: start request session is", req.session, req.sessionID);
+
 	if (!req.session.username) return res.sendStatus(401);
+
+	console.log("user: will try to fetch data from db");
 
 	// find user
 	let user = usersDB.data.find((el) => el.username === req.session.username);
@@ -23,6 +27,8 @@ userRouter.route("/").get((req, res) => {
 	// make clone without password
 	let userWithoutPass = JSON.parse(JSON.stringify(user));
 	delete userWithoutPass.password;
+
+	console.log("user: done and data returned");
 
 	res.json(userWithoutPass);
 });
