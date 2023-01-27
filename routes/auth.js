@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { usersDB } from "../db";
+import { usersDB } from "../db.js";
 
 export const authRouter = Router();
 

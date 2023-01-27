@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { flagsDB } from "../db";
+import { flagsDB } from "../db.js";
 
 // create router
 
