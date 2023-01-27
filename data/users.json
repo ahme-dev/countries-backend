@@ -1,16 +1,2 @@
 [
-  {
-    "username": "ahmed",
-    "password": "yes",
-    "flags": {
-      "index": 1,
-      "answers": [
-        {}
-      ]
-    },
-    "capitals": {
-      "index": 0,
-      "answers": []
-    }
-  }
 ]
