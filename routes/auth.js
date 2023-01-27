@@ -10,7 +10,7 @@ export const authRouter = Router();
 
 authRouter.post("/login", (req, res) => {
 	// if no username and password provided return bad request
-	if (!req.body.username || req.body.password) return res.sendStatus(400);
+	if (!req.body.username || !req.body.password) return res.sendStatus(400);
 
 	// try to find user
 	let user = usersDB.data.find((el) => el.username === req.body.username);
@@ -29,7 +29,7 @@ authRouter.post("/login", (req, res) => {
 
 authRouter.post("/register", async (req, res) => {
 	// if no username and password provided return bad request
-	if (!req.body.username || req.body.password) return res.sendStatus(400);
+	if (!req.body.username || !req.body.password) return res.sendStatus(400);
 
 	// try to find user with same username
 	let user = usersDB.data.find((el) => el.username === req.body.username);
