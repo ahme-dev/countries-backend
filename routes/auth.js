@@ -4,7 +4,7 @@ import bcrypt from "bcrypt";
 
 export const authRouter = Router();
 
-authRouter.post("/login", (req, res) => {
+authRouter.post("/login", async (req, res) => {
 	console.log("login: start request body", req.body);
 
 	// if no username and password provided return bad request
@@ -17,7 +17,7 @@ authRouter.post("/login", (req, res) => {
 	// if user not found return not found
 	if (!user) return res.sendStatus(404);
 
-	let bodyPasswordHash = bcrypt.hash(req.body.password, 10);
+	let bodyPasswordHash = await bcrypt.hash(req.body.password, 10);
 
 	console.log(
 		"login: will try to compare passwords",
@@ -51,7 +51,7 @@ authRouter.post("/register", async (req, res) => {
 
 	console.log("register: good, no other user by that name");
 
-	let bodyPasswordHash = bcrypt.hash(req.body.password, 10);
+	let bodyPasswordHash = await bcrypt.hash(req.body.password, 10);
 
 	// create new user from provided values
 	let newUser = {
