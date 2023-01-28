@@ -73,3 +73,12 @@ authRouter.post("/register", async (req, res) => {
 
 	return res.sendStatus(200);
 });
+
+authRouter.post("/logout", async (req, res) => {
+	if (!req.session.username) return res.sendStatus(401);
+
+	// delete session
+	req.session.destroy();
+
+	return res.sendStatus(200);
+});
