@@ -17,16 +17,12 @@ authRouter.post("/login", async (req, res) => {
 	// if user not found return not found
 	if (!user) return res.sendStatus(404);
 
-	let bodyPasswordHash = await bcrypt.hash(req.body.password, 10);
+	let reqHash = await bcrypt.hash(req.body.password, user.salt);
 
-	console.log(
-		"login: will try to compare passwords",
-		user.hash,
-		bodyPasswordHash,
-	);
+	console.log("login: will try to compare passwords", user.hash, reqHash);
 
 	// if password is wrong return not found
-	if (user.hash !== bodyPasswordHash) return res.sendStatus(404);
+	if (user.hash !== reqHash) return res.sendStatus(404);
 
 	// otherwise save username in session
 	req.session.username = user.username;
@@ -51,12 +47,14 @@ authRouter.post("/register", async (req, res) => {
 
 	console.log("register: good, no other user by that name");
 
-	let bodyPasswordHash = await bcrypt.hash(req.body.password, 10);
+	let reqSalt = await bcrypt.genSalt(10);
+	let reqHash = await bcrypt.hash(req.body.password, reqSalt);
 
 	// create new user from provided values
 	let newUser = {
 		username: req.body.username,
-		hash: bodyPasswordHash,
+		hash: reqHash,
+		salt: reqSalt,
 		flags: {
 			index: 0,
 			answers: [],
