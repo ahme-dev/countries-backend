@@ -1,5 +1,6 @@
 import { Router } from "express";
 import { usersDB } from "../db.js";
+import bcrypt from "bcrypt";
 
 export const authRouter = Router();
 
@@ -18,12 +19,14 @@ authRouter.post("/login", (req, res) => {
 
 	console.log(
 		"login: will try to compare passwords",
-		user.password,
+		user.hash,
 		req.body.password,
 	);
 
+	let bodyPasswordHash = bcrypt.hash(req.body.password, 10);
+
 	// if password is wrong return not found
-	if (user.password !== req.body.password) return res.sendStatus(404);
+	if (user.hash !== bodyPasswordHash) return res.sendStatus(404);
 
 	// otherwise save username in session
 	req.session.username = user.username;
@@ -48,10 +51,12 @@ authRouter.post("/register", async (req, res) => {
 
 	console.log("register: good, no other user by that name");
 
+	let bodyPasswordHash = bcrypt.hash(req.body.password, 10);
+
 	// create new user from provided values
 	let newUser = {
 		username: req.body.username,
-		password: req.body.password,
+		hash: bodyPasswordHash,
 		flags: {
 			index: 0,
 			answers: [],
