@@ -1,3 +1,7 @@
+// add env variables
+import dotenv from "dotenv";
+dotenv.config()
+
 import express, { json } from "express";
 import { flagsRouter } from "./routes/flags.js";
 import { userRouter } from "./routes/user.js";
@@ -18,12 +22,14 @@ const LowdbStore = lowdbStore(session);
 
 // middleware
 
+console.log(process.env);
+
 app.use(
 	session({
 		store: new LowdbStore({ db }),
 		resave: false,
 		saveUninitialized: false,
-		secret: "keyboard cat", // import env secret later
+		secret: process.env.EXPRESS_SESSION_SECRET,
 		cookie: {
 			httpOnly: true,
 			sameSite: "none",
