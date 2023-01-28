@@ -17,13 +17,13 @@ authRouter.post("/login", (req, res) => {
 	// if user not found return not found
 	if (!user) return res.sendStatus(404);
 
+	let bodyPasswordHash = bcrypt.hash(req.body.password, 10);
+
 	console.log(
 		"login: will try to compare passwords",
 		user.hash,
-		req.body.password,
+		bodyPasswordHash,
 	);
-
-	let bodyPasswordHash = bcrypt.hash(req.body.password, 10);
 
 	// if password is wrong return not found
 	if (user.hash !== bodyPasswordHash) return res.sendStatus(404);
