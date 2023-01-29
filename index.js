@@ -1,6 +1,6 @@
 // add env variables
 import dotenv from "dotenv";
-dotenv.config()
+dotenv.config();
 
 import express, { json } from "express";
 import { flagsRouter } from "./routes/flags.js";
@@ -21,8 +21,6 @@ const db = new Low(adapter);
 const LowdbStore = lowdbStore(session);
 
 // middleware
-
-console.log(process.env);
 
 app.use(
 	session({

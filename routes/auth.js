@@ -71,6 +71,9 @@ authRouter.post("/register", async (req, res) => {
 
 	console.log("register: done and written to db");
 
+	// save username in session
+	req.session.username = newUser.username;
+
 	return res.sendStatus(200);
 });
 
