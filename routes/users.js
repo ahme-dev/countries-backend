@@ -2,11 +2,24 @@ import { Router } from "express";
 import { usersDB } from "../db.js";
 
 // create router
-const userRouter = Router();
+const usersRouter = Router();
 
 // routes
 
-userRouter.route("/").get((req, res) => {
+usersRouter.route("/").get((req, res) => {
+	let usersClone = JSON.parse(JSON.stringify(usersDB.data));
+
+	// remove hash and salt from user data
+	usersClone.map((el) => {
+		delete el.salt;
+		delete el.hash;
+		return el;
+	});
+
+	return res.json(usersClone);
+});
+
+usersRouter.route("/me").get((req, res) => {
 	console.log("user: start request session is", req.session, req.sessionID);
 
 	if (!req.session.username) return res.sendStatus(401);
@@ -27,10 +40,10 @@ userRouter.route("/").get((req, res) => {
 
 	console.log("user: done and data returned");
 
-	res.json(userWithoutPass);
+	return res.json(userWithoutPass);
 });
 
-userRouter.route("/:type").patch(async (req, res) => {
+usersRouter.route("/me/:type").patch(async (req, res) => {
 	if (!req.session.username) return res.sendStatus(401);
 
 	let answerType = req.params.type;
@@ -40,6 +53,9 @@ userRouter.route("/:type").patch(async (req, res) => {
 		return res.sendStatus(404);
 	}
 
+	// return if answer not provided
+	if (!req.body.answer) return res.sendStatus(400);
+
 	// try to find user index
 	let userID = usersDB.data.findIndex(
 		(el) => el.username === req.session.username,
@@ -47,9 +63,6 @@ userRouter.route("/:type").patch(async (req, res) => {
 
 	// return if user not found
 	if (userID === -1) return res.sendStatus(404);
-
-	// return if answer not provided
-	if (!req.body.answer) return res.sendStatus(400);
 
 	// push answer to users results based on type
 	if (answerType === "flags") {
@@ -67,4 +80,4 @@ userRouter.route("/:type").patch(async (req, res) => {
 	res.sendStatus(202);
 });
 
-export { userRouter };
+export { usersRouter };

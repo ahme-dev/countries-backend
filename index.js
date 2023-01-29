@@ -4,7 +4,7 @@ dotenv.config();
 
 import express, { json } from "express";
 import { flagsRouter } from "./routes/flags.js";
-import { userRouter } from "./routes/user.js";
+import { usersRouter } from "./routes/users.js";
 import { authRouter } from "./routes/auth.js";
 import cors from "cors";
 const app = express();
@@ -48,7 +48,7 @@ app.use(
 // routers
 
 app.use("/flags", flagsRouter);
-app.use("/user", userRouter);
+app.use("/users", usersRouter);
 app.use("/auth", authRouter);
 
 // not found routes
