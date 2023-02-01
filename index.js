@@ -7,6 +7,7 @@ import { flagsRouter } from "./routes/flags.js";
 import { usersRouter } from "./routes/users.js";
 import { authRouter } from "./routes/auth.js";
 import cors from "cors";
+import helmet from "helmet";
 const app = express();
 
 // import session related packages
@@ -23,6 +24,8 @@ const LowdbStore = lowdbStore(session);
 // middleware
 
 app.use(
+	helmet(),
+
 	session({
 		store: new LowdbStore({ db }),
 		resave: false,
