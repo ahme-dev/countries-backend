@@ -14,10 +14,10 @@ flagsRouter.route("/").get((req, res) => {
 flagsRouter.route("/:id").get((req, res) => {
 	let id = req.params.id;
 
-	// return if out of length
+	// if out of length return
 	if (id > 520) return res.sendStatus(404);
 
-	// return question if no answer is given
+	// if no answer is given return question
 	if (!req.query.answer) {
 		let question = flagsDB.data[id];
 		let questionClone = JSON.parse(JSON.stringify(question));

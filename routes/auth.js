@@ -5,7 +5,7 @@ import bcrypt from "bcrypt";
 export const authRouter = Router();
 
 authRouter.post("/login", async (req, res) => {
-	// if no username and password provided return bad request
+	// if no username and password provided return
 	if (!req.body.username || !req.body.password) {
 		return res
 			.status(400)
@@ -15,13 +15,13 @@ authRouter.post("/login", async (req, res) => {
 	// try to find user
 	let user = usersDB.data.find((el) => el.username === req.body.username);
 
-	// if user not found return not found
+	// if user not found return
 	if (!user)
 		return res.status(404).json({ message: `Username does not exist.` });
 
 	let reqHash = await bcrypt.hash(req.body.password, user.salt);
 
-	// if password is wrong return not found
+	// if password is wrong return
 	if (user.hash !== reqHash)
 		return res.status(404).json({
 			message: "Password is incorrect.",
@@ -34,7 +34,7 @@ authRouter.post("/login", async (req, res) => {
 });
 
 authRouter.post("/register", async (req, res) => {
-	// if no username and password provided return bad request
+	// if no username and password provided return
 	if (!req.body.username || !req.body.password) {
 		return res
 			.status(400)
@@ -44,7 +44,7 @@ authRouter.post("/register", async (req, res) => {
 	// try to find user with same username
 	let user = usersDB.data.find((el) => el.username === req.body.username);
 
-	// if user found return bad request
+	// if user found return
 	if (user) return res.status(401).json({ message: `Username is reserved.` });
 
 	let reqSalt = await bcrypt.genSalt(10);

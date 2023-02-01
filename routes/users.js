@@ -20,25 +20,15 @@ usersRouter.route("/").get((req, res) => {
 });
 
 usersRouter.route("/me").get((req, res) => {
-	console.log("user: start request session is", req.session, req.sessionID);
-
-	if (!req.session.username) return res.sendStatus(401);
-
-	console.log("user: will try to fetch data from db", usersDB.data);
+	if (!req.session.username)
+		return res.status(401).json({ message: "Not logged in." });
 
 	// find user
 	let user = usersDB.data.find((el) => el.username === req.session.username);
 
-	console.log("user: found this", user);
-
-	// return if user not found
-	if (!user) return res.sendStatus(404);
-
 	// make clone without password
 	let userWithoutPass = JSON.parse(JSON.stringify(user));
 	delete userWithoutPass.password;
-
-	console.log("user: done and data returned");
 
 	return res.json(userWithoutPass);
 });
@@ -49,7 +39,7 @@ usersRouter.route("/me/:type").patch(async (req, res) => {
 
 	let answerType = req.params.type;
 
-	// return if not on either route
+	// if not on either route return
 	if (answerType !== "flags" && answerType !== "capitals") {
 		return res.sendStatus(404);
 	}
