@@ -44,7 +44,8 @@ usersRouter.route("/me").get((req, res) => {
 });
 
 usersRouter.route("/me/:type").patch(async (req, res) => {
-	if (!req.session.username) return res.sendStatus(401);
+	if (!req.session.username)
+		return res.status(401).json({ message: "Not logged in." });
 
 	let answerType = req.params.type;
 
@@ -54,30 +55,22 @@ usersRouter.route("/me/:type").patch(async (req, res) => {
 	}
 
 	// return if answer not provided
-	if (!req.body.answer) return res.sendStatus(400);
+	if (!req.body.answer)
+		return res.send(400).json({ message: "Provide an answer object." });
 
-	// try to find user index
+	// find user index
 	let userID = usersDB.data.findIndex(
 		(el) => el.username === req.session.username,
 	);
 
-	// return if user not found
-	if (userID === -1) return res.sendStatus(404);
-
 	// push answer to users results based on type
-	if (answerType === "flags") {
-		usersDB.data[userID].flags.answers.push(req.body.answer);
-		usersDB.data[userID].flags.index += 1;
-	}
-	if (answerType === "capitals") {
-		usersDB.data[userID].capitals.answers.push(req.body.answer);
-		usersDB.data[userID].capitals.index += 1;
-	}
+	usersDB.data[userID][answerType].answers.push(req.body.answer);
+	usersDB.data[userID][answerType].index += 1;
 
 	// increase user index
 	await usersDB.write();
 
-	res.sendStatus(202);
+	res.status(202).json({ message: "Answer was added." });
 });
 
 export { usersRouter };

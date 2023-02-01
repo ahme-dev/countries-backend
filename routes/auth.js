@@ -5,47 +5,47 @@ import bcrypt from "bcrypt";
 export const authRouter = Router();
 
 authRouter.post("/login", async (req, res) => {
-	console.log("login: start request body", req.body);
-
 	// if no username and password provided return bad request
-	if (!req.body.username || !req.body.password) return res.sendStatus(400);
-
-	console.log("login: will try to find user in", usersDB.data);
+	if (!req.body.username || !req.body.password) {
+		return res
+			.status(400)
+			.json({ message: "Provide a username and a password." });
+	}
 
 	// try to find user
 	let user = usersDB.data.find((el) => el.username === req.body.username);
+
 	// if user not found return not found
-	if (!user) return res.sendStatus(404);
+	if (!user)
+		return res.status(404).json({ message: `Username does not exist.` });
 
 	let reqHash = await bcrypt.hash(req.body.password, user.salt);
 
-	console.log("login: will try to compare passwords", user.hash, reqHash);
-
 	// if password is wrong return not found
-	if (user.hash !== reqHash) return res.sendStatus(404);
+	if (user.hash !== reqHash)
+		return res.status(404).json({
+			message: "Password is incorrect.",
+		});
 
 	// otherwise save username in session
 	req.session.username = user.username;
 
-	console.log("login: done and session added");
-
-	return res.sendStatus(200);
+	return res.status(200).json({ message: `Logged in as ${user.username}.` });
 });
 
 authRouter.post("/register", async (req, res) => {
-	console.log("register: start request body", req.body);
-
 	// if no username and password provided return bad request
-	if (!req.body.username || !req.body.password) return res.sendStatus(400);
-
-	console.log("register: will try to find user in", usersDB.data);
+	if (!req.body.username || !req.body.password) {
+		return res
+			.status(400)
+			.json({ message: "Please provide a username and a password." });
+	}
 
 	// try to find user with same username
 	let user = usersDB.data.find((el) => el.username === req.body.username);
-	// if user found return bad request
-	if (user) return res.sendStatus(400);
 
-	console.log("register: good, no other user by that name");
+	// if user found return bad request
+	if (!user) return res.status(401).json({ message: `Username is reserved.` });
 
 	let reqSalt = await bcrypt.genSalt(10);
 	let reqHash = await bcrypt.hash(req.body.password, reqSalt);
@@ -69,8 +69,6 @@ authRouter.post("/register", async (req, res) => {
 	usersDB.data.push(newUser);
 	await usersDB.write();
 
-	console.log("register: done and written to db");
-
 	// save username in session
 	req.session.username = newUser.username;
 
@@ -78,7 +76,8 @@ authRouter.post("/register", async (req, res) => {
 });
 
 authRouter.post("/logout", (req, res) => {
-	if (!req.session.username) return res.sendStatus(401);
+	if (!req.session.username)
+		return res.status(401).json({ message: "Not logged in." });
 
 	// delete session
 	req.session.destroy();
