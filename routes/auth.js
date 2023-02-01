@@ -45,7 +45,7 @@ authRouter.post("/register", async (req, res) => {
 	let user = usersDB.data.find((el) => el.username === req.body.username);
 
 	// if user found return bad request
-	if (!user) return res.status(401).json({ message: `Username is reserved.` });
+	if (user) return res.status(401).json({ message: `Username is reserved.` });
 
 	let reqSalt = await bcrypt.genSalt(10);
 	let reqHash = await bcrypt.hash(req.body.password, reqSalt);
