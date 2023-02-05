@@ -1,5 +1,6 @@
 import { Router } from "express";
 import { usersDB } from "../db.js";
+import { requireAuth } from "../middleware/requireAuth.js";
 
 // create router
 const usersRouter = Router();
@@ -19,24 +20,21 @@ usersRouter.route("/").get((req, res) => {
 	return res.json(usersClone);
 });
 
-usersRouter.route("/me").get((req, res) => {
-	if (!req.session.username)
-		return res.status(401).json({ message: "Not logged in." });
-
+usersRouter.route("/me").get(requireAuth, (req, res) => {
 	// find user
 	let user = usersDB.data.find((el) => el.username === req.session.username);
 
-	// make clone without password
-	let userWithoutPass = JSON.parse(JSON.stringify(user));
-	delete userWithoutPass.password;
+	// make user clone
+	let userClone = JSON.parse(JSON.stringify(user));
 
-	return res.json(userWithoutPass);
+	// remove salt and hash
+	delete userClone.salt;
+	delete userClone.hash;
+
+	return res.json(userClone);
 });
 
-usersRouter.route("/me/:type").patch(async (req, res) => {
-	if (!req.session.username)
-		return res.status(401).json({ message: "Not logged in." });
-
+usersRouter.route("/me/:type").patch(requireAuth, async (req, res) => {
 	let answerType = req.params.type;
 
 	// if not on either route return

@@ -1,6 +1,7 @@
 import { Router } from "express";
 import { usersDB } from "../db.js";
 import bcrypt from "bcrypt";
+import { requireAuth } from "../middleware/requireAuth.js";
 
 export const authRouter = Router();
 
@@ -75,10 +76,7 @@ authRouter.post("/register", async (req, res) => {
 	return res.sendStatus(200);
 });
 
-authRouter.post("/logout", (req, res) => {
-	if (!req.session.username)
-		return res.status(401).json({ message: "Not logged in." });
-
+authRouter.post("/logout", requireAuth, (req, res) => {
 	// delete session
 	req.session.destroy();
 

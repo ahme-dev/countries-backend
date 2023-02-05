@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "username": "ahmed",
+    "hash": "$2b$10$8KzQcr2lgNrd/woN1Oms3eT5H2SVlQiHgZFGX50LNSSNBJuZPkT.K",
+    "salt": "$2b$10$8KzQcr2lgNrd/woN1Oms3e",
+    "flags": {
+      "index": 0,
+      "answers": []
+    },
+    "capitals": {
+      "index": 0,
+      "answers": []
+    }
+  }
+]

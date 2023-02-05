@@ -1,1 +1,17 @@
-{}
+{
+  "sessions": [
+    {
+      "sid": "pRgJNGDRD1A74pBaOTNpe9RIDRZZUC_f",
+      "session": {
+        "cookie": {
+          "originalMaxAge": 259200000,
+          "expires": "2023-02-08T13:53:45.082Z",
+          "httpOnly": true,
+          "path": "/",
+          "sameSite": "none"
+        },
+        "username": "ahmed"
+      }
+    }
+  ]
+}
